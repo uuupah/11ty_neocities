@@ -1,0 +1,144 @@
+/* Global variables. */
+:root {
+  /* Set sans-serif & mono fonts */
+  --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
+    "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
+    "Helvetica Neue", sans-serif;
+  --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
+
+  /* Default (light) theme */
+  --bg: #fff;
+  --accent-bg: #f5f7ff;
+  --text: #333;
+  --text-light: #585858;
+  --border: #d8dae1;
+  --accent: #0d47a1;
+}
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #212121;
+    --accent-bg: #2b2b2b;
+    --text: #dcdcdc;
+    --text-light: #ababab;
+    --border: #666;
+    --accent: #ffb300;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  /* Set the font globally */
+  font-family: var(--sans-font);
+  scroll-behavior: smooth;
+}
+
+/* Make the body a nice central block */
+body {
+  color: var(--text);
+  background: var(--bg);
+  font-size: 1.15rem;
+  line-height: 1.5;
+  margin: 0 auto;
+  max-width: 40em;
+  padding: 0 1em;
+}
+
+body > header {
+  text-align: center;
+  padding: 0 0.5rem 2rem 0.5rem;
+  box-sizing: border-box;
+}
+
+body > header h1 {
+  max-width: 100%;
+  margin: 1rem auto;
+}
+
+/* Format navigation */
+nav {
+  border-bottom: 1px solid var(--border);
+  font-size: 1rem;
+  line-height: 2;
+  padding: 1rem 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  padding-bottom: 2rem;
+}
+
+nav a {
+  margin: 1rem 1rem 0 0;
+  color: var(--text) !important;
+  padding: 0.1rem 1rem;
+}
+
+nav a:hover {
+  color: var(--accent) !important;
+}
+
+nav a:last-child {
+  margin-right: 0;
+}
+
+/* Reduce nav side on mobile */
+@media only screen and (max-width: 750px) {
+  nav a {
+    border: none;
+    padding: 0;
+    color: var(--accent);
+    text-decoration: underline;
+    line-height: 1;
+  }
+}
+
+/* Add a little padding to ensure spacing is correct between content and nav */
+main {
+  padding-top: 1.5rem;
+}
+
+body > footer {
+  margin-top: 4rem;
+  padding: 2rem 1rem 1.5rem 1rem;
+  color: var(--text-light);
+  font-size: 0.9rem;
+  text-align: center;
+  border-top: 1px solid var(--border);
+}
+
+/* Format headers */
+
+h1 {
+  font-size: 3rem;
+}
+
+h2 {
+  font-size: 2.6rem;
+  margin-top: 3rem;
+}
+
+/* Reduce header size on mobile */
+@media only screen and (max-width: 720px) {
+  h1 {
+    font-size: 2.5rem;
+  }
+
+  h2 {
+    font-size: 2.1rem;
+  }
+}
+
+/* Format links */
+a,
+a:visited {
+  color: var(--accent);
+}
+
+a:hover {
+  text-decoration: none;
+}

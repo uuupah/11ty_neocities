@@ -1,0 +1,15 @@
+---
+title: This Is My Blog
+layout: layout/base.njk
+---
+
+These are all of my amazing blog posts, enjoy!
+<ul>
+  {% for post in collections.blog | reverse %}
+  <li>
+    <a href="{{ post.data.page.fileSlug }}">{{ post.data.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+
+<!-- post.data contents are at https://github.com/11ty/eleventy/discussions/2284 -->
