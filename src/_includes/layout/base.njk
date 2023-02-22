@@ -4,7 +4,16 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="/css/styles.css" />
-    <title>{{ title }}</title>
+    {% if title %}
+      <title>{{ site.title }} - {{ title }}</title>
+    {% else %}
+      <title>{{ site.title }}</title>
+    {% endif %}
+    {% if description %}
+      <meta name="description" content="{{ description }}">
+    {% else %}
+      <meta name="description" content="{{ site.description }}">
+    {% endif %}
   </head>
   <body>
     <header>{% include 'partials/header.njk' %}</header>
@@ -16,3 +25,4 @@
     <footer>{% include 'partials/footer.njk' %}</footer>
   </body>
 </html>
+
