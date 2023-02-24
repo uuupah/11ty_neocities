@@ -62,12 +62,14 @@ body {
   background: var(--bg);
   background-image: url("/img/l_ash02_big.jpg");
   background-size: cover;
+  background-attachment: fixed;
   line-height: 1.3;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
   gap: 20px;
   margin: 20px;
+  height: 100%;
   /* padding: 0 1em; */
   /* font-size: 1.15rem; */
   /* align-items: flex-start; */
