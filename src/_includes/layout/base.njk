@@ -18,10 +18,12 @@
   <body>
     <main>
       <header>{% include 'partials/header.njk' %}</header>
+      <hr/>
       <article>
           <h1>{{ title }}</h1>
           {{ content | safe }}
       </article>
+      <hr/>
       <footer>{% include 'partials/footer.njk' %}</footer>
     </main>
     <aside>{% include 'partials/sidebar.njk' %}</aside>

@@ -53,6 +53,10 @@ a:hover {
   text-decoration: none;
 }
 
+hr {
+  border: 1px solid var(--border);
+}
+
 body {
   color: var(--text);
   background: var(--bg);
@@ -80,11 +84,6 @@ main {
   box-sizing: border-box;
 }
 
-@media all and (max-width: 1000px) {
-  body {
-    flex-direction: column-reverse;
-  }
-}
 
 aside {
   position: sticky;
@@ -115,6 +114,36 @@ aside {
   width: 100%;
   top: -50px;
   position: relative;
+}
+
+@media all and (max-width: 1100px) {
+  body {
+    flex-direction: column-reverse;
+    max-width: 100%;
+    /* this is a pretty bad solution */
+    margin: -20px 20px 20px;
+  }
+
+  main {
+    max-width: 100%;
+  }
+
+  aside {
+    position: relative;
+  }
+
+  /* nav {
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+  } */
+
+  .sidebar-contents {
+    /* padding: 15px; */
+    margin: 0 0 -25px 0;
+    /* width: min-content; */
+  }
+
 }
 
 /* body > footer {
