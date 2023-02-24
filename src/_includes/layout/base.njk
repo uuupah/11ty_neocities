@@ -16,13 +16,19 @@
     {% endif %}
   </head>
   <body>
-    <header>{% include 'partials/header.njk' %}</header>
-    <nav>{% include 'partials/navigation.njk' %}</nav>
     <main>
-      <h1>{{ title }}</h1>
-      {{ content | safe }}
+      <header>{% include 'partials/header.njk' %}
+        <nav>{% include 'partials/navigation.njk' %}</nav>
+      </header>
+      <article>
+          <h1>{{ title }}</h1>
+          {{ content | safe }}
+      </article>
+      <footer>{% include 'partials/footer.njk' %}</footer>
     </main>
-    <footer>{% include 'partials/footer.njk' %}</footer>
+    <div class="aside">{% include 'partials/sidebar.njk' %}</div>
+    </div>
+    </div>
   </body>
 </html>
 

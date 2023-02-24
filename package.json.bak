@@ -4,6 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    // "watch:eleventy": "eleventy --serve",
+    // "build:eleventy": "eleventy",
+    // "watch:sass": "sass --watch src/_assets/sass:public/css --style compressed",
+    // "build:sass": "sass src/_assets/sass:public/css --style compressed",
+    // "start": "npm-run-all build:sass --parallel watch:*",
+    // "build": "npm-run-all build:*"
     "start": "eleventy --serve",
     "build": "eleventy"
   },
