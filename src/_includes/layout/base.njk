@@ -17,16 +17,14 @@
   </head>
   <body>
     <main>
-      <header>{% include 'partials/header.njk' %}
-        <nav>{% include 'partials/navigation.njk' %}</nav>
-      </header>
+      <header>{% include 'partials/header.njk' %}</header>
       <article>
           <h1>{{ title }}</h1>
           {{ content | safe }}
       </article>
       <footer>{% include 'partials/footer.njk' %}</footer>
     </main>
-    <div class="aside">{% include 'partials/sidebar.njk' %}</div>
+    <aside>{% include 'partials/sidebar.njk' %}</aside>
     </div>
     </div>
   </body>
