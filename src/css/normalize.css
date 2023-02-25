@@ -192,12 +192,12 @@ select { /* 1 */
  * Correct the inability to style clickable types in iOS and Safari.
  */
 
-button,
+/* button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
   -webkit-appearance: button;
-}
+} */
 
 /**
  * Remove the inner border and padding in Firefox.
@@ -288,7 +288,7 @@ textarea {
  */
 
 [type="search"] {
-  -webkit-appearance: textfield; /* 1 */
+  /* -webkit-appearance: textfield; 1 */
   outline-offset: -2px; /* 2 */
 }
 
@@ -296,9 +296,9 @@ textarea {
  * Remove the inner padding in Chrome and Safari on macOS.
  */
 
-[type="search"]::-webkit-search-decoration {
+/* [type="search"]::-webkit-search-decoration {
   -webkit-appearance: none;
-}
+} */
 
 /**
  * 1. Correct the inability to style clickable types in iOS and Safari.
@@ -306,7 +306,7 @@ textarea {
  */
 
 ::-webkit-file-upload-button {
-  -webkit-appearance: button; /* 1 */
+  /* -webkit-appearance: button; 1 */
   font: inherit; /* 2 */
 }
 
