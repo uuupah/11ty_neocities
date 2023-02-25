@@ -1,5 +1,5 @@
 ---
-title: Links
+title: links
 layout: layout/base.njk
 ---
 

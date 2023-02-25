@@ -1,5 +1,4 @@
 ---
-title: uuu
 layout: layout/base.njk
 comment: created with help from https://flamedfury.com/guides/11ty-homepage-neocities/
 ---

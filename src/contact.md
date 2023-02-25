@@ -1,5 +1,5 @@
 ---
-title: Contact Me
+title: contact
 layout: layout/base.njk
 ---
 

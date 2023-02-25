@@ -1,5 +1,5 @@
 ---
-title: This Is My Blog
+title: blog
 layout: layout/base.njk
 ---
 
