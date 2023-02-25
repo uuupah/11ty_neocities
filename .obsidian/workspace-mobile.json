@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "f45285394366f935",
+    "type": "split",
+    "children": [
+      {
+        "id": "03f48111051ba3da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "242bf1eef11dbc2e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f836e3d09002d5e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b9c2185e70c765ab",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "159dee71922b0c74",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cd1e99b293bdc6a9",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "1e2216a2457faf7d",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "b4231f18895d3c3c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "3affaf09651d6c21",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "70c60d8a71edc95d",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b453b6c0ee402d43",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "242bf1eef11dbc2e",
+  "lastOpenFiles": [
+    "node_modules/hamljs/test/unit/spec.helper.js",
+    "node_modules/has-proto/package.json",
+    "node_modules/neo-async/transformLimit.js",
+    "node_modules/resolve/test/resolver/symlinked/package/package.json",
+    "node_modules/bootstrap/scss/helpers/_stacks.scss",
+    "node_modules/markdown-it/lib/common/utils.js",
+    "node_modules/normalize-package-data/lib/normalize.js",
+    "node_modules/es-abstract/2018/IteratorValue.js",
+    "node_modules/semver/preload.js",
+    "node_modules/es-abstract/2017/OrdinaryDefineOwnProperty.js",
+    "node_modules/once/package.json",
+    "node_modules/path-type/node_modules/pify/readme.md",
+    "node_modules/gopd/CHANGELOG.md",
+    "node_modules/luxon/LICENSE.md",
+    "node_modules/has/README.md",
+    "node_modules/@babel/helper-string-parser/README.md",
+    "node_modules/pug-filters/CHANGELOG.md",
+    "node_modules/es-abstract/README.md",
+    "node_modules/moo/README.md",
+    "src/img/l_ash02_big.jpg",
+    "node_modules/uglify-js/README.md",
+    "node_modules/esprima/README.md",
+    "node_modules/promise-each/README.md",
+    "node_modules/glob/README.md",
+    "node_modules/hamljs/Readme.md",
+    "node_modules/has-tostringtag/CHANGELOG.md",
+    "node_modules/npm-run-all/node_modules/cross-spawn/README.md",
+    "node_modules/which-typed-array/CHANGELOG.md",
+    "node_modules/js-yaml/README.md",
+    "node_modules/object.assign/README.md",
+    "node_modules/path-key/readme.md",
+    "node_modules/strip-bom/readme.md",
+    "node_modules/htmlparser2/README.md",
+    "node_modules/memorystream/README.md",
+    "node_modules/npm-run-all/docs/run-p.md",
+    "node_modules/list-to-array/README.md",
+    "node_modules/is-decimal/readme.md",
+    "public/img/cropped.png",
+    "public/img/l_ash02_big.jpg",
+    "src/img/cropped.png"
+  ]
+}
