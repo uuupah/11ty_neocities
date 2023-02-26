@@ -1,19 +1,20 @@
 ---
 layout: layout/base.njk
-comment: created with help from https://flamedfury.com/guides/11ty-homepage-neocities/
 ---
 
-Check out your cool new static site built with
-  [11ty](https://11ty.dev) on
-  [Neocities](https://neocities.org/).
+### selamat pagi
 
-if the test worked, this text should be displaying on the live website
+welcome to my site! my name is uuupah. i've always been fascinated by the tiny private corners of the internet where people can freely compile their thoughts, hobbies, reviews and other random collections that they think netizens might find interesting. my growing frustration with the limitations of social media for real human communication and the lucky discovery of neocities has led me to this point, writing an honestly generic, but nonetheless necessary introduction page. it feels a little trite, but it's a tried and true formula.
 
-This homepage template is perfect for:
+### a little about me
 
- - Creating your own space on the web
- - Expressing yourself
- - Displaying all the gifs you've collected
+- i live in australia
+- i am non-binary
+- i was born in 1995
+- i work as .NET developer, writing soulless financial reporting software
+- i have a big interest in more abstract and experimental music genres
+- i build mechanical keyboards and do figure drawing in my spare time
 
-### Why do you want a homepage?
-The web was made for personal homepages, make this one yours
+### this site
+
+is built using [eleventy](https://11ty.dev) and hosted on [neocities](https://neocities.org/). i used [flamedfury's tutorial](https://flamedfury.com/guides/11ty-homepage-neocities/) to get started, and implemented [bcomnes deployment github action](https://github.com/bcomnes/deploy-to-neocities) to bring the amount of work required to make changes to almost zero. i also use [obsidian](https://obsidian.md/) and obsidian git to create and edit posts on my phone. the source code for this site is [here](https://github.com/uuupah/11ty_neocities).
