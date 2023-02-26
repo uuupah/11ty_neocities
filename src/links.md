@@ -3,9 +3,9 @@ title: links
 layout: layout/base.njk
 ---
 
-These are some of my favourite websites 🔗
+i compile (probably to an unhealthy degree) as much information as i can on the media that i watch and take part in. 
 
- - [flamedfury](https://flamedfury.com)
- - [11ty](https://11ty.dev)
- - [neocities](https://neocities.org)
- - [yesterweb](https://yesterweb.org)
+- https://letterboxd.com/uuupah/
+- https://last.fm/user/uuupah
+- https://anilist.co/user/uuupah/
+- https://github.com/uuupah/
