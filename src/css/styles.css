@@ -16,13 +16,14 @@
     "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   
-  --bg: #82945b;
-  --container: #FFEF82;
+  --bg: #969f83;
+  --container: #fffbef;
   --accent-bg: #EFD345;
-  --text: #82945b;
+  --text: #969f83;
+  --header-text: #d1bb2d;
   /* --text-light: #585858; */
-  --border: #82954B;
-  --accent: #1976D2;
+  --border: #969f83;
+  --accent: #f55e00;
 }
 
 html {
@@ -36,11 +37,17 @@ html {
 
 h1 {
   font-size: 2.5rem;
+  color: var(--header-text);
 }
 
 h2 {
   font-size: 2rem;
   margin-top: 3rem;
+  color: var(--header-text);
+}
+
+h3 {
+  color: var(--header-text);
 }
 
 /* Format links */
