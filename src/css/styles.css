@@ -16,14 +16,14 @@
     "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   
-  --bg: #969f83;
+  --bg: #6a826a;
   --container: #fffbef;
-  --accent-bg: #EFD345;
-  --text: #969f83;
-  --header-text: #d1bb2d;
+  --accent-bg: #b99b6c;
+  --text: #6a826a;
+  --header-text: #b99b6c;
   /* --text-light: #585858; */
-  --border: #969f83;
-  --accent: #f55e00;
+  --border: #6a826a;
+  --accent: #aa5757;
 }
 
 html {
