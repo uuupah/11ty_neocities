@@ -197,9 +197,9 @@ nav {
     /* width: min-content; */
   }
 
-  /* a:hover {
+  a:hover {
     transform: none;
-  } */
+  }
 }
 
 article>p {
