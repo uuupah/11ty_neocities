@@ -73,12 +73,16 @@ a:hover {
 
 /* seems like this doesnt always wowrk */
 a:has(img):hover,
-a:has(+ img):hover {
-  transform: none;
+a:hover:has(+ img):hover,
+a:hover:has(img):hover,
+a:has(+ img):hover,
+.profile-img-link:hover,
+a.profile-img-link:hover important {
+  transform: translate(0);
 }
 
 hr {
-  border-top: 5px solid var(--border);
+  border-top: 2px solid var(--border);
 }
 
 body {
