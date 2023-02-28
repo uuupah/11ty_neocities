@@ -204,6 +204,10 @@ nav {
 
 article>p {
   margin-top: 0;
+}
+
+.pages-article>p{
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -214,6 +218,10 @@ article>iframe {
 
 header>h1 {
   margin-top: 0;
+}
+
+footer {
+  margin-top: 25px;
 }
 
 /* body > footer {
