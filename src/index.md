@@ -8,7 +8,7 @@ welcome to my site! my name is uuupah. i've always been fascinated by the tiny p
 ### a little about me
 
 - i live in australia
-- i am non-binary
+- i am non-binary (they/them pronouns!)
 - i was born in 1995
 - i work as .NET developer, writing soulless financial reporting software
 - i have a big interest in more abstract and experimental music genres

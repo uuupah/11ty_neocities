@@ -1,6 +1,6 @@
 ---
-title: links
 layout: layout/base.njk
+title: links
 ---
 
 i compile (probably to an unhealthy degree) as much information as i can on the media that i watch and take part in. 
