@@ -1,0 +1,15 @@
+---
+title: pizza tower
+---
+
+i always have a moment when engaging with a piece of media that has "changing the game" status on launch. besides the subject of today's post, the most recent example i can remember is [everything everywhere all at once](https://letterboxd.com/film/everything-everywhere-all-at-once/). it's impossible to not be aware of the hype before you get in on the show or film or game yourself, and i find that i spend a huge amount of time wondering whether i actually like or whether i feel like i _should_ like it. this said, i think i did like everything everywhere, and i think i like pizza tower as well, despite the hordes of video essayists raving about it en masse. they don't really have anything insightful to say about the experience, and neither do i, so i might just cut to the core of my feelings.
+
+### ![](https://static.wikia.nocookie.net/pizzatower/images/2/29/Pep_frown.gif/revision/latest?cb=20200521023042) feel ![](https://static.wikia.nocookie.net/pizzatower/images/2/29/Pep_frown.gif/revision/latest?cb=20200521023042) 
+
+you know how kids in the early 2000s would get given a gameboy or a playstation but because the parents had just made a pricey investment they had no interest in actually buying a top shelf game for it, so you end up with planet monsters for the gba and play it front to back because there isnt another option? i had sonic advance 2, which definitely wasn't the worst game i've ever played, but this particular "go fast at any cost" experience left a little to be desired. a horrid combination of viewport size (small) and map design (weird) meant that you could only get the wonderful sense of speed and fluidity that sonic promises by learning the maps and getting a bit lucky. more often than not a really fun feeling back and forth of horizontal springs and loops would be shot down by a 1 block high wall and a rising spike.
+
+pizza tower feels like applying the 2d sonic concept against 2020s era movement game sensibilities. slapping a couple of extra moves (wall runs, drifts, super jumps) onto the moveset means that you only need a fraction of a second to recover if you're about to hit a wall, meaning you can realistically play twitchily and take the environment at play time without having to memorise it. the grab being intrinsically a foreward moving action, and actually acting as a boost if you want to hit high speed from standing, vastly improves on a jump that requires you to slow down to hit a target unless you have the perfect speed and placement. 
+
+these obviously arent the only movement techniques you have on hand but i'm not going to recap the rest. buy the game and play the tutorial.
+
+### ![](https://static.wikia.nocookie.net/pizzatower/images/8/88/Spr_player_skateboard.gif/revision/latest?cb=20210419013806) structure ![](https://static.wikia.nocookie.net/pizzatower/images/8/88/Spr_player_skateboard.gif/revision/latest?cb=20210419013806)
