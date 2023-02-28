@@ -3,4 +3,4 @@ title: about
 layout: layout/base.njk
 ---
 
-Heya 👋 this is my homepage.
+heya 👋 this is my homepage.
