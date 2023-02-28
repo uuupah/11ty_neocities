@@ -1,6 +1,7 @@
 ---
 title: blog
 layout: layout/base.njk
+eleventyImport.collections: ["blog"]
 ---
 
 These are all of my amazing blog posts, enjoy!
