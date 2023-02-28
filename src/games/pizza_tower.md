@@ -24,5 +24,19 @@ my one issue structure-wise is the boss fights, although this is hardly a unique
   <summary>
     final boss spoilers
   </summary>
-  oops
+  this thankfully does not apply to the final boss. i weirdly found it to be the easiest boss in the game, and it did a great job of challenging me _just_ enough while giving multiple satisfying and punchy scenes bundled into one big fight. the reveal of pizzahead is delightful and was legitimately unexpected, and even though it was desperately obvious since the beginning of the game, i couldnt help but grin doing the crumbling tower escape. 
 </details>
+
+i know that that wasn't the most in-depth or insightful input on the finale of the game, but i feel like i need to at least attempt to put into words how much fun i had with it. after a bit of a string of puzzle games ending in well meaning but somewhat limp conclusions ([antichamber](./antichamber/) and [manifold garden](./manifold_garden/)), it's nice to get back on form. 
+
+### aesthetic
+<img src="https://static.wikia.nocookie.net/pizzatower/images/9/93/Peppino_crawl.gif" style="width:100px;max-height:40px;object-fit:cover;object-position:bottom"/>
+
+this is probably the area of the game that has been most harped on about by video essayists, but the art style is a breath of fresh air with its ms paint-ass wonky lines and paint bucket tone. the energy of peppino spaghetti and the games cast of characters is extremely chaotic, but i think the most important takeaway is that it has a different tone to the warioland 4 that inspired it. peppino is equal parts desperate and courageous which basically just means that he can be the best of both worlds when either situation demands it. most importantly to my personal enjoyment is that they dont lean on any gross humour like wario does. farts and breathing raw garlic breath arent really that funny and don't endear me to a character, sorry.
+
+before i started writing this segment i was planning on being a contrarian and saying that the soundtrack wasn't that memorable, but after listening to it through i do have to confirm that it's pretty good. i wish that people would stop fixating on pizza time because theres plenty of other goodies in there. that track in particular is excellent for hyping you up for the final escape, but i think something like [splatoon](./splatoon/)'s [now or never](https://www.youtube.com/watch?v=ua4s7tV8WGM) does a better job, potentially because it's guaranteed to end on a perfect crescendo. my questionable pizza tower skills meant that half the time i would end the level about 60% of the way in, where the song is just starting to build up again for the actual good players doing a second lap to get a p ranking.
+
+==> 
+
+[![](https://64.media.tumblr.com/7bdab8db38eabb66bdd50d16b5228c85/261964cdc07dccf2-81/s1280x1920/0421e1943a0d6ddc4dd96a354d3ed953b241d285.png)](https://dailyhatsune.tumblr.com/post/710230130593857536/miku-from-hit-game-pizza-tower)
+<sub>[art by dailyhatsune on tumblr](https://dailyhatsune.tumblr.com/post/710230130593857536/miku-from-hit-game-pizza-tower)</sub>
