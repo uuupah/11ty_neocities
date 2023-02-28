@@ -71,7 +71,9 @@ a:hover {
   transform: translate(0px,-2px);
 }
 
-a:has(img):hover {
+/* seems like this doesnt always wowrk */
+a:has(img):hover,
+a:has(+ img):hover {
   transform: none;
 }
 
