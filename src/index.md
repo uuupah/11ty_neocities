@@ -1,6 +1,6 @@
 ---
 layout: layout/base.njk
-title: welcome to my sick twisted mind
+title: world's number one mari illustrious makinami fan
 ---
 
 welcome to my site! my name is uuupah. i've always been fascinated by the tiny private corners of the internet where people can freely compile their thoughts, hobbies, reviews and other random collections that they think netizens might find interesting. my growing frustration with the limitations of social media for real human communication and the lucky discovery of neocities has led me to this point, writing an honestly generic, but nonetheless necessary introduction page. it feels a little trite, but it's a tried and true formula.
