@@ -203,6 +203,10 @@ article>p {
   margin-top: 0;
 }
 
+details {
+  margin-bottom: 16px;
+}
+
 .blog-post img {
   max-width: 100%;
 }
