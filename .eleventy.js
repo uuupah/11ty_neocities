@@ -1,15 +1,15 @@
 const htmlmin = require("html-minifier");
 const rimraf = require("rimraf");
-
+const cleancss = require("clean-css");
 
 module.exports = function (eleventyConfig) {
   rimraf.windows.sync("public/")
-  
+
   eleventyConfig.addPassthroughCopy("./src/_assets/css");
   eleventyConfig.addPassthroughCopy("./src/_assets/img");
   eleventyConfig.addPassthroughCopy("./src/_assets/fonts");
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
-  
+
   eleventyConfig.addCollection("tagsList", function (collectionApi) {
     const tagsList = new Set();
     collectionApi.getAll().map(item => {
@@ -19,9 +19,8 @@ module.exports = function (eleventyConfig) {
     });
     return tagsList;
   });
-  
+
   eleventyConfig.addTransform("htmlmin", function (content) {
-    // Prior to Eleventy 2.0: use this.outputPath instead
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
@@ -30,8 +29,11 @@ module.exports = function (eleventyConfig) {
       });
       return minified;
     }
-
     return content;
+  });
+
+  eleventyConfig.addFilter("cssmin", function(code) {
+    return new cleancss({}).minify(code).styles;
   });
 
   return {
