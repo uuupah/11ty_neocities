@@ -1,3 +1,7 @@
+---
+title: webcomics
+---
+
 ### football
 https://www.sbnation.com/a/17776-football
 
