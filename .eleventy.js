@@ -1,17 +1,37 @@
+const htmlmin = require("html-minifier");
+const rimraf = require("rimraf");
+
+
 module.exports = function (eleventyConfig) {
+  rimraf.windows.sync("public/")
+  
   eleventyConfig.addPassthroughCopy("./src/_assets/css");
   eleventyConfig.addPassthroughCopy("./src/_assets/img");
   eleventyConfig.addPassthroughCopy("./src/_assets/fonts");
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
-
-  eleventyConfig.addCollection("tagsList", function(collectionApi) {
+  
+  eleventyConfig.addCollection("tagsList", function (collectionApi) {
     const tagsList = new Set();
-    collectionApi.getAll().map( item => {
-        if (item.data.tags) { // handle pages that don't have tags
-            item.data.tags.map( tag => tagsList.add(tag))
-        }
+    collectionApi.getAll().map(item => {
+      if (item.data.tags) { // handle pages that don't have tags
+        item.data.tags.map(tag => tagsList.add(tag))
+      }
     });
     return tagsList;
+  });
+  
+  eleventyConfig.addTransform("htmlmin", function (content) {
+    // Prior to Eleventy 2.0: use this.outputPath instead
+    if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
+        removeComments: true,
+        collapseWhitespace: true
+      });
+      return minified;
+    }
+
+    return content;
   });
 
   return {
