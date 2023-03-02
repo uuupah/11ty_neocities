@@ -6,16 +6,20 @@
     <meta property="og:image" content="/_assets/img/cropped.png"/>
     <link rel="icon" type="image/x-icon" href="/_assets/img/fav.png">
     {# <link rel="stylesheet" href="/_assets/css/normalize.css" /> #}
-    <link rel="stylesheet" href="/_assets/css/styles.css"/>
+    {# <link rel="stylesheet" href="/_assets/css/styles.css"/> #}
 
+    {% set normalise %}
+    {% include "normalize.css" %}
+    {% endset %}
+    <style>
+      {{normalise | cssmin | safe}}
+    </style>
     {% set css %}
     {% include "styles.css" %}
     {% endset %}
-    <!-- feed it through our cssmin filter to minify -->
     <style>
       {{css | cssmin | safe}}
     </style>
-
     {% if title %}
       <title>{{ site.title }} - {{ title }}</title>
     {% else %}
