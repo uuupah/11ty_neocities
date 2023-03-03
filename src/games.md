@@ -5,5 +5,5 @@ eleventyImport.collections: ["games"]
 ---
 
 {% for post in collections.game %}
- \- [{{ post.data.title || post.data.title != "" ? post.data.title : post.data.page.fileSlug }}](/{{ tag }}/{{ post.data.page.fileSlug }})
+ \- [{{ post.data.title || post.data.title != "" ? post.data.title : post.data.page.fileSlug }}](/game/{{ post.data.page.fileSlug }})
 {% endfor %}

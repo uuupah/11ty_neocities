@@ -5,5 +5,5 @@ eleventyImport.collections: ["music"]
 ---
 
 {% for post in collections.music %}
- \- [{{ post.data.title || post.data.title != "" ? post.data.title : post.data.page.fileSlug }}](/{{ tag }}/{{ post.data.page.fileSlug }})
+ \- [{{ post.data.title || post.data.title != "" ? post.data.title : post.data.page.fileSlug }}](/music/{{ post.data.page.fileSlug }})
 {% endfor %}
