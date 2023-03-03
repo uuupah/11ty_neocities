@@ -14,9 +14,9 @@ welcome to my site! my name is uuupah. i've always been fascinated by the tiny p
 - i have a big interest in more abstract and experimental music genres
 - i build mechanical keyboards and do figure drawing in my spare time
 
-<!-- ### pages
+### pages
 
-{% include 'partials/link_tiles.njk' %} -->
+{% include 'partials/link_tiles.njk' %}
 
 ### this site
 
