@@ -1,5 +1,6 @@
 ---
 title: three albums - february 2023
+date: 2023-03-01
 ---
 
 [my monthly playlist for feb 23](https://open.spotify.com/playlist/0vk88QNysxGGbPj1G9UPhN)
