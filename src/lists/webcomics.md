@@ -12,7 +12,7 @@ a surreal comic about playing football in a future where nobody ages (i haven't 
 ### prequel
 [read here](https://www.prequeladventure.com/2011/03/prequel-begin/)
 
-one of many homestuck-likes that appeared in the 2010s. this one is based on this misadventures of a khajiit in the land of cyrodiil (these are all elder scrolls things for those unaware, but you don't need to be familiar with the games to enjoy the comic). the updates are slow and indeed, we thought the comic was dead for a while, but it's been getting semi-regular updates for the last year or so. be
+one of many homestuck-likes that appeared in the 2010s. this one is based on this misadventures of a khajiit in the land of cyrodiil (these are all elder scrolls things for those unaware, but you don't need to be familiar with the games to enjoy the comic). the updates are slow and indeed, we thought the comic was dead for a while, but it's been getting semi-regular updates for the last year or so.
 
 <a href="https://www.prequeladventure.com/2011/03/prequel-begin/"><img src="https://www.prequeladventure.com/this/shipleave.gif" height="300px"></a>
 
