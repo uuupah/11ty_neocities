@@ -20,6 +20,16 @@ module.exports = function (eleventyConfig) {
     return tagsList;
   });
 
+  eleventyConfig.addCollection("mostRecent", function (collectionApi) {
+    const out = new Set();
+    collectionApi.getAllSorted().map(item => {
+      if (item.data.tags) {
+        out.add(item);
+      }
+    })
+    return out;
+  })
+
   eleventyConfig.addTransform("htmlmin", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
