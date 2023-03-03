@@ -195,7 +195,7 @@ nav {
     /* width: min-content; */
   }
 
-  a:hover {
+  aside>a:hover {
     transform: none;
   }
 }
@@ -240,6 +240,13 @@ footer {
 .link_tiles_grid>a,
 .link_tiles_grid>a>img {
   width: 230px;
+}
+
+.nav-buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  
 }
 
 /* body > footer {
