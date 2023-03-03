@@ -1,5 +1,5 @@
 <div class="link_tiles_grid">
-    <a href="{{ collections.all[0].page.url }}">
+    <a href="{{ collections.all.sort((a, b) => (a.page.date > b.page.date) ? 1 : -1)[0].page.url }}">
         <img src="_assets/img/haruko.png"/>
         newest!
     </a>
