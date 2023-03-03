@@ -14,21 +14,15 @@ module.exports = function (eleventyConfig) {
     const tagsList = new Set();
     collectionApi.getAll().map(item => {
       if (item.data.tags) { // handle pages that don't have tags
-        item.data.tags.map(tag => tagsList.add(tag))
+        item.data.tags.map(tag => {
+          if (tag != "post"){
+            tagsList.add(tag)
+          }
+        })
       }
     });
     return tagsList;
   });
-
-  eleventyConfig.addCollection("mostRecent", function (collectionApi) {
-    const out = new Set();
-    collectionApi.getAllSorted().map(item => {
-      if (item.data.tags) {
-        out.add(item);
-      }
-    })
-    return out;
-  })
 
   eleventyConfig.addTransform("htmlmin", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {

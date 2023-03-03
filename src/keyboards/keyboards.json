@@ -1,4 +1,4 @@
 {
     "layout": "layout/blog",
-    "tags": "keyboards"
+    "tags": ["keyboards","post"]
   }
