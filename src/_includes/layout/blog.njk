@@ -1,9 +1,11 @@
 ---
 layout: layout/base.njk
 ---
-{# {% set previousPost = collections.post | getPreviousCollectionItem(page) %}
+{% set previousPost = collections.post | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.post | getNextCollectionItem(page) %}
 
-{% if previousPost %}Previous Blog Post: <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a>{% endif %}
-{% if nextPost %}Next Blog Post: <a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>{% endif %} #}
 <article class="blog-post">{{ content | safe}}</article>
+<div class="nav-buttons">
+{% if nextPost %}<a href="{{ nextPost.url }}">&lt;== next</a>{% else %}x=={% endif %}
+{% if previousPost %}<a href="{{ previousPost.url }}">prev ==&gt;</a>{% else %}==x{% endif %}
+</div>
