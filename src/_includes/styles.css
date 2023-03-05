@@ -125,9 +125,11 @@ aside {
   height: 100px;
   border-radius: 60px;
   border: 5px solid var(--border);
+  background-color: var(--border);
   /* top: -70px; */
   z-index: 1;
   position: relative;
+  color: var(--container)
 }
 
 nav {
@@ -158,6 +160,12 @@ nav {
 .link_tiles_grid>a,
 .link_tiles_grid>a>img {
   width: 230px;
+}
+
+.link_tiles_grid>a>img {
+  background-color: var(--border);
+  height: 230px;
+  color: var(--container)
 }
 
 @media all and (max-width: 1100px) {
@@ -218,12 +226,20 @@ nav {
     width: calc((100vw - 100px)/3);
   }
 
+  .link_tiles_grid>a>img {
+    max-height: 230px;
+    height: calc((100vw - 100px)/3);
+  }
+
   /* switch to two tiles when it gets really small */
     @media all and (max-width: 545px) {
       .link_tiles_grid>a,
       .link_tiles_grid>a>img {
-        max-width: 230px;
         width: calc((100vw - 85px)/2);
+      }
+
+      .link_tiles_grid>a>img {
+        height: calc((100vw - 100px)/2);
       }
     }
 }
