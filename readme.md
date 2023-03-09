@@ -1,4 +1,4 @@
-a personal neocities page using 11ty as a static site generator. deploys to https://uuupah.neocities.com.
+a personal neocities page using 11ty as a static site generator. deploys to https://uuupah.neocities.org.
 
 # getting started
 
@@ -16,7 +16,7 @@ a personal neocities page using 11ty as a static site generator. deploys to http
 
 # links
 
-hosted on neocities - https://uuupah.neocities.com
+hosted on neocities - https://uuupah.neocities.org
 
 automatically builds and deploys on a commit to main using [bcomnes' deploy-to-neocities github action](https://github.com/bcomnes/deploy-to-neocities)
 
