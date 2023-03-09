@@ -3,16 +3,7 @@ layout: layout/base.njk
 title: world's number one mari illustrious makinami fan
 ---
 
-welcome to my site! my name is uuupah. i've always been fascinated by the tiny private corners of the internet where people can freely compile their thoughts, hobbies, reviews and other random collections that they think netizens might find interesting. my growing frustration with the limitations of social media for real human communication and the lucky discovery of neocities has led me to this point, writing an honestly generic, but nonetheless necessary introduction page. it feels a little trite, but it's a tried and true formula.
-
-### a little about me
-
-- i live in australia
-- i am non-binary (they/them pronouns!)
-- i was born in 1995
-- i work as .NET developer, writing soulless financial reporting software
-- i have a big interest in more abstract and experimental music genres
-- i build mechanical keyboards and do figure drawing in my spare time
+hey what's up! my name is uuupah. im a twenty-something software dev from australia plagued by a metaphysical urge to record my thoughts and feelings in meandering prose. i'm into exploring less mainstream music genres, character design and figure drawing, puzzle and movement videogames, old anime and rock climbing.
 
 ### pages
 
