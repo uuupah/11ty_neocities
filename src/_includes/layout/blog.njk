@@ -3,7 +3,7 @@ layout: layout/base.njk
 ---
 {% set previousPost = collections.post | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.post | getNextCollectionItem(page) %}
-
+<sup>{{ page.date.toLocaleDateString("en-UK") }}</sup>
 <article class="blog-post">{{ content | safe}}</article>
 <div class="nav-buttons">
 {% if nextPost %}<a href="{{ nextPost.url }}">&lt;== next</a>{% else %}x=={% endif %}
