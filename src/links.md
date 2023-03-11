@@ -2,9 +2,6 @@
 layout: layout/base.njk
 title: links
 ---
-
-i compile (probably to an unhealthy degree) as much information as i can on the media that i watch and take part in. 
-
 - [letterboxd.com/uuupah/](https://letterboxd.com/uuupah/)
 - [last.fm/user/uuupah](https://last.fm/user/uuupah)
 - [anilist.co/user/uuupah/](https://anilist.co/user/uuupah/)
