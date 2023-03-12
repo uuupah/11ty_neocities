@@ -1,6 +1,6 @@
 ---
 layout: layout/base.njk
-title: world's number one mari illustrious makinami fan
+title: becoming one with the slime
 ---
 
 hey what's up! my name is uuupah. im a twenty-something software dev from australia plagued by a metaphysical urge to record my thoughts and feelings in meandering prose. i'm into exploring less mainstream music genres, character design and figure drawing, puzzle and movement videogames, old anime and rock climbing.
