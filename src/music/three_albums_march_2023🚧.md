@@ -41,3 +41,7 @@ crater eighters routine -> delay lama / omnisphere 2
 
 #### virtual insanity - jamiroquai
  - turns out i wasnt the only person who suddenly got recommended virtual insanity
+
+#### 五光発條 × Sountrive「GOKO BANE」
+
+ https://www.youtube.com/watch?v=5QjVeH2Z57E
