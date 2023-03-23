@@ -1,11 +1,16 @@
 ---
-layout: layout/base.njk
+layout: layout/core.njk
 ---
 {% set previousPost = collections.post | getPreviousCollectionItem(page) %}
 {% set nextPost = collections.post | getNextCollectionItem(page) %}
-<sup>{{ page.date.toLocaleDateString("en-UK") }}</sup>
+<div class="nav-buttons nav-buttons-top">
+{% if nextPost %}<a href="{{ nextPost.url }}">&lt;== next</a>{% else %}x=={% endif %}
+{% if previousPost %}<a href="{{ previousPost.url }}">prev ==&gt;</a>{% else %}==x{% endif %}
+</div>
+<h2>{{ title }}</h2>
+<span class="date-tag">{{ page.date.toLocaleDateString("en-UK") }}</span>
 <article class="blog-post">{{ content | safe}}</article>
-<div class="nav-buttons">
+<div class="nav-buttons nav-buttons-bottom">
 {% if nextPost %}<a href="{{ nextPost.url }}">&lt;== next</a>{% else %}x=={% endif %}
 {% if previousPost %}<a href="{{ previousPost.url }}">prev ==&gt;</a>{% else %}==x{% endif %}
 </div>

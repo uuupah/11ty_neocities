@@ -1,53 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta property="og:image" content="/_assets/img/cropped.png"/>
-    <link rel="icon" type="image/x-icon" href="/_assets/img/fav.png">
-    {# <link rel="stylesheet" href="/_assets/css/normalize.css" /> #}
-    {# <link rel="stylesheet" href="/_assets/css/styles.css"/> #}
-
-    {% set normalise %}
-    {% include "normalize.css" %}
-    {% endset %}
-    <style>
-      {{normalise | cssmin | safe}}
-    </style>
-    {% set css %}
-    {% include "styles.css" %}
-    {% endset %}
-    <style>
-      {{css | cssmin | safe}}
-    </style>
-    {% if title %}
-      <title>{{ site.title }} - {{ title }}</title>
-    {% else %}
-      <title>{{ site.title }}</title>
-    {% endif %}
-    {% if description %}
-      <meta name="description" content="{{ description }}">
-    {% else %}
-      <meta name="description" content="{{ site.description }}">
-    {% endif %}
-  </head>
-  <body>
-    <main>
-      <div>
-        {# <header>{% include 'partials/header.njk' %}</header> #}
-        {# <hr/> #}
-        <article>
-          <h2>{{ title }}</h2>
-          {{ content | safe }}
-        </article>
-      </div>
-      <footer>
-        <hr/>
-        {% include 'partials/footer.njk' %}
-      </footer>
-    </main>
-    <aside>{% include 'partials/sidebar.njk' %}</aside>
-  </div>
-</div>
-</body>
-</html>
+---
+layout: layout/core.njk
+---
+<h2>{{ title }}</h2>
+{{ content | safe}}

@@ -15,7 +15,7 @@
     "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
     "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
-  
+
   --bg: #6a826a;
   --container: #fffbef;
   --accent-bg: #b99b6c;
@@ -68,7 +68,7 @@ a:visited {
 
 a:hover {
   text-decoration: none;
-  transform: translate(0px,-2px);
+  transform: translate(0px, -2px);
 }
 
 hr {
@@ -192,14 +192,14 @@ nav {
     margin-top: 0;
     padding-top: 5px;
   }
-  
+
   .sidebar-contents {
     border-radius: 0;
     width: 100%;
     z-index: 0;
   }
 
-  .sidebar-contents>img{
+  .sidebar-contents>img {
     display: none;
   }
 
@@ -232,16 +232,29 @@ nav {
   }
 
   /* switch to two tiles when it gets really small */
-    @media all and (max-width: 545px) {
-      .link_tiles_grid>a,
-      .link_tiles_grid>a>img {
-        width: calc((100vw - 85px)/2);
-      }
+  @media all and (max-width: 545px) {
 
-      .link_tiles_grid>a>img {
-        height: calc((100vw - 100px)/2);
-      }
+    .link_tiles_grid>a,
+    .link_tiles_grid>a>img {
+      width: calc((100vw - 85px)/2);
     }
+
+    .link_tiles_grid>a>img {
+      height: calc((100vw - 100px)/2);
+    }
+  }
+}
+
+.page-content {
+  /* TODO fix this magic number */
+  min-height: calc(100vh - 95px);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.date-tag {
+  font-size: smaller;
 }
 
 article>p {
@@ -256,7 +269,7 @@ details {
   max-width: 100%;
 }
 
-.pages-article>p{
+.pages-article>p {
   margin-top: 0;
   margin-bottom: 0;
 }
@@ -279,7 +292,30 @@ footer {
   display: flex;
   flex-direction: row;
   justify-content: space-between;
-  
+}
+
+.nav-buttons-bottom {
+  justify-self: flex-end;
+}
+
+.bouncy {
+  animation: bounce 1s cubic-bezier(0.45, 0.05, 0.55, 0.95) infinite;
+}
+
+@keyframes bounce {
+  0%, 100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-5px);
+  }
+  75% {
+    transform: translateY(0);
+  }
+  100% {
+    transform: translateY(0);
+    animation-delay: 3s; /* add a 3 second delay before restarting the animation */
+  }
 }
 
 /* body > footer {
