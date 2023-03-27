@@ -1,5 +1,6 @@
 ---
 title: cool links
+date: 2023-03-10
 ---
 
 ## console variations
