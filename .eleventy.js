@@ -26,6 +26,11 @@ module.exports = function (eleventyConfig) {
     return tagsList;
   });
 
+  // limit filter
+  eleventyConfig.addFilter("limit", function (array, limit) {
+    return array.slice(0, limit);
+  });
+
   // minify all html files
   eleventyConfig.addTransform("htmlmin", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {

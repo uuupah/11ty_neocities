@@ -56,6 +56,8 @@ h2 {
 h3 {
   font-size: 1.2rem;
   color: var(--header-text);
+  margin-top: var(--line-padding);
+  margin-bottom: var(--line-padding);
 }
 
 /* Format links */
@@ -316,6 +318,17 @@ footer {
     transform: translateY(0);
     animation-delay: 3s; /* add a 3 second delay before restarting the animation */
   }
+}
+
+.updates-field {
+  border: 2px solid var(--bg);
+  padding: 5px;
+  margin-top: var(--line-padding);
+  margin-bottom: var(--line-padding);
+}
+
+.updates-field p {
+  margin: 0;
 }
 
 /* body > footer {

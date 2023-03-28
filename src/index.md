@@ -5,6 +5,15 @@ title: becoming one with the slime
 
 hey what's up! my name is uuupah. im a twenty-something non-binary (they/them please!) software dev from australia plagued by a metaphysical urge to record my thoughts and feelings in meandering prose. i'm into exploring less mainstream music genres, character design and figure drawing, puzzle and movement videogames, old anime and rock climbing.
 
+### recent updates 
+
+<div class="updates-field">
+{% set updateslist = collections.post | reverse | limit(5) %}
+{% for post in updateslist %}
+    <p>{{ post.page.date.toLocaleDateString("en-UK") }} - [{{ post.data.title }}]({{post.filePathStem}}) [{{post.data.tags[0]}}]</p>
+{% endfor %}
+</div>
+
 ### pages
 
 {% include 'partials/link_tiles.njk' %}
