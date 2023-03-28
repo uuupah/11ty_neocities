@@ -31,6 +31,9 @@ in the early 80s, sega, nintendo and atari had a stranglehold on the videogame m
 
 <a href="https://www.pc98.org/main.html"><img src="/_assets/img/cool_links/pc98.jpg"/></a>
 
+<!--TODO: ## android arts
+[https://androidarts.com/](https://androidarts.com/)
+-->
 ## ffilccoo
 [https://pgrkbd.web.fc2.com/](https://pgrkbd.web.fc2.com/)
 
