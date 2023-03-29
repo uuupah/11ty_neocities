@@ -8,7 +8,7 @@ draft: true
 
 i thought that last month was a bumper post, but if my draft notes are anything to go by, this one is going to be even bigger. as before, i'll start with the top three, then stick the honourable mentions underneath!
 
-### 3. 2003 corolla
+### 3. 小久保 隆 (takashi kokubo)
 
 ### 2. 10000 gecs
 
