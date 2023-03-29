@@ -22,3 +22,5 @@ automatically builds and deploys on a commit to main using [bcomnes' deploy-to-n
 
 i got started using [flamed fury's 11ty guide](https://flamedfury.com/guides/11ty-homepage-neocities/)
 
+# todo
+- [ ] swap page links and art thumbnails from flex to grids
