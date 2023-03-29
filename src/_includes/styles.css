@@ -151,22 +151,16 @@ nav {
   z-index: -1;
 }
 
-
 .link_tiles_grid {
-  display: flex;
   width: 100%;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
   gap: 15px;
-}
-
-.link_tiles_grid>a,
-.link_tiles_grid>a>img {
-  width: 230px;
 }
 
 .link_tiles_grid>a>img {
   background-color: var(--border);
-  height: 230px;
+  width: 100%;
   color: var(--container)
 }
 
@@ -222,32 +216,11 @@ nav {
     transform: none;
   }
 
-  /* the commented out calcs work in firefox and mobile, but not in chromium */
-  .link_tiles_grid>a,
-  .link_tiles_grid>a>img {
-    max-width: 230px;
-    width: calc((100vw - 117px)/3);
-    /* width: calc((100vw - 100px)/3); */
-  }
-
-  .link_tiles_grid>a>img {
-    max-height: 230px;
-    height: calc((100vw - 117px)/3);
-    /* height: calc((100vw - 100px)/3); */
-  }
-
-  /* switch to two tiles when it gets really small */
+  /* switch to two columns when it gets really small */
   @media all and (max-width: 545px) {
-
-    .link_tiles_grid>a,
-    .link_tiles_grid>a>img {
-      width: calc((100vw - 102px)/2);
-      /* width: calc((100vw - 85px)/2); */
-    }
-
-    .link_tiles_grid>a>img {
-      height: calc((100vw - 117px)/2);
-      /* height: calc((100vw - 100px)/2); */
+    .link_tiles_grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
     }
   }
 }
