@@ -8,7 +8,7 @@ date: 2023-04-01
 i thought that last month was a bumper post, but if my draft notes are anything to go by, this one is going to be even bigger. as before, i'll start with the top three, then stick the honourable mentions underneath!
 
 ### 3. message from oasis: forest of ion - takashi kokubo
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/album/5WGDp1vObzD4zGkecoMzl9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px; max-height:352px;" src="https://open.spotify.com/embed/album/5WGDp1vObzD4zGkecoMzl9?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 the outside observer might see ambient music as just yoga music or museum ambience, but it spans a super wide range of instrument suites and intentions: i've talked previously about my love for arctic ambient, which brings images of desolate landscapes to the minds eye, largely by layering different drones and slow mechanical noises. i'm also into field recording music, which uses ambient noises from nature as its own kind of instrument; i think it's a super unique style and i can't really find an equivalent in the rest of the music that i know
 
