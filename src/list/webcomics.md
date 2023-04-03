@@ -3,7 +3,7 @@ title: webcomics
 date: 2023-03-03
 ---
 
-### football
+### 17776
 [read here](https://www.sbnation.com/a/17776-football)
 
 a surreal comic about playing football in a future where nobody ages (i haven't actually finished this one but it's so out there that i had to recommend it) 
