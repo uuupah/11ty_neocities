@@ -8,7 +8,7 @@ date: 2023-04-01
 i thought that last month was a bumper post, but if my draft notes are anything to go by, this one is going to be even bigger. as before, i'll start with the top three, then stick the honourable mentions underneath!
 
 ### 3. message from oasis: forest of ion - takashi kokubo
-<iframe style="border-radius:12px; max-height:352px;" src="https://open.spotify.com/embed/album/5WGDp1vObzD4zGkecoMzl9?utm_source=generator" width="100%" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px;" src="https://open.spotify.com/embed/album/5WGDp1vObzD4zGkecoMzl9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 the outside observer might see ambient music as just yoga music or museum ambience, but it spans a super wide range of instrument suites and intentions: i've talked previously about my love for arctic ambient, which brings images of desolate landscapes to the minds eye, largely by layering different drones and slow mechanical noises. i'm also into field recording music, which uses ambient noises from nature as its own kind of instrument; i think it's a super unique style and i can't really find an equivalent in the rest of the music that i know
 
@@ -61,18 +61,18 @@ besides that, i don't really have anything super incredible to say about them, e
 
 #### crater eighters routine
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/C7PnWASHHrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="max-width:560px; width:100%; aspect-ratio: 560/315;" src="https://www.youtube-nocookie.com/embed/C7PnWASHHrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 i've loved the splatoon soundtracks for ages, long before i actually got horribly addicted to the game itself. 3 is unique when compared to the prior games due to the inclusion of delay lama, a plugin for digital audio workstations that tries to emulate the way that vowel sounds are made by a human voice. this track was included fairly early in to the story mode so the first time i heard it i just went "huh that's pretty funky" and kept going, but now that i've been made aware it's got me even more jazzed about the creativity of this ost!
 
 #### virtual insanity - jamiroquai
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/4JkIs37a2JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="max-width:560px; width:100%; aspect-ratio: 560/315;" src="https://www.youtube-nocookie.com/embed/4JkIs37a2JE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 if [lessons in meme culture](https://www.youtube.com/watch?v=V7TaN114Y4Q) is anything to go by, the youtube algorithm decided to hit all of us with jamiroquai's virtual insanity music video in march of 2023. i'd heard of jk before but i'd never taken the time to actually sit down and listen to their music, so i knocked out a couple of albums during the month. it's impossible not to adore the guy's positive energy and joy, even when he's singing about how technology is tearing our societies apart
 
 #### 五光発條 × Sountrive「GOKO BANE」
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5QjVeH2Z57E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe style="max-width:560px; width:100%; aspect-ratio: 560/315;" src="https://www.youtube-nocookie.com/embed/5QjVeH2Z57E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 this track is actually one of the first songs that i ever bought back in high school! the piece takes elements from a field recording of a spring factory in kanagawa and turns it into a bouncy driven idm track, combining synths and individual mechanical samples. i stumbled back onto it by complete chance, and it inspired me to dig around the field recording world a bit more (hence takashi kokubo appearing on the top 3)
