@@ -42,7 +42,7 @@ tyto alba is an artist that clearly has a really good grasp of anatomy, as well 
         <img src="https://pbs.twimg.com/media/FrKS9GcaYAAnPv3?format=jpg&name=small"/>
     </a>
 </div>
-i sometimes find myself frustrated when i'm having trouble drawing a character from a certain angle, and i find hou jae04 a nice reminder that i can simply stick to what works if i really want to; that probably sounds a little disparaging, but i truly love their focus on a look that works, because it frees up your creativity for new character designs. i also really love the thick lines look theyre going with because it suits the a5 format that i prefer working in immensely
+i sometimes find myself frustrated when i'm having trouble drawing a character from a certain angle, and i find hou jae04 a nice reminder that i can simply stick to what works if i really want to; that probably sounds a little disparaging, but i truly love their focus on a consistent look, because it frees up your creativity for new character designs. i also really love the thick lines look they're going with because it suits the a5 format that i prefer working in immensely
 <h3>seita inoue</h3>
 <a href="https://www.instagram.com/tori__kun/">instagram</a>
 <div class="two-columns">
@@ -65,7 +65,7 @@ seita inoue is more of a general style inspiration and just an artist that i lov
         <img src="https://64.media.tumblr.com/58dc482f170298c12f5cc36dbbdb61d7/tumblr_pg2e5cjqjG1v9vb5to1_500.png"/>
     </a>
 </div>
-i really love nobby's approach to minimally anthropomorphising their furry characters and how they like working with a variety of body shapes in general. the unfortunately seem to be on indefinite hiatus 😔
+i really love nobby's approach to minimally anthropomorphising their furry characters and how they like working with a variety of body shapes in general. they unfortunately seem to be on indefinite hiatus 😔
 <h3>the-very-worst-thing</h3>
 <a href="https://theveryworstthing.tumblr.com/">tumblr</a>
 <div class="two-columns">
