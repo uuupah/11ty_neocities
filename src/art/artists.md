@@ -47,10 +47,10 @@ i sometimes find myself frustrated when i'm having trouble drawing a character f
 <a href="https://www.instagram.com/tori__kun/">instagram</a>
 <div class="two-columns">
     <a href="https://www.instagram.com/p/CqzFUDiP3t-/">
-        <img src="https://cdn1.picuki.com/hosted-by-instagram/q/0exhNuNYnjBcaS3SYdxKjf8F2vJ1Wg9SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYzxk5IgpU1pZCz14Pk3ZTr2MTjxV66qcV+7N1zNk||J9olrkwJXEfZ3Ko9cotXQmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7VCkGZK4JP8CORKxJIf6rbak0jq5ZA0KikH8W8mcAR67N7epDMET+DxNdx1qO90SbpKtckG1Ozvj3jpQTpsRGB9KD+XudbjpcoIqROlYWUWo0CfHqYdC1gdx1C||uksQgrMY2dWHFqxM+N9+sqPVETFKCipkr0k+wKuckQHrakn6ykEL6naCkf6zeekSgYeiCcDMAdL||3ivpOIXEAJhrCnc+BcXud3nLZvqzWp4NxakWS6BskWG78zmufbSpiBUiU2BP.jpeg">
+        <img src="/_assets/img/artists/seita_inoue_1.jpg">
     </a>
     <a href="https://www.instagram.com/p/CgJrck4vqv9/">
-        <img src="https://cdn1.picuki.com/hosted-by-instagram/q/0exhNuNYnjBcaS3SYdxKjf8F2vJ1Wg9SZ60STLepjSVmIR1vLHOapZA0mpCj4yRwKwVlASuRYz1p54MsVVRSCD1||NEXYSreKTzlT5q2aVOzN2zNg9ZFikbsyKX0cZn6u98soVgmYdSgIGaYDG7uo+qhT5aGuO1lQpTb9d7JGmC4E5ZObS6olhMF4pJ2Jg3Tt||9kiJzJE5m4vMAQrptqO52hEX||D+O8BnsaBwVLYBxMQK5qnRlSaHEmw+Jj8uRHagtIj+kOYA2DHqeh4+yWO+YbsKDnRGjmadsi53t4gj1aSNBdxuiekakIH2bSAEXG428Fk71pu1ynOdV0Gv||hVb0i316JaFZq0CgcbWEdS5UPb7mCP3QrnvNuxFd2sHC8v||ahLGDeaYM88fmY4SSqwd9Avsoif7S7734wB4AGgShTDaXpA=.jpeg"/>
+        <img src="/_assets/img/artists/seita_inoue_2.jpg"/>
     </a>
 </div>
 seita inoue is more of a general style inspiration and just an artist that i love looking at because they feel completely out of my league. there style is super recognisable because theyre art director for splatoon, and their line-free digital painting style shows up in heaps of the promotional material and artbooks
