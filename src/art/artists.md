@@ -47,10 +47,10 @@ i sometimes find myself frustrated when i'm having trouble drawing a character f
 <a href="https://www.instagram.com/tori__kun/">instagram</a>
 <div class="two-columns">
     <a href="https://www.instagram.com/p/CqzFUDiP3t-/">
-        <img src="/_assets/img/artists/seita_inoue_1.jpg">
+        <img src="/_assets/img/artists/seita_inoue_1.webp">
     </a>
     <a href="https://www.instagram.com/p/CgJrck4vqv9/">
-        <img src="/_assets/img/artists/seita_inoue_2.jpg"/>
+        <img src="/_assets/img/artists/seita_inoue_2.webp"/>
     </a>
 </div>
 seita inoue is more of a general style inspiration and just an artist that i love looking at because they feel completely out of my league. there style is super recognisable because theyre art director for splatoon, and their line-free digital painting style shows up in heaps of the promotional material and artbooks
