@@ -292,7 +292,7 @@ footer {
 .gallery {
   width: 100%;
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr 1fr;
   gap: var(--line-padding);
   margin-top: 15px
 }
@@ -310,7 +310,7 @@ footer {
 .two-columns {
   width: 100%;
   display: grid;
-  grid-template-columns: auto auto;
+  grid-template-columns: 1fr 1fr;
   gap: var(--line-padding);
   margin-top: 15px;
   margin-bottom: 15px;
