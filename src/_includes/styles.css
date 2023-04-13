@@ -307,6 +307,21 @@ footer {
   border: 2px solid var(--border);
 }
 
+.two-columns {
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: var(--line-padding);
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.two-columns *{
+  width: 100%;
+  aspect-ratio: 1/1;
+  object-fit: cover;
+}
+
 /* simple lightbox pulled from https://codepen.io/nebo/pen/ONXejO */
 
 .trans
