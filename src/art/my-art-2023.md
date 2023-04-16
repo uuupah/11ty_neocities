@@ -1,9 +1,10 @@
 ---
-title: "my art jan-mar 2023"
-date: 2023-03-29
+title: "my art 2023"
+date: 2023-04-16
 ---
 
 <div class="gallery">
+    <a href="#img_8"><img src="https://64.media.tumblr.com/0149d7ab435650a934b96eb532bbfd52/1bcf7360692d65a0-cd/s2048x3072/e11de433d0bce6036b443b0ba3faeefec7c5c64c.jpg"/></a>
     <a href="#img_7"><img src="https://64.media.tumblr.com/b7829c71d26b7ce18ed2c159f8e9179d/1dbfb56e44c99949-e5/s2048x3072/340497de75f0645ff5d827f9783c3d06997bbb9e.jpg"/></a>
     <a href="#img_1"><img src="https://64.media.tumblr.com/10fde4a23bb0e05413f8cd5ecae4e36c/21cbd1a48d5db050-fb/s2048x3072/2aaaffd1fe91fb3b4446446d0f76e8d82d08db79.jpg"/></a>
     <a href="#img_2"><img src="https://64.media.tumblr.com/cac56ee7f893bfd44f7edfeebe4f758b/d33ca069567ae5be-39/s2048x3072/2c956759f355dfb3479a1b927ba3d4ca4ae76490.jpg"/></a>
@@ -12,6 +13,7 @@ date: 2023-03-29
     <a href="#img_5"><img src="https://64.media.tumblr.com/da0b202b2ebd573a0a597b107a801abb/94d35b22379fa929-e0/s2048x3072/aff3b24a5572df5edd25b72546c13624d4fe76c3.jpg"/></a>
     <a href="#img_6"><img src="https://64.media.tumblr.com/571a72794b015e108fa087960aee10a6/fd7bb0b078b20401-35/s2048x3072/deab9b35634fe79e06dc96bfc2ee7f337f138a61.jpg"/></a>
 </div>
+<a href="#_8" class="lightbox trans" id="img_7"><img src="https://64.media.tumblr.com/0149d7ab435650a934b96eb532bbfd52/1bcf7360692d65a0-cd/s2048x3072/e11de433d0bce6036b443b0ba3faeefec7c5c64c.jpg"/></a>
 <a href="#_7" class="lightbox trans" id="img_7"><img src="https://64.media.tumblr.com/b7829c71d26b7ce18ed2c159f8e9179d/1dbfb56e44c99949-e5/s2048x3072/340497de75f0645ff5d827f9783c3d06997bbb9e.jpg"/></a>
 <a href="#_1" class="lightbox trans" id="img_1"><img src="https://64.media.tumblr.com/10fde4a23bb0e05413f8cd5ecae4e36c/21cbd1a48d5db050-fb/s2048x3072/2aaaffd1fe91fb3b4446446d0f76e8d82d08db79.jpg"/></a>
 <a href="#_2" class="lightbox trans" id="img_2"><img src="https://64.media.tumblr.com/cac56ee7f893bfd44f7edfeebe4f758b/d33ca069567ae5be-39/s2048x3072/2c956759f355dfb3479a1b927ba3d4ca4ae76490.jpg"/></a>
