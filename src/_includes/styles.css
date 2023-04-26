@@ -50,6 +50,11 @@ h3 {
   margin-bottom: var(--line-padding);
 }
 
+h4 {
+  margin-top: var(--line-padding);
+  margin-bottom: var(--line-padding);
+}
+
 /* Format links */
 a,
 a:visited {
