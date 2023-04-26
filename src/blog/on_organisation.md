@@ -18,7 +18,7 @@ let's put storing images and bookmarks on hold for a second and just focus on no
 
 so i had a crack at obsidian for a couple of months. i think the real issue is that it actually has more functionality than the average note-taker needs: the most touted is the ability to make connections between files with tags and links, supplemented by the apps ability to make nifty graph views reminiscent of those maps of the internet:
 
-<img src="/_assets/img/on_organisation/graph.webp/"/>
+<img src="/_assets/img/on_organisation/graph.webp"/>
 
 this is mine! cool right? you can see groups of notes related to music in the top right, videogames in the top left, journals and contacts in the bottom right and general miscellania everywhere else. the real issue is that this system is deeply deeply useless. i have basically never used my links to navigate between files, and the tags are largely unnecessary because i can just remember a word or two that i know is in the title or body of a file and search for it that way
 
@@ -37,7 +37,7 @@ x a cross for a completed task
 
 this shorthand makes the bulk of a bullet journal super easy to read at a glance:
 
-<img src="/_assets/img/on_organisation/bullet_journal.webp/"/>
+<img src="/_assets/img/on_organisation/bullet_journal.webp"/>
 
 i've been using this system with a pocket notebook for years now, as it allows me to take notes of tasks blazingly fast and dismiss them from my mind. 
 
