@@ -53,9 +53,6 @@ google maps plays quite nicely with google's other tools, and i almost exclusive
 
 google contacts seems a bit obvious, but its super useful for tracking random people that i meet at parties and events. you can also save important data about people like birthdays and anniversary dates, and the notes tab lets you stuff whatever else you want to against their name. i guess my real advice is that contacts are great when used as a place to take any personal notes you think you'll need, rather than just a spot where you keep people's phone numbers.
 
-#### google keep
-google keep is a google cloud based notes app, a la the iphone equivalent. i end up using it as a backup for when i've left a notebook at home or if it's stuffed in the bottom of a bag. it's better than nothing, but only just
-
 ### art organisation
 keeping my art references and inspiration in check is truly an unfathomable clusterfuck. i like to keep track of video and image tutorials, construction images and stylistic inspirations in terms of character looks, expressions, techniques, composition. i also like to hold on to specific artists who tick a bunch of these boxes, because they act as a bit of a box of all these valuable pieces, as well as someone who can be contacted for info and advice. this data is spread across my tumblr, instagram saves, pinterest, phone storage, pc storage, and bookmarks and open tabs on my four devices. it is frankly impossible to keep on top of. 
 
