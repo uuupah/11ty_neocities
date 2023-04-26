@@ -88,3 +88,5 @@ the very worst thing is potentially one of the most creative artists on this lis
 <!-- https://murninatair.tumblr.com/ -->
 <!-- https://twitter.com/Nikingply // nikingply -->
 <!-- https://feyhearts.tumblr.com -->
+<!-- https://www.instagram.com/onebadnoodle_/ -->
+<!-- https://www.instagram.com/karu__art/ -->
