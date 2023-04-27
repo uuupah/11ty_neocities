@@ -17,6 +17,7 @@ https://www.tumblr.com/marciaillust/715501347033792512
 
 https://ko-fi.com/sealdeer/shop
 https://sealdeer.tumblr.com/page/sealdeer.tumblr.com
+i want more stickers but its fucking expensive on etsy
 
 look back https://www.amazon.com.au/Look-Back-Tatsuki-Fujimoto/dp/1974734641/
 

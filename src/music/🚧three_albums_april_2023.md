@@ -23,3 +23,8 @@ https://www.youtube.com/watch?v=r9186rZtCQM
 teddy teenage dads
 
 https://patricebourgeault.bandcamp.com/album/birds-and-airplanes
+
+julia kent asperities
+
+this fucking spotify playlist
+https://open.spotify.com/playlist/7LOJLuFyuETM7XNQgNGjcu?si=05d9b2ef600b407f
