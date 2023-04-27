@@ -26,6 +26,8 @@ fundamentally, this functionality is designed for researchers and students who h
 
 all this said, as a place to keep simple text notes, especially as a holding area for them to be moved elsewhere, obsidian is great. i still use it for many things, especially note tasks where markdown shines (tracking the progress of a software project and the steps required to recreate it is a big one). its more just an issue that obsidian is sold as a solve-all system where i think there are better options
 
+my obsidian thoughts are more or less in line with this [great article by fernando borretti](https://borretti.me/article/unbundling-tools-for-thought) where they talk about pushing away from this line of thinking that you need a single tool for organisation
+
 ### bullet journals
 i'm actually writing this out of order for dramatic effect. bullet journals were one of the first systems i tried using after the old faithful "just having a small book on you all the time". i think the bullet journal also tries to be a solve-all system, but its underlying system is genius. for those unaware, a bullet journal is just a list of thoughts, with certain dot points depending on the type:
 
@@ -65,13 +67,12 @@ the one thing that i am dearly lacking is a way to track videogame progress and 
 
 ### less useful solutions
 three organise methods that i have almost completely done away with are:  
-google keep - a google based notes app, a la the iphone equivalent. just like it's apple sibling this app very quickly devolves into complete chaos, making it only useful as a last resort when my notebook is buried in the bottom of a bag and i need to make a note _right now_  
-bookmarks - browser bookmarks seem like they should have a lot of potential, because they let you store any location on the internet, and they are instantly kept consistent between your devices. the real issue i've experienced with using bookmarks is that you either end up wading through nested directory hell, or you have so many top-layer directories that the bookmark you actually want is impossible to find. firefox bookmarks have a tagging system, which has potential on the surface, but is a little too clunky to keep up to date with in practice.  
-file storage - this has the same back-to-basics feel as a pen and paper notebook. if you're finding pinterest clunky to move images around, then why not go to the most simple storage system built into your operating system? i do use file storage a little bit; most notably, i will save every image that i use in an image to my pc in case i need it in the future. for mass storage and retrieval however, search is generally lacking, and the issues with keeping files consistent between multiple devices means that it's not my primary go-to
 
-<hr>
+**google keep** - a google based notes app, a la the iphone equivalent. just like it's apple sibling this app very quickly devolves into complete chaos, making it only useful as a last resort when my notebook is buried in the bottom of a bag and i need to make a note _right now_  
 
-🚧 this page is still in construction! watch this space! 🚧
+**bookmarks** - browser bookmarks seem like they should have a lot of potential, because they let you store any location on the internet, and they are instantly kept consistent between your devices. the real issue i've experienced with using bookmarks is that you either end up wading through nested directory hell, or you have so many top-layer directories that the bookmark you actually want is impossible to find. firefox bookmarks have a tagging system, which has potential on the surface, but is a little too clunky to keep up to date with in practice.  
+
+**file storage** - this has the same back-to-basics feel as a pen and paper notebook. if you're finding pinterest clunky to move images around, then why not go to the most simple storage system built into your operating system? i do use file storage a little bit; most notably, i will save every image that i use in an image to my pc in case i need it in the future. for mass storage and retrieval however, search is generally lacking, and the issues with keeping files consistent between multiple devices means that it's not my primary go-to
 
 <!-- 
 todo for this page:
