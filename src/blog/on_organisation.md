@@ -74,9 +74,7 @@ three organise methods that i have almost completely done away with are:
 
 **file storage** - this has the same back-to-basics feel as a pen and paper notebook. if you're finding pinterest clunky to move images around, then why not go to the most simple storage system built into your operating system? i do use file storage a little bit; most notably, i will save every image that i use in an image to my pc in case i need it in the future. for mass storage and retrieval however, search is generally lacking, and the issues with keeping files consistent between multiple devices means that it's not my primary go-to
 
-<!-- 
-todo for this page:
-- do a proper pass over to make sure the whole thing flows well
-- restructure for logical consistency
-- finish fleshing out my thoughts
- -->
+## conclusions
+my overall take is that this shit is hard as hell. for day to day, my pocket journal / obsidian for long term notes / google calendar for events appears to be doing the trick. i'm probably in dire need of an audit of my pinterest and i might check out grouvee for game tracking
+
+if you're trying to get into better organisational habits yourself, i would recommend the advice of cgp grey from [cortex podcast](https://www.relay.fm/cortex): start simple with paper and work your way up. a notebook will do an impressive amount of what you want to do, and you can identify flaws in it as a system and supplement them with other apps / systems. my one subjective bit of advice in this conclusion would be to be wary of any solve-all solution (for real, read the [fernando borretti article](https://borretti.me/article/unbundling-tools-for-thought))
