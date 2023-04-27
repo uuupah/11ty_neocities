@@ -90,3 +90,10 @@ the very worst thing is potentially one of the most creative artists on this lis
 <!-- https://feyhearts.tumblr.com -->
 <!-- https://www.instagram.com/onebadnoodle_/ -->
 <!-- https://www.instagram.com/karu__art/ -->
+
+<!-- cheekypastama -->
+<!-- jamdrawers -->
+<!-- jrj -->
+<!-- knebulaknight -->
+<!-- pavel-hristov -->
+<!-- sorimori -->
