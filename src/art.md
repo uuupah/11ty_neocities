@@ -1,5 +1,5 @@
 ---
-title: lists
+title: art
 layout: layout/base.njk
 eleventyImport.collections: ["art"]
 ---

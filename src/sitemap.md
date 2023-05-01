@@ -1,10 +1,16 @@
 ---
 layout: layout/base.njk
-title: pages
+title: sitemap
 ---
 <div class="pages-article">
+
+[home](/)  
+[sitemap](/sitemap/) \<-- you are here babey!!  
+[links](/links/)  
+[credits](/credits/)  
+[journal.html](/journal_html/)
 {% for tag in collections.tagsList %}
-  {{tag}}
+  [{{tag}}]({{"/" + tag + "/"}})
   {% for post in collections[tag] %}
  \- [{{ post.data.title or post.data.page.fileSlug }}](/{{ tag }}/{{ post.data.page.fileSlug }})
   {% endfor %}

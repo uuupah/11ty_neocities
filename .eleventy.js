@@ -23,7 +23,8 @@ module.exports = function (eleventyConfig) {
         })
       }
     });
-    return tagsList;
+    const sortedTagsList = new Set(Array.from(tagsList).sort());
+    return sortedTagsList;
   });
 
   // limit filter
