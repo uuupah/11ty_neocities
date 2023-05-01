@@ -26,3 +26,7 @@ one piece
 journal.html
 
 i should do dtiys
+
+https://www.instagram.com/deppa_53/
+
+https://www.reddit.com/gallery/10acji6
