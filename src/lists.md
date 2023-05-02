@@ -1,11 +1,11 @@
 ---
 title: lists
 layout: layout/base.njk
-eleventyImport.collections: ["list"]
+eleventyImport.collections: ["lists"]
 ---
 
 <div class="pages-article">
-{% for post in collections.list | reverse %}
- \- [{{ post.data.title or post.data.page.fileSlug }}](/list/{{ post.data.page.fileSlug }})
+{% for post in collections.lists | reverse %}
+ \- [{{ post.data.title or post.data.page.fileSlug }}](/lists/{{ post.data.page.fileSlug }})
 {% endfor %}
 </div>
