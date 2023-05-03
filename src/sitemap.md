@@ -8,7 +8,8 @@ title: sitemap
 [sitemap](/sitemap/) \<-- you are here babey!!  
 [links](/links/)  
 [credits](/credits/)  
-[journal.html](/journal_html/)
+[journal.html](/journal_html/)  
+[infinite nightmare list of things i want to draw](/infinite_nightmare/)  
 {% for tag in collections.tagsList %}
   [{{tag}}]({{"/" + tag + "/"}})
   {% for post in collections[tag] %}
