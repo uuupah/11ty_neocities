@@ -327,6 +327,10 @@ footer {
   object-fit: cover;
 }
 
+.infinite-nightmare img {
+  max-width: 360px;
+}
+
 /* simple lightbox pulled from https://codepen.io/nebo/pen/ONXejO */
 
 .trans
