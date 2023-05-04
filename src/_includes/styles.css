@@ -135,7 +135,7 @@ nav {
   z-index: -1;
 }
 
-.link_tiles_grid {
+.link-tiles-grid {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -143,9 +143,10 @@ nav {
   margin-bottom: var(--line-padding);
 }
 
-.link_tiles_grid>a>img {
+.link-tiles-grid>a>img {
   background-color: var(--border);
   width: 100%;
+  aspect-ratio: 1/1;
   color: var(--container)
 }
 
@@ -203,7 +204,7 @@ nav {
 
   /* switch to two columns when it gets really small */
   @media all and (max-width: 545px) {
-    .link_tiles_grid {
+    .link-tiles-grid {
       display: grid;
       grid-template-columns: 1fr 1fr;
     }
