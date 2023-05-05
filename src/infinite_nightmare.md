@@ -11,6 +11,29 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**i can't find a source for this one**  
+![](/_assets/img/infinite_nightmare/unknown_1.jpg)  
+i actually did a long legs and yaoi hands pic like this completely unplanned the other day and its a style i'd really like to keep exploring
+
+---
+
+**this look i am STEALING this LOOK and also probably THIS HAIR**  
+[link](https://www.artstation.com/artwork/3dwgWE)  
+![](https://cdna.artstation.com/p/assets/images/images/030/326/206/large/nishio-nanora-dcs3tpau8aadtkj.jpg)  
+**and also THIS look**  
+[link](https://www.artstation.com/artwork/L2xaJl)  
+![](https://cdna.artstation.com/p/assets/images/images/017/639/168/large/nishio-nanora-1.jpg?1556787843)  
+also nishio nanoro does heaps of cool mechs and medieval armour but they do feel a _little_ out of my skill level
+
+---
+
+**nikingply rabbit nuns**  
+[link](https://twitter.com/Nikingply/status/1338320001938276359/photo/1)  
+![](https://pbs.twimg.com/media/EpKqrHIVEAE0zte?format=jpg)  
+these reference sheets are super useful for inspiration and study from a particular artist as it gives a bunch of ideas all at once and also lets you compare the same art style from different angles and poses
+
+---
+
 **murninator**  
 [link](https://murninatair.tumblr.com/)  
 ![](https://64.media.tumblr.com/57fe8ea733da6bae7aebbc1ee08f1b5c/d87c3f33013086c7-1e/s1280x1920/3c7fb980b5f4190f75cd956d8daa5513fbcbac2b.png)  
