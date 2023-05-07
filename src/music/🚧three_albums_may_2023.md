@@ -6,3 +6,6 @@ draft: true
 
 nadia birkenstock
 i have a soft spot for hippie instruments. there, i said it. the harp, hand pan and marimba all have this natural warmth that i simply cannot go past
+
+https://www.youtube.com/watch?v=dRBoQqgBF_A
+thinking about her 😔

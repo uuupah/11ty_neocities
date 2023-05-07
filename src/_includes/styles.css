@@ -328,7 +328,8 @@ footer {
   object-fit: cover;
 }
 
-.infinite-nightmare img {
+.infinite-nightmare img,
+.infinite-nightmare video {
   max-width: 360px;
 }
 

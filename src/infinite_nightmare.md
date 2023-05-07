@@ -11,6 +11,23 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**axe**
+[link](https://anaxe.tumblr.com/post/715967986808373248/%CE%B8w%CE%B8#notes)  
+<video autoplay>  
+    <source src="https://va.media.tumblr.com/tumblr_rtw8xwu1N51sosrgr.mp4" type="video/mp4"></source>  
+    <img src="https://64.media.tumblr.com/tumblr_rtw8xwu1N51sosrgr_frame1.jpg"></img>  
+</video>  
+this is like a perfect practice real for expressions. the artist is quite fun with them in general so i might give them more of a look
+
+---
+
+**yuuuur on wear.net**  
+[link](https://wear.net/tub/)  
+![](https://images.wear2.jp/coordinate/p3iqJv8G/H6efEodL/1682284029_500.jpg)  
+this is an awesome repository of some normiecore / comfiecore fits that i think would make for great inspiration or reference. i can't save them to pinterest for some reason so theyre going here
+
+---
+
 **i can't find a source for this one**  
 ![](/_assets/img/infinite_nightmare/unknown_1.jpg)  
 i actually did a long legs and yaoi hands pic like this completely unplanned the other day and its a style i'd really like to keep exploring
