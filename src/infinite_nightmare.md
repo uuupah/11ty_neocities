@@ -11,9 +11,9 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
-**axe**
+**axe**  
 [link](https://anaxe.tumblr.com/post/715967986808373248/%CE%B8w%CE%B8#notes)  
-<video autoplay>  
+<video autoplay loop muted controls poster="https://64.media.tumblr.com/tumblr_rtw8xwu1N51sosrgr_frame1.jpg">  
     <source src="https://va.media.tumblr.com/tumblr_rtw8xwu1N51sosrgr.mp4" type="video/mp4"></source>  
     <img src="https://64.media.tumblr.com/tumblr_rtw8xwu1N51sosrgr_frame1.jpg"></img>  
 </video>  
