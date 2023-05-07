@@ -3,6 +3,13 @@ title: cool links
 date: 2023-03-10
 ---
 
+## name your price essentials
+[https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/](https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/)
+
+a list of highly rated albums that are "name your price" (functionally free) on bandcamp
+
+<a href="https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/"><img src="/_assets/img/cool_links/free_essentials.jpg"/></a>
+
 ## console variations
 [https://consolevariations.com/](https://consolevariations.com/)
 
