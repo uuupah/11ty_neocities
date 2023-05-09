@@ -3,7 +3,7 @@ layout: layout/base.njk
 title: journal.html
 ---
 
-**2023.05.09**
+**2023.05.09**  
 started playing tunic, i think i'm going to drop cave story because monster x is outrageously difficult. took part in this weekend's splatfest (go team power!). started watching girl's last tour, joshiraku and skip and loafer. went to an art exhibition and watched a painting tutorial, and completed a [drawing of the artist](/art/my-art-2023/) that i'm pretty proud of
 
 **2023.05.03**  

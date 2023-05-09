@@ -8,6 +8,7 @@ hey what's up! my name is uuupah. im a twenty-something non-binary (they/them pl
 ### recent updates 
 
 <div class="updates-field">
+(check <a href="journal_html">journal.html</a> as well)
 {% for post in collections.post | reverse | limit(5) %}
     <p>{{ post.page.date.toLocaleDateString("en-UK") }} - [{{ post.data.title }}]({{post.filePathStem}}) [{{post.data.tags[0]}}]</p>
 {% endfor %}

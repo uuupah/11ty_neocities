@@ -85,7 +85,6 @@ the very worst thing is potentially one of the most creative artists on this lis
 🚧 this page is still in construction! watch this space! 🚧
 
 <!-- glacierclear -->
-<!-- https://murninatair.tumblr.com/ -->
 <!-- https://twitter.com/Nikingply // nikingply -->
 <!-- https://feyhearts.tumblr.com -->
 <!-- https://www.instagram.com/onebadnoodle_/ -->
