@@ -11,6 +11,20 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**tf2 official fem mercs**  
+[link](https://www.reddit.com/gallery/10acji6)  
+![](https://preview.redd.it/f1wzku48soba1.png?width=748&format=png&auto=webp&v=enabled&s=3637b40447391a48acdbcbb3fad1aa927dc6d154)  
+someone rustled up a huge load of female versions of the tf2 mercenaries in the tf2 source code leak back in 2020, and to the best of my knowledge this is the most convenient way to look at them. i love the way the character traits are communicated visually, and the pics are also just great inspiration for drawing similar characters in the future
+
+---
+
+**deppa53**  
+[insta](https://www.instagram.com/deppa_53/) // [tumblr](https://sdns53.tumblr.com/archive)  
+![](https://64.media.tumblr.com/8c9c9961ab126654570818f1a325660e/4a8336280a4358ce-b1/s1280x1920/eacdff6bf2da569302febbc967f3a1b98c2907b1.jpg)  
+deppa has this incredible flexibility as someone who is clearly incredibly skilled, but is able to give their art extra punch by drawing with a more casual look. their style fluctuates a lot, but they seem to largely work in pen, brush pen, and 1px digital tools and in monochrome. they use a lot of black infill, which is also something i'd like to experiment with  
+
+---
+
 **madina creates**  
 [link](https://www.instagram.com/madinacreates/)  
 ![](/_assets/img/infinite_nightmare/madina_creates.webp)  
