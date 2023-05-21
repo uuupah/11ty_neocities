@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**onebadnoodle**
+[link](https://www.instagram.com/onebadnoodle_)
+![](https://pbs.twimg.com/media/FwoGQqAXoAUnls3)
+again with the character design with a cool anatomy shorthand. their creature designs are also really compelling and are consistent with their overall look
+
+---
+
 **tf2 official fem mercs**  
 [link](https://www.reddit.com/gallery/10acji6)  
 ![](https://preview.redd.it/f1wzku48soba1.png?width=748&format=png&auto=webp&v=enabled&s=3637b40447391a48acdbcbb3fad1aa927dc6d154)  
