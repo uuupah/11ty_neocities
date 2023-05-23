@@ -11,9 +11,9 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
-**onebadnoodle**
-[link](https://www.instagram.com/onebadnoodle_)
-![](https://pbs.twimg.com/media/FwoGQqAXoAUnls3)
+**onebadnoodle**  
+[link](https://www.instagram.com/onebadnoodle_)  
+![](https://pbs.twimg.com/media/FwoGQqAXoAUnls3?format=jpg)  
 again with the character design with a cool anatomy shorthand. their creature designs are also really compelling and are consistent with their overall look
 
 ---
