@@ -135,7 +135,8 @@ nav {
   z-index: -1;
 }
 
-.link-tiles-grid {
+.link-tiles-grid,
+.album-tiles-grid {
   width: 100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
@@ -143,11 +144,18 @@ nav {
   margin-bottom: var(--line-padding);
 }
 
-.link-tiles-grid>a>img {
+.link-tiles-grid>a>img, 
+.album-tiles-grid>a>img {
   background-color: var(--border);
   width: 100%;
   aspect-ratio: 1/1;
   color: var(--container)
+}
+
+.album-tiles-grid iframe {
+  border: 0 !important; 
+  width: 100% !important; 
+  aspect-ratio: 1 !important;
 }
 
 @media all and (max-width: 1100px) {
