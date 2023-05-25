@@ -11,6 +11,14 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**itsmissing wizards**  
+[link](https://itsmissing.tumblr.com/post/705175961916882944/itsmissing-just-some-of-the-funny-wizards-i)  
+![](https://64.media.tumblr.com/3f72c75d9c831c8608ce6b22f5bb4a24/106ffa3f388df261-62/s1280x1920/860d4fafa9881fcc31ba8d7f3bd11b7dac5777de.png)  
+![](https://64.media.tumblr.com/cd8ec3cc82e76e6f77b743dd03fe4e36/106ffa3f388df261-4a/s1280x1920/f37099cc124192457cc41aa6246d6564bcb0a9a2.png)  
+these are truly incredible, such a good kickstart for character design inspiration. the amount of fussing and research and raw imagination required for these kinds of designs is frankly staggering
+
+---
+
 **onebadnoodle**  
 [link](https://www.instagram.com/onebadnoodle_)  
 ![](https://pbs.twimg.com/media/FwoGQqAXoAUnls3?format=jpg)  
