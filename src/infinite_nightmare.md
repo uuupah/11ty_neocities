@@ -60,13 +60,13 @@ this is like a perfect practice reel for expressions. the artist is quite fun wi
 **yuuuur on wear.net**  
 [link](https://wear.net/tub/)  
 ![](https://images.wear2.jp/coordinate/p3iqJv8G/H6efEodL/1682284029_500.jpg)  
-this is an awesome repository of some normiecore / comfiecore fits that i think would make for great inspiration or reference. i can't save them to pinterest for some reason so theyre going here. if you know where it's from let me know in the guestbook!
+this is an awesome repository of some normiecore / comfiecore fits that i think would make for great inspiration or reference. i can't save them to pinterest for some reason so theyre going here.
 
 ---
 
 **i can't find a source for this one**  
 ![](/_assets/img/infinite_nightmare/unknown_1.jpg)  
-i actually did a long legs and yaoi hands pic like this completely unplanned the other day and its a style i'd really like to keep exploring
+i actually did a long legs and yaoi hands pic like this completely unplanned the other day and its a style i'd really like to keep exploring. if you know where it's from let me know in the guestbook!
 
 ---
 
