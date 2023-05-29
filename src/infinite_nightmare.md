@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**knebula knight**  
+[link](https://www.tumblr.com/knebulanight/696696475890171904/regalia-still-kickin-ass-and-talkin-sass-in)  
+![](https://64.media.tumblr.com/441cc1b3e7982468f64cc352877d9bc0/b899581674e2cf32-f8/s540x810/7f0bd9b45e2f57819b076821d74b6ad16adbce6f.pnj)  
+i've had this tab with this character sheet open for probably six months because i just find this character so damn appealing. knebula also has a real mnaster touch with colour, and is a great inspiration for tying colour together for dark skinned characters  
+
+---
+
 **itsmissing wizards**  
 [link](https://itsmissing.tumblr.com/post/705175961916882944/itsmissing-just-some-of-the-funny-wizards-i)  
 ![](https://64.media.tumblr.com/3f72c75d9c831c8608ce6b22f5bb4a24/106ffa3f388df261-62/s1280x1920/860d4fafa9881fcc31ba8d7f3bd11b7dac5777de.png)  
