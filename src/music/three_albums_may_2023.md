@@ -1,21 +1,30 @@
 ---
 title: three albums - may 2023
 date: 2023-06-01
-draft: true
 ---
 
 this month's playlist is [here!](https://open.spotify.com/playlist/6BU15m431CObSKIN0FeLgQ?si=6b85e44c13e6416a)
 
-### 3. asperities - julia kent  
+### 3. hello, my name is pipotaku - pipotaku  
+<iframe style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=2704358402/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://pipotaku.bandcamp.com/album/hello-my-name-is-pipotaku">Hello, My Name Is Pipotaku by Pipotaku</a></iframe>  
+
+i'm going to talk further down this post about my sickly game score depedency and the lengths that i've gone to to kick the habit. while something like the skyrim soundtrack is a bit more complicated, the breakbeat tracks from neon white are a lot easier to emulate. while machine girl has plenty of albums with a similar vibe ([gemini](https://machinegirl.bandcamp.com/album/gemini) is a great example), i'm always keeping an eye on new artists coming into the scene
+
+what sets hello, my name is pipotaku apart from the rest of this flavour of music is a little difficult to pinpoint exactly, but from a purely subjective angle it does scratch a happy little itch in my head. it may be as simple as it being a full half hour of tracks without a dud, or the way that it takes many common breakcore sounds but sharpens them to a razors edge for a really satisfying final experience
+
+this should also be a subtle push to go through and listen to their entire discography, as it sits just barely over an hour and has a comprehensive feel that lets you jump from one directly into the next
+
+### 2. ultraviolet - kelly moran
+<iframe style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=3704305105/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kellymoran.bandcamp.com/album/ultraviolet">Ultraviolet by kelly moran</a></iframe>  
+
+i adore prepared piano and have since i first listened to [jynweythek](https://aphextwin.bandcamp.com/track/jynweythek) many years ago. you can get really ridiculous about it if you want to, but sometimes simply adding some items to make a piano sound harsher and tinnier adds all the spice that's really necessary to elevate the experience. the piano drives all of the tracks with some light drones performing a harmony role to fill in the overall tone of each piece. i found this  super refreshing after both the high energy of pipotaku's discography and the more complex ambient and modern classical music i was trying out through the month
+
+### 1. asperities - julia kent  
 <iframe style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=3258924639/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://music.juliakent.com/album/asperities">Asperities by Julia Kent</a></iframe>  
 
 i think (embarassingly) that this album caught my attention because the first track, hellebore, sounds initially like something from the dark souls soundtrack. the string melody fading in and out of the piece in layers reminds me of [firelink shrine](https://www.youtube.com/watch?v=pJhVgB_H-Q8), but thankfully the rest of the album isnt just aping this same aesthetic
 
-### 2. hello, my name is pipotaku - pipotaku  
-<iframe style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=2704358402/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://pipotaku.bandcamp.com/album/hello-my-name-is-pipotaku">Hello, My Name Is Pipotaku by Pipotaku</a></iframe>  
-
-### 1. ultraviolet - kelly moran
-<iframe style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=3704305105/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://kellymoran.bandcamp.com/album/ultraviolet">Ultraviolet by kelly moran</a></iframe>  
+asperities has the aesthetic of a more progressive ambient album, but uses entirely orchestral instruments rather than drones and synthesised sound (at least as far as i can tell). the melodies are repetitive but driven, almost like the opening build up to the big crescendo of a pivotal scene in a fantasy or historical drama, except that crescendo never comes. that might sound negative, but it just means that you get to really absorb the mournful beauty of the sound
 
 ### other musical musings
 
@@ -38,4 +47,4 @@ i have a soft spot for hippie instruments. there, i said it. the harp, hand pan 
 #### trauma center 2  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/dRBoQqgBF_A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
-this track is delightful, end of thought
+i just remembered that this exists and i like it a lot
