@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2023.06.01**  
+put in a new music post today; its a bit shorter than they normally are, but that's partly because i was somewhat musically distracted this month (read the post to see why), and because i have a couple of other posts in the works. keep an eye out for a blog post, a game post, and maybe something new
+
 **2023.05.09**  
 started playing tunic, i think i'm going to drop cave story because monster x is outrageously difficult. took part in this weekend's splatfest (go team power!). started watching girl's last tour, joshiraku and skip and loafer. went to an art exhibition and watched a painting tutorial, and completed a [drawing of the artist](/art/my-art-2023/) that i'm pretty proud of
 
