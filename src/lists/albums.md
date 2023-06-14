@@ -44,6 +44,10 @@ date: 2023-06-14
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_l13KkpcJNof8bT38IDALP1zpZilzIvQP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>music tranquilizer - kaoru ono</b>
     </div>
+    <div>
+        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1734574665/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://felixrosch.bandcamp.com/album/piano-2">Piano by Felix Rösch</a></iframe>
+        <b>piano - felix rösch</b>
+    </div>
 </div>
 
 # soundtracks
@@ -51,27 +55,35 @@ date: 2023-06-14
 <div class="album-tiles-grid">
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mbQxWvaWie-adhtXtm6b2X0qM-2zoRJio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>the elder scrolls v: skyrim - jeremy soule</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZuZrScKjWOMAEEBEGTmAGtmmlg6QY7bC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>persona 5 - shoji meguro</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=816099561/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://infiniteammo.bandcamp.com/album/night-in-the-woods-vol-1-at-the-end-of-everything">Night in the Woods Vol. 1: At The End Of Everything by Alec Holowka</a></iframe>
+        <b>night in the woods - alec holowka</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mYoJDBgR0t-BCy-Y-K4u3ro0sDVYRoIF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>mirror's edge catalyst - solar fields</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mJQUNw78Oc2RO3imwBugUq9rchF53rkj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>a hat in time - pascal michael stiefel</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=3091311371/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://widdly2diddly.bandcamp.com/album/lisa-soundtrack">LISA Soundtrack by Widdly 2 Diddly</a></iframe>
+        <b>lisa - widdly 2 diddly</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?controls=0&amp;list=OLAK5uy_mVPS-4XM_sVgQroZkZsFYvTzEuFqwHEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>masashi hamauzu</b>
     </div>
     <div>
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=709270856/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack">Chicory: A Colorful Tale (Original Soundtrack) by Lena Raine</a></iframe>
+        <b>chicory: a colorful tale - lena raine</b>
     </div>
 </div>
 
