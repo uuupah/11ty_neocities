@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2023.06.14**  
+sorry for the lack of new posts! my life has been a little crazy recently between a lot of personal commitments and a lot of events going on this time of year. i'm taking part in an art exhibition in a month and a half which is very exciting, but it means that most of my art is iterative work on the same concepts that isn't desperately interesting to look at. i've been playing a lot of satisfactory and a lot of splatoon 3!
+
 **2023.06.01**  
 put in a new music post today; its a bit shorter than they normally are, but that's partly because i was somewhat musically distracted this month (read the post to see why), and because i have a couple of other posts in the works. keep an eye out for a blog post, a game post, and maybe something new
 

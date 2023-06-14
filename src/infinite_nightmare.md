@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**dogmageddon**  
+[link](https://www.instagram.com/dogmageddon/)  
+![](/_assets/img/infinite_nightmare/dogmageddon.webp)  
+seeing this artist on my timeline gave me immense whiplash because they structure their bodies in a very similar way to me, just with a lot more practice and experience. i don't really do much furry art but i reckon their anatomy shorthand would be really useful for me to work on my own stylisation  
+
+---
+
 **knebula knight**  
 [link](https://www.tumblr.com/knebulanight/696696475890171904/regalia-still-kickin-ass-and-talkin-sass-in)  
 ![](https://64.media.tumblr.com/441cc1b3e7982468f64cc352877d9bc0/b899581674e2cf32-f8/s540x810/7f0bd9b45e2f57819b076821d74b6ad16adbce6f.pnj)  
