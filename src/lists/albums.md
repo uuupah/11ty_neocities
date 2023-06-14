@@ -1,6 +1,6 @@
 ---
 title: my favourite music
-draft: true
+date: 2023-06-14
 ---
 
 # albums
