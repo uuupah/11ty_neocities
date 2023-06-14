@@ -28,6 +28,10 @@ draft: true
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1344380888/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://12kmusic.bandcamp.com/album/twine">Twine by Taylor Deupree &amp; Marcus Fischer</a></iframe>
         <b>twine - taylor deupree & marcus fischer</b>
     </div>
+    <div>
+        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kAvEij43J5GYQaLVdL4hzUKsWSEDHgYdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>troupeau bleu - cortex</b>
+    </div>
 </div>
 
 # soundtracks
@@ -59,4 +63,8 @@ draft: true
     </div>
 </div>
 
-# artists
+<!-- # artists -->
+
+<hr>
+
+🚧👷‍♂️ this page is still in construction! watch this space! 👷‍♀️🚧
