@@ -32,6 +32,18 @@ date: 2023-06-14
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kAvEij43J5GYQaLVdL4hzUKsWSEDHgYdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>troupeau bleu - cortex</b>
     </div>
+    <div>
+        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1401193641/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://machinegirl.bandcamp.com/album/gemini">Gemini by Machine Girl</a></iframe>
+        <b>gemini - machine girl</b>
+    </div>
+    <div>
+        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_nKQ0aamXCuH4pX1DBmYj4tIgvB3Bex0iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>a letter from slowboat - ryo fukui</b>
+    </div>
+    <div>
+        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_l13KkpcJNof8bT38IDALP1zpZilzIvQP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>music tranquilizer - kaoru ono</b>
+    </div>
 </div>
 
 # soundtracks
