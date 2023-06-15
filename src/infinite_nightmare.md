@@ -9,9 +9,11 @@ thats just art baby! people are naked a _lot_ as it turns out
 
 welcome to the infinite nightmare list aka a big dumpster for me to put art related stuff that i want to revisit at some point. each section should have a reason that i want to revisit a link. also, i will probably just take images directly from the source so if shit is broken then that would be why
 
+---
+
 **cheeb // ch33bster**  
 [link](https://www.instagram.com/ch33bster/)  
-![](_assets/img/cheeb.jpg)  
+![](/_assets/img/cheeb.jpg)  
 these lovely round characters are all friend shaped and i want to use their style so bad when i get back into hyper stylisation (i'm writing this while still being in the thick of it for the art exhibition)  
 
 ---
