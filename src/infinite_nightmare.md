@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**87sukiyaki // panapana**  
+[link](https://twitter.com/87sukiyaki)  
+![](https://pbs.twimg.com/media/FUxbDRiakAA1H8n?format=jpg&name=small)  
+this is maybe a bit self indulgent or maybe just an artist i want to make a more permanent record of but i love them sm. the gorgon character gets a lot of airtime but there are loads of other monsters that are super cool  
+
+---
+
 **lyla atsv concept art**  
 [link](https://twitter.com/Luna27202713/status/1668747457076011008)  
 ![](https://pbs.twimg.com/media/FyiU90FaMAE-kiw?format=jpg&name=900x900)  
