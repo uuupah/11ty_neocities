@@ -1,6 +1,6 @@
 ---
 title: "my art 2023"
-date: 2023-06-23
+date: 2023-06-21
 ---
 
 <div class="gallery">
