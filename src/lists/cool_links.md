@@ -1,6 +1,6 @@
 ---
 title: cool links
-date: 2023-03-10
+date: 2023-06-21
 ---
 
 ### name your price essentials
@@ -47,3 +47,10 @@ in the early 80s, sega, nintendo and atari had a stranglehold on the videogame m
 your average pre-2015 mechanical keyboard enthusiast. you can tell they really cares about the holistic aesthetic of the mid-80s mechanical keyboard and what makes them unique over the more capitalist focused modern offerings
 
 <a href="https://pgrkbd.web.fc2.com/"><img src="/_assets/img/cool_links/filco.jpg"/></a>
+
+### brisray
+[https://brisray.com/](https://brisray.com/)
+
+this dude has been keep his little personal site up for 24 years and covers a staggering number of topics. my personal favourites are his thoughts on 9/11, written in october of 2001, and the page where he talks in length about his shoes
+
+<a href="https://brisray.com/"><img src="/_assets/img/cool_links/brisray.jpg"/></a>
