@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**dimitris pantazis**  
+[link](https://www.instagram.com/p/Cr8_PqeIsbu/)  
+![](/_assets/img/infinite_nightmare/dimitrispantazis.jpg)  
+examples of heavy stylisation, proper use of copic markers and detail in linework. they make the lines look really effortless but as always its probably the result of years of practise instead  
+
+---
+
 **xeonsoda**  
 [link](https://www.instagram.com/p/Ctri0Q6OwWw/)  
 ![](/_assets/img/infinite_nightmare/xeonsoda.jpg)  
