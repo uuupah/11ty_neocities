@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**xeonsoda**  
+[link](https://www.instagram.com/p/Ctri0Q6OwWw/)  
+![](/_assets/img/infinite_nightmare/xeonsoda.jpg)  
+these sum up a million things that i've been thinking about - varied character shapes, simple storytelling, actually learning to use copics properly, characters with fun animal ears, how much i'm fucking itching to draw something that's not the four pieces i keep workshopping for my exhibition  
+
+---
+
 **cheeb // ch33bster**  
 [link](https://www.instagram.com/ch33bster/)  
 ![](/_assets/img/infinite_nightmare/cheeb.jpg)  
