@@ -1,6 +1,6 @@
 ---
 title: three albums - june 2023
-date: 2023-06-01
+date: 2023-07-01
 ---
 
 this is likely going to be a shorter post than usual, but this month's playlist is [here](https://open.spotify.com/playlist/7EMFyjdCmvrF2q2q8mvKJ6?si=e8fccb3f063f4699)  
