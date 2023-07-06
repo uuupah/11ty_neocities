@@ -50,7 +50,7 @@ h3 {
   margin-bottom: var(--line-padding);
 }
 
-h4 {
+h4, h5 {
   margin-top: var(--line-padding);
   margin-bottom: var(--line-padding);
 }
