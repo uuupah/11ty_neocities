@@ -13,7 +13,7 @@ these let you spoof pokemon events like you used to get at game shops from a hom
 ### satisfactory optimal alternate recipes
 [https://www.reddit.com/r/SatisfactoryGame/comments/mpjzfb/optimal_alternate_recipes_pushing_the_raw/](https://www.reddit.com/r/SatisfactoryGame/comments/mpjzfb/optimal_alternate_recipes_pushing_the_raw/)  
 ❗[local backup](/unlisted/optimal_alternate_recipes/)❗  
-this breakdown is so unbelievable solid that i've backed it up to my own damn website. reddit might go down but this thing ain't
+this breakdown is so unbelievably solid that i've backed it up to my own damn website. reddit might go down but this thing ain't
 
 ### lushfoil walking sims  
 [https://lushfoil.itch.io/](https://lushfoil.itch.io/)  
