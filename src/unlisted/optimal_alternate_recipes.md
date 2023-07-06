@@ -6,7 +6,7 @@ this guide is absolutely stellar for planning out your satisfactory factory, but
 
 ---
 
-![](/_assets/img/unlisted/optimal_alternate_recipes/maximum_output_potential_production_map.jpg/)
+![](/_assets/img/unlisted/optimal_alternate_recipes/maximum_output_potential_production_map.jpg)
 ##### Maximum Output Potential Production Map
 
 A few days ago, I posted a [alternate recipe ranking](https://www.reddit.com/r/SatisfactoryGame/comments/mnwugx/update_4_alternate_recipe_indepth_analysis/?utm_source=share&utm_medium=web2x&context=3) for making the game easier using a mathematical model I created. There were some commenters that didn't like seeing some recipes ranked below others. My reasoning was that there are some major trade-offs, and the post's goal was to choose recipes that make the game easier. **I said I would provide another ranking for maximizing the raw resources.**
@@ -214,7 +214,7 @@ The production map from the two is extremely different. The Sanity and Productiv
 The Employee of the Universe strategy makes 50% more products at full capacity, but uses 72% more buildings. The choice is up to how much time you are willing to put into it. It's the same ratios when scaled down, so if you don't plan to max out the game, go for Sanity and Productivity.
 
 #### Sanity and Productivity 
-![](/_assets/img/unlisted/optimal_alternate_recipes/sanity_and_productivity.jpg/)
+![](/_assets/img/unlisted/optimal_alternate_recipes/sanity_and_productivity.jpg)
 
 #### Employee of the Universe (Plus Optional Recipes)
-![](/_assets/img/unlisted/optimal_alternate_recipes/employee_of_the_universe.jpg/)
+![](/_assets/img/unlisted/optimal_alternate_recipes/employee_of_the_universe.jpg)
