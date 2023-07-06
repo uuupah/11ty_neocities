@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2023.07.06**  
+my general situation has stabilised a lot so i'm planning on doing a lot more on the site. i'm inspired by [desert jaguar](https://desertjaguar.casa/)'s scraps vs thoughts layout and i plan to keep migrating lists from my bookmarks and obsidian to the site - it feels like a great way to keep them in a centralised spot for my own use, as well as hopefully share some neat stuff with people who might not have seen them. i am finding the colour scheme is a little muddy for pages like [cool game links](/lists/cool_game_links) so i'm going to toy with the colour scheme a little bit in the next couple of days
+
 **2023.06.14**  
 sorry for the lack of new posts! my life has been a little crazy recently between a lot of personal commitments and a lot of events going on this time of year. i'm taking part in an art exhibition in a month and a half which is very exciting, but it means that most of my art is iterative work on the same concepts that isn't desperately interesting to look at. i've been playing a lot of satisfactory and a lot of splatoon 3!
 
