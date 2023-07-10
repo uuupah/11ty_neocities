@@ -1,6 +1,10 @@
 ---
 title: eastward
-draft: true
+date: 2023-07-10
+---
+
+⚠️ i'm spoiling this bitch! don't read if you intend to play it! ⚠️
+
 ---
 
 i bought eastward within a couple of days of release (16th september 2021), and i finally finished it at the start of july. i think that says a lot about both the flaws and strengths the game might have; the story is overall plagued by weird pacing (although i think it might be somewhat intentional), but it has enough going for it to drag me back in and finally finish it ten months later.
@@ -19,6 +23,13 @@ the game's structure also does a stellar job of reinforcing the world itself. wh
 the music of the game is lovely, although i'm hesitant to talk about it much after hearing it quite as much as i did. most of the tracks are under two minutes and can loop multiple times through the games long dialogue and exploration scenes. that whinging aside, the music is a perfect fit for the earthbound nostalgia that the game is playing with and i enjoyed it immensely.
 
 ### gameplay
+when it comes to actually _playing_ the game, the experience is fairly neatly split into combat and exploration. the latter largely covers the time you'll spend in town talking to people, doing small tasks, looking for little side objectives, moving the story along and preparing for upcoming combat. this includes the game's cooking minigame which i see as a deeply iconic and core experience that sets eastward apart from a lot of similar experiences. the cooking itself is fairly simple and very reminiscent of something like breath of the wild: combine three ingredients and an optional spice, try to score a big number on the cooking slots, and then watch a little animation to receive your final dish. ingredients fit into groups (meat, fish, dairy and eggs, fruit, vegetables) which are used to determine about half of the recipes, but more specific ingredient combinations can give you more specific outputs, like pizza, pumpkin soup or takoyaki. the cooking element pulls triple duty, as a way to give yourself healing and buffs during combat, an action that links directly to john's character of being caring and loving, and for making ingredients a surprisingly compelling reward in the combat-based areas of the game. 
+
+speaking of combat, eastward provides a fun experience of hacking your way through the wilds to whatever character or mcguffin you need to find to keep the story moving. john is permanently equipped with his frying pan as a short range melee weapon, which has a slow and weighty swing with a bit of knockback, and which gets upgraded throughout the game at key plot points. to my pure delight, each visual change to the frying pan is mirrored in the cooking animation, an attention to detail that i hadn't expected to see. there are also three guns which didn't get _heaps_ of use in my playthrough: a short range shotgun, a short to medium range flamethrower, and a long range sawblade gun. ammo is fairly limited and i found that good placement with the frying pan with its knockback effect made it an easier weapon to use most of the time, even if the damage was maybe a quarter of what the guns provide. 
+
+the guns (and bombs) are also used during environmental puzzles, which i found were balanced to be just long enough to not be fatiguing. they're not desperately complicated, but they're also not pokemon-level simple, and some of the latter ones required me to take a couple of goes to get through. for a story based game, not halting the flow for too long is pretty key, and i reckon they nailed it just about perfect. 
+
+that covers the majority of gameplay elements! i also thought it worth mentioning that enemy variety is solid, both visually and mechanically, and bosses were also quite fun looking, even if most of them could be completed first go. overall, a really good match for the story the game wanted to tell.
 
 ### story
 i'm really not 100% sure with the story of this game. i felt myself wondering what the point of it was; you don't get that with a final fantasy, for example, because the point is to trust in your friends, stand up for what you believe in, and kill the big monster that is threatening the world etc etc. eastward has all these things, but the courage of the characters is never called into question and is more a bigone conclusion, which leaves any player with a bit of media literacy asking what the experience is trying to _tell_ you. quickly changing settings with a varied cast of characters also sets off my metaphor-meter, even though i don't think there was really meant to be any. while i think i did come to a satisfying conclusion after a little bit of googling (which i will discuss throughout this section, so spoiler alert) i decided that i didn't really care about that, because the dynamic of the main characters is what kept me going.
@@ -30,32 +41,4 @@ sam's saccharine perspective stems from this relationship; because she isn't jad
 i was also largely lost by the time travel, the significance of solomon, and the whole ending. i like to the think the end-end is the result of sam's rebirth after joining with mother; she's come back to the world somehow and stumbled on to an older john who has been making it without her. i thing it's meant to represent the end of the cycles caused by mother, but it could just as easily be interpreted as just another one. i feel like we're a bit inundated with time travel and multiverse stories these days, and i honestly would have liked to see the story explored without it; this was my issue with 13 sentinels as well, where too many twists are layered on top of each other and they lose all their punch. at least they didn't pull an "it was all a simulation" one at the end. boom! spoiler in a spoiler.
 
 ### finally
-i think that eastward is truly one of the prettiest games i have ever seen, with one of the most charming worlds i have ever experienced. it's unfortunate that a lot of the story and structure didnt quite land for me, but like with jrr tolkien, some people are excellent worldbuilders and just good story writers; it's unfortunately pretty difficult to publish a world with no story to experience in it.
-
-- aesthetic
-- music
-- story
-  - john's trauma
-  - sam's saccharine perspective
-    - the aesthetic supports this - music, aesthetics, _general_ tone of the day to day
-    - the veil is only lifted occasionally
-  - the game actively makes you forget the terror of the world that comes and goes
-  - sam's weird alter ego makes two appearances in the first three chapters and then disappears for ages
-  - overall the story is a bit disjointed and changes feel a _lot_ 
-- gameplay
-  - combat
-    - game punishes you for just wailing on enemies,
-    - swing cooldown makes it hard to move after swinging
-  - story scenes
-- why i kept coming back
-  - game can be a bit slow, but charm is high
-  - game is also not that intriguing to begin with , but i think thats because 
-  of the aforementioned saccharine perspective shifting all the intrigue to the 
-  background
-  - got put down a couple of times
-  - combat can be surprisingly challenging
-- cooking focus
-  - detail and music in cooking minigame 
-- melancholic phrases from the tv
-  - "you've gotten stronger, but getting stronger isn't your goal, is it"
-  - mother reference but cool
+i think that eastward is truly one of the prettiest games i have ever seen, with one of the most charming worlds i have ever set foot in. i think the conclusion unfortunately let the game down a little, but i loved the story itself and the wholistic experience of the setting that comes from the characters and plots within it.
