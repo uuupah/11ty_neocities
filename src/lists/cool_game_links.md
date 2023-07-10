@@ -1,5 +1,6 @@
 ---
 title: cool game links
+date: 2023-07-06
 ---
 
 ### splatoon 3 gear seed checker  
