@@ -78,3 +78,7 @@ three organise methods that i have almost completely done away with are:
 my overall take is that this shit is hard as hell. for day to day, my pocket journal / obsidian for long term notes / google calendar for events appears to be doing the trick. i'm probably in dire need of an audit of my pinterest and i might check out grouvee for game tracking
 
 if you're trying to get into better organisational habits yourself, i would recommend the advice of cgp grey from [cortex podcast](https://www.relay.fm/cortex): start simple with paper and work your way up. a notebook will do an impressive amount of what you want to do, and you can identify flaws in it as a system and supplement them with other apps / systems. my one subjective bit of advice in this conclusion would be to be wary of any solve-all solution (for real, read the [fernando borretti article](https://borretti.me/article/unbundling-tools-for-thought))
+
+### update 2023-07-10
+
+i am well and truly locked into [infinite backlog](https://infinitebacklog.nl/) for game tracking. i was previously using a custom obsidian system for tracking all my game stuff, and infinite backlog immediately impressed me because it used the same tiered system that i had envisioned with states of play and states of completion separated. this lets you track both a list of games that you have and haven't completed, as well as games that you are or are not playing separately. it truly ticks all the boxes for me and i'm super into it
