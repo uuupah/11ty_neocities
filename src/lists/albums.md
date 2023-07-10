@@ -48,6 +48,10 @@ date: 2023-06-14
         <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1734574665/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://felixrosch.bandcamp.com/album/piano-2">Piano by Felix Rösch</a></iframe>
         <b>piano - felix rösch</b>
     </div>
+    <div>
+        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=2586530263/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://nanoray.bandcamp.com/album/zapper">ZAPPER by NANORAY</a></iframe>
+        <b>zapper - nanoray</b>
+    </div>
 </div>
 
 # soundtracks
