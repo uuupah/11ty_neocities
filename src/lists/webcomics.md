@@ -31,5 +31,12 @@ another homestuck-like, this time with anthropomorphic bugs. couple of hateful c
 
 the assorted works of internet crazy person andrew hussie are varied, and have also not really stood the test of time (especially with the death of flash). while there is some 2000's style questionable subject matter lightly sprinkled in amongst them, and homestuck went slightly off the rails when it comes to writing a grand metaphor about the reader / writer interaction, they are absolute classics that i still believe are worth reading. homestuck is a real big one, so i would recommend going through them in the order of sweet bro -> problem sleuth -> homestuck. problem sleuth in particular is very tightly written and wraps up quite neatly, so if you get through that and then had to stop during homestuck i won't blame you.
 
-<a href="https://bambosh.dev/unofficial-homestuck-collection/index.html"><img src="https://www.homestuck.com/storydata/sweet/archive/001.jpg
-" height="300px"></a>
+<a href="https://bambosh.dev/unofficial-homestuck-collection/index.html"><img src="https://www.homestuck.com/storydata/sweet/archive/001.jpg" height="300px"></a>
+
+### what happens next
+[read here ❗content warning for murder and the gamut of queer issues❗](https://whathappensnext.webcomic.ws/archive/)
+
+a really wild comic about trans people in the real world and tumblr / true crime culture. deals with some really heavy stuff so read the content warning for each sub-story.
+
+<a href="https://whathappensnext.webcomic.ws/archive/"><img src="https://img.comicfury.com/comics/223/51537a1636508411b68615f61136977.png" height="300px"></a>
+
