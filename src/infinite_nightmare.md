@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**hoho_chip**  
+[link](https://www.instagram.com/hoho_chip/)  
+![](/_assets/img/infinite_nightmare/hohochip.jpg)  
+this artist does a lot of extreme stylisation with a very loose hand. their side-by-sides with references are really neat to try and understand their process, and their use of digital watercolours and pastels is something that i would like to try  
+
+---
+
 **dimitris pantazis**  
 [link](https://www.instagram.com/p/Cr8_PqeIsbu/)  
 ![](/_assets/img/infinite_nightmare/dimitrispantazis.jpg)  
