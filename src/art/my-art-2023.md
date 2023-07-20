@@ -3,7 +3,10 @@ title: "my art 2023"
 date: 2023-06-21
 ---
 
+<!-- TODO: add some kind of fixed aspect ratio so that these are nice and consistent-->
+<!-- TODO: add fallback images -->
 <div class="gallery">
+    <a href="#img_12"><img src="https://64.media.tumblr.com/fffe9f99eeea285cabdf0ca126a1017f/d4da3637e0f536c0-35/s2048x3072/40c08ec10034d9698876d0c48d794f16b4ae8899.pnj"/></a>
     <a href="#img_11"><img src="https://64.media.tumblr.com/ad99929cb7e9d6d9f3e249097f267b9f/0dbbfadbd374e273-9e/s2048x3072/99750ec2c751902fe61886d2496375780ae08378.jpg"/></a>
     <a href="#img_10"><img src="https://64.media.tumblr.com/1afae6b1d2fc3aa7c9065286868fbe24/07a0cf26eae49890-53/s2048x3072/a2513039ca4f97faf4a728dfd6dda855e1f99f1d.jpg"/></a>
     <a href="#img_9"><img src="https://64.media.tumblr.com/310f556700075702736d3889c291726d/547275473b97e7a6-5b/s2048x3072/b4589a7ac8a2e71f16c51037a8fa0ec295165667.jpg"/></a>
@@ -16,6 +19,7 @@ date: 2023-06-21
     <a href="#img_5"><img src="https://64.media.tumblr.com/da0b202b2ebd573a0a597b107a801abb/94d35b22379fa929-e0/s2048x3072/aff3b24a5572df5edd25b72546c13624d4fe76c3.jpg"/></a>
     <a href="#img_6"><img src="https://64.media.tumblr.com/571a72794b015e108fa087960aee10a6/fd7bb0b078b20401-35/s2048x3072/deab9b35634fe79e06dc96bfc2ee7f337f138a61.jpg"/></a>
 </div>
+<a href="#_12" class="lightbox trans" id="img_12"><img src="https://64.media.tumblr.com/fffe9f99eeea285cabdf0ca126a1017f/d4da3637e0f536c0-35/s2048x3072/40c08ec10034d9698876d0c48d794f16b4ae8899.pnj"/></a>
 <a href="#_11" class="lightbox trans" id="img_11"><img src="https://64.media.tumblr.com/ad99929cb7e9d6d9f3e249097f267b9f/0dbbfadbd374e273-9e/s2048x3072/99750ec2c751902fe61886d2496375780ae08378.jpg"/></a>
 <a href="#_10" class="lightbox trans" id="img_10"><img src="https://64.media.tumblr.com/1afae6b1d2fc3aa7c9065286868fbe24/07a0cf26eae49890-53/s2048x3072/a2513039ca4f97faf4a728dfd6dda855e1f99f1d.jpg"/></a>
 <a href="#_9" class="lightbox trans" id="img_9"><img src="https://64.media.tumblr.com/310f556700075702736d3889c291726d/547275473b97e7a6-5b/s2048x3072/b4589a7ac8a2e71f16c51037a8fa0ec295165667.jpg"/></a>
