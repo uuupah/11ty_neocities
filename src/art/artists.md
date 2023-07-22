@@ -79,7 +79,8 @@ i really love nobby's approach to minimally anthropomorphising their furry chara
     </a>
 </div>
 the very worst thing is potentially one of the most creative artists on this list. i'm always amazed at how they can pull a new twist on a character design to create something simultaneously otherworldly and familiar
-
+<!-- add julette cousins -->
+<!-- add ryuko kui -->
 <hr>
 
 🚧👷‍♂️ this page is still in construction! watch this space! 👷‍♀️🚧
