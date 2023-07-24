@@ -24,3 +24,6 @@ i got started using [flamed fury's 11ty guide](https://flamedfury.com/guides/11t
 
 # todo
 - [ ] set up image shortcodes to automatically create webps 
+- [ ] set up all albums to load placeholder image instead; potentially use some level of automation for this
+- [ ] completely fucking redo front page navigation
+- [ ] paginate infinite nightmare
