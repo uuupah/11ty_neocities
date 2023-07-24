@@ -11,6 +11,15 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**sketchy ipad inspirations!! kip and kms2605**  
+[kip](https://graskip.tumblr.com/)  
+![](https://64.media.tumblr.com/9845d0279d6faa46f32c367a83eaa20b/f8780d92a1b9a33f-78/s1280x1920/a6471dabc0a371019d3f7912e12d40070113e633.png)  
+[kms2605](https://twitter.com/kms2605)  
+![](https://pbs.twimg.com/media/FyP9Y8SaYAAKZip?format=jpg&name=4096x4096)  
+quite ironically, the first thing i gravitated towards with digital art was just re-representing the traditional stuff i already did on paper, as you can probably see with [this piece](/art/my-art-2023/#img_13), which was heavily driven by these two artists. kip's style is an obvious inspiration, and the sketchy rendering style is something that kms does with all their work, even when it is coloured.
+
+---
+
 **hoho_chip**  
 [link](https://www.instagram.com/hoho_chip/)  
 ![](/_assets/img/infinite_nightmare/hohochip.jpg)  
