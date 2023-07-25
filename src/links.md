@@ -13,3 +13,4 @@ title: links
 ### my pals' sites
 - [tanami.org/](https://tanami.org/)
 - [t-amadan.carrd/](https://t-amadan.carrd.co/)
+- [lulu.contact/](https://lulu.contact/)
