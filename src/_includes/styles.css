@@ -335,7 +335,9 @@ footer {
 }
 
 .infinite-nightmare img,
-.infinite-nightmare video {
+.infinite-nightmare video,
+.half-width img,
+.half-width video {
   max-width: 360px;
 }
 
