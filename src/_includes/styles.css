@@ -26,7 +26,6 @@ html {
   scroll-behavior: smooth;
 }
 
-
 /* Format headers */
 
 h1 {
@@ -382,4 +381,8 @@ footer {
 	top: 0;
 	top: 50%;
 	transform: translateY(-50%);
+}
+
+.paragraph-deparagrapher p {
+  margin: 0;
 }

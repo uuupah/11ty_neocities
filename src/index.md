@@ -16,6 +16,8 @@ hey what's up! my name is uuupah. im a twenty-something non-binary (they/them pl
 
 ### pages
 
+<!-- {% include 'partials/link_links.njk' %} -->
+
 {% include 'partials/link_tiles.njk' %}
 
 ### this site
