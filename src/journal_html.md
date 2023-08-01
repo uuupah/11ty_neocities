@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2023.08.01**  
+huge homepage redesign! i'll write about it in some more detail but i'm currently at work and should really be finishing up my tasks instead
+
 **2023.07.06**  
 my general situation has stabilised a lot so i'm planning on doing a lot more on the site. i'm inspired by [desert jaguar](https://desertjaguar.casa/)'s scraps vs thoughts layout and i plan to keep migrating lists from my bookmarks and obsidian to the site - it feels like a great way to keep them in a centralised spot for my own use, as well as hopefully share some neat stuff with people who might not have seen them. i am finding the colour scheme is a little muddy for pages like [cool game links](/lists/cool_game_links) so i'm going to toy with the colour scheme a little bit in the next couple of days
 
