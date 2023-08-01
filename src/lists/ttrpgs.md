@@ -1,6 +1,5 @@
 ---
 title: ttrpgs
-date: 2023-07-24
 ---
 <div class="half-width">
 

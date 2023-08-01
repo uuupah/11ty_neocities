@@ -1,4 +1,5 @@
 {
     "layout": "layout/blog",
-    "tags": ["lists","post"]
+    "tags": ["lists","post"],
+    "date": "git Last Modified"
   }
