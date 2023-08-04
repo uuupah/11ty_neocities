@@ -2,6 +2,13 @@
 title: webcomics
 ---
 
+### gold scissors
+[read here](https://goldscissors.thecomicseries.com/comics/first/)
+
+another surreal comic about lesbians and dreams and arcane beings
+
+<a href="https://goldscissors.thecomicseries.com/comics/first/"><img src="https://img.comicfury.com/comics/193/45549a1591421596b73008f11376189.png" height="300px"></a>
+
 ### 17776
 [read here](https://www.sbnation.com/a/17776-football)
 
