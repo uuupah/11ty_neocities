@@ -1,5 +1,6 @@
 ---
 title: webcomics
+date: 2023-08-04
 ---
 
 ### gold scissors

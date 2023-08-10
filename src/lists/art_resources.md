@@ -1,5 +1,6 @@
 ---
 title: art resources
+date: 2023-07-18
 ---
 
 ### marc brunet brushes

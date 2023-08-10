@@ -1,5 +1,6 @@
 ---
 title: my favourite music
+date: 2023-07-31
 ---
 
 <h1>albums</h1>

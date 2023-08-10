@@ -1,6 +1,8 @@
 ---
 title: ttrpgs
+date: 2023-07-25
 ---
+
 <div class="half-width">
 
 ### eat god  

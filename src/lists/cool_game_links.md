@@ -1,5 +1,6 @@
 ---
 title: cool game links
+date: 2023-08-03
 ---
 
 ### infinite backlog  
