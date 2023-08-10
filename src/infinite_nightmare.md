@@ -113,9 +113,10 @@ this is an awesome repository of some normiecore / comfiecore fits that i think 
 
 ---
 
-**i can't find a source for this one**  
+**jibun jinanerd**  
+[link](https://twitter.com/jibun_jinanerd/status/1305137204532899840)
 ![](/_assets/img/infinite_nightmare/unknown_1.jpg)  
-i actually did a long legs and yaoi hands pic like this completely unplanned the other day and its a style i'd really like to keep exploring. if you know where it's from let me know in the guestbook!
+i actually did a long legs and yaoi hands pic like this completely unplanned the other day and its a style i'd really like to keep exploring. 
 
 ---
 
