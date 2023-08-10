@@ -8,7 +8,7 @@ title: links
 - 🍙 [anilist.co/user/uuupah/](https://anilist.co/user/uuupah/)
 - 🖥️ [github.com/uuupah/](https://github.com/uuupah/)
 - 🕹️ [infinitebacklog.nl/users/uuupah/](https://infinitebacklog.nl/users/uuupah)
-- 📚 [https://app.thestorygraph.com/profile/squid_with_glasses](https://app.thestorygraph.com/profile/squid_with_glasses)
+- 📚 [app.thestorygraph.com/profile/squid_with_glasses](https://app.thestorygraph.com/profile/squid_with_glasses)
 
 ### my pals' sites
 - [tanami.org/](https://tanami.org/)

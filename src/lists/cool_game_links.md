@@ -1,7 +1,10 @@
 ---
 title: cool game links
-date: 2023-07-06
 ---
+
+### infinite backlog  
+[https://infinitebacklog.nl/](https://infinitebacklog.nl/)  
+i have a constant issue where i'll get really busy and forget what games i started playing a couple weeks ago, so a game tracking system is super important for me. i mentioned in a blog post that i'd checked out a bunch of different sites and found that infinite backlog was the best thing available, it is feature-complete for all the different organisation you might want to do, but it still has a really easy to navigate interface
 
 ### splatoon 3 gear seed checker  
 [https://leanny.github.io/splat3seedchecker/](https://leanny.github.io/splat3seedchecker/)  
@@ -15,7 +18,7 @@ these let you spoof pokemon events like you used to get at game shops from a hom
 
 ### satisfactory optimal alternate recipes
 [https://www.reddit.com/r/SatisfactoryGame/comments/mpjzfb/optimal_alternate_recipes_pushing_the_raw/](https://www.reddit.com/r/SatisfactoryGame/comments/mpjzfb/optimal_alternate_recipes_pushing_the_raw/)  
-❗[local backup](/unlisted/optimal_alternate_recipes/)❗  
+❗[local backup](/misc/optimal_alternate_recipes/)❗  
 this breakdown is so unbelievably solid that i've backed it up to my own damn website. reddit might go down but this thing ain't  
 &nbsp;
 

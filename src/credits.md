@@ -12,7 +12,10 @@ this loop was done by [dav 19](https://www.deviantart.com/dav-19/art/Pixel-Yui-3
 <img src="/_assets/img/fav.png"></img>  
 this one is an old windows "my computer" icon, i believe from windows 2000
 
-<img src="/_assets/img/art.jpg"></img>  
+<img src="https://64.media.tumblr.com/5d37ab2aa782462c7aa092f7bd0d27cb/c44d7d4b9325e7d1-16/s1280x1920/1690fe1e95401b094ffa62ae933ff2c038e62814.gifv"></img>
+a lovely piece of pixel art by [mini-moss](https://www.tumblr.com/mini-moss/680424764168339456/respite-twitter-instagram-print-shop)
+
+<!-- <img src="/_assets/img/art.jpg"></img>  
 a still from eizouken ni wa te wo dasu na! / keep your hands off eizouken! depicting the character midori asakusa
 
 <img src="/_assets/img/blog.jpg"></img>  
@@ -31,4 +34,4 @@ a still from gunsmith cats depicting the character irene "rally" vincent
 a crop from the splatoon comic depicting agent 3 / braids / mitsuami
 
 <img src="/_assets/img/music.jpg"></img>  
-another nichijou one, this time the character is nano shinonome
+another nichijou one, this time the character is nano shinonome -->

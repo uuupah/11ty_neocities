@@ -11,6 +11,30 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**kiwifie**  
+[link](https://kiwifie.tumblr.com/)  
+![](https://64.media.tumblr.com/9c64e85e170e8a817ad635c2f04c6e1f/78f810c2e8f9a9ea-50/s500x750/79c93f40f2b600fb730cbe5ac8a694fd8229eae3.png)  
+![](https://64.media.tumblr.com/ed90db357e134e4b68090f00afc4247a/7eed6537b0f2a4a1-b4/s1280x1920/2195a03446be7693ae667013293957240ecfbb80.jpg)  
+i'm digging a lot of things about this artist: their digital style and brushes, colouring techniques, anatomy shorthand, expressions and character movement
+
+---
+
+**sketchy ipad inspirations!! kip and kms2605**  
+[kip](https://graskip.tumblr.com/post/721703456942030849/mountain-spirit)  
+![](https://64.media.tumblr.com/9845d0279d6faa46f32c367a83eaa20b/f8780d92a1b9a33f-78/s1280x1920/a6471dabc0a371019d3f7912e12d40070113e633.png)  
+[kms2605](https://twitter.com/kms2605/status/1667455036782411776)  
+![](https://pbs.twimg.com/media/FyP9Y8SaYAAKZip?format=jpg&name=4096x4096)  
+quite ironically, the first thing i gravitated towards with digital art was just re-representing the traditional stuff i already did on paper, as you can probably see with [this piece](/art/my-art-2023/#img_13), which was heavily driven by these two artists. kip's style is an obvious inspiration, and the sketchy rendering style is something that kms does with all their work, even when it is coloured.
+
+---
+
+**hoho_chip**  
+[link](https://www.instagram.com/hoho_chip/)  
+![](/_assets/img/infinite_nightmare/hohochip.jpg)  
+this artist does a lot of extreme stylisation with a very loose hand. their side-by-sides with references are really neat to try and understand their process, and their use of digital watercolours and pastels is something that i would like to try  
+
+---
+
 **dimitris pantazis**  
 [link](https://www.instagram.com/p/Cr8_PqeIsbu/)  
 ![](/_assets/img/infinite_nightmare/dimitrispantazis.jpg)  

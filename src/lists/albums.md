@@ -1,9 +1,8 @@
 ---
 title: my favourite music
-date: 2023-06-14
 ---
 
-# albums
+<h1>albums</h1>
 
 <!-- dev uuupah! be sure to overwrite the iframe style with style="border: 0; width: 100%; aspect-ratio: 1;" when adding new albums -->
 
@@ -21,7 +20,10 @@ date: 2023-06-14
         <b>delancey st. station - pinc louds</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kYZZBgXZRayWvaZrwpA3tOb5C6o_9qoio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kYZZBgXZRayWvaZrwpA3tOb5C6o_9qoio" target="hyperdimensionalexpansionbeam">
+            <img src="https://i.discogs.com/5fDfUB7N6txC1YaahigUyt-kDt9S_v_NzRCHgSABgF8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk3/NDY0LTE2NjM4NjU3/MTgtNDM1NC5qcGVn.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="hyperdimensionalexpansionbeam" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>hyper dimensional expansion beam - the comet is coming</b>
     </div>
     <div>
@@ -29,7 +31,10 @@ date: 2023-06-14
         <b>twine - taylor deupree & marcus fischer</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kAvEij43J5GYQaLVdL4hzUKsWSEDHgYdc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kAvEij43J5GYQaLVdL4hzUKsWSEDHgYdc" target="troupeaubleu">
+            <img src="https://i.discogs.com/WweaLOTpFYu6DEarL44LwrXO7IhSaUwj21JWjX5pp6Q/rs:fit/g:sm/q:90/h:352/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDE5/My0xMzUzNzQxNDg2/LTg0MzMuanBlZw.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="troupeaubleu" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>troupeau bleu - cortex</b>
     </div>
     <div>
@@ -37,7 +42,10 @@ date: 2023-06-14
         <b>gemini - machine girl</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_nKQ0aamXCuH4pX1DBmYj4tIgvB3Bex0iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_nKQ0aamXCuH4pX1DBmYj4tIgvB3Bex0iQ" target="aletterfromslowboat">
+            <img src="https://i.discogs.com/OTtK_yVdPjD_UtNmii2NB6KmhlIcXYNZqPp8EV8Q480/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzE3/OTUtMTQ4MjIwMjQ0/OC0zNDMzLmpwZWc.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="aletterfromslowboat" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>a letter from slowboat - ryo fukui</b>
     </div>
     <div>
@@ -58,7 +66,10 @@ date: 2023-06-14
  
 <div class="album-tiles-grid">
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mbQxWvaWie-adhtXtm6b2X0qM-2zoRJio" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mbQxWvaWie-adhtXtm6b2X0qM-2zoRJio" target="skyrim">
+            <img src="https://i.discogs.com/FUmwSTI4zJh4p_HYsgqAYypIIviL6y15fFK9ocaSx7Q/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY2/NTAtMTUwNzE0ODM5/MS04NzU0LmpwZWc.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="skyrim" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>the elder scrolls v: skyrim - jeremy soule</b>
     </div>
     <div>
@@ -96,3 +107,22 @@ date: 2023-06-14
 <hr>
 
 🚧👷‍♂️ this page is still in construction! watch this space! 👷‍♀️🚧
+
+<script>
+    document.querySelectorAll('.hide').forEach(item => {
+      item.addEventListener('click', element => {
+        element.currentTarget.style.display = "none";
+        element.currentTarget.nextElementSibling.style.display = "block";
+      })
+    })
+</script>
+
+<!-- template -->
+
+    <!-- <div>
+        <a class="hide" href="<<EMBEDLINK>>" target="<<TARGETNAME>>">
+            <img src="<<IMAGELINK>>" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="<<TARGETNAME>>" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b><<ALBUM AND ARTIST NAME>></b>
+    </div> -->

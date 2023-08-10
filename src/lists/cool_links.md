@@ -1,6 +1,5 @@
 ---
 title: cool links
-date: 2023-06-21
 ---
 
 ### name your price essentials

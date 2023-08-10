@@ -1,6 +1,5 @@
 ---
 title: "my favourite artists"
-date: 2023-04-13
 ---
 
 i find my """artistic journey""" and """""artistic goals""""" are pretty hard to grasp; i don't think i'm the kind of person who has some great unique thing to say that hasnt been said before, and my insecurity about my skill means that i find it pretty difficult to experiment. i guess i just want to make things that look neat, but i want to stay genuine while doing it, whatever that means
@@ -79,7 +78,8 @@ i really love nobby's approach to minimally anthropomorphising their furry chara
     </a>
 </div>
 the very worst thing is potentially one of the most creative artists on this list. i'm always amazed at how they can pull a new twist on a character design to create something simultaneously otherworldly and familiar
-
+<!-- add julette cousins -->
+<!-- add ryuko kui -->
 <hr>
 
 🚧👷‍♂️ this page is still in construction! watch this space! 👷‍♀️🚧

@@ -6,6 +6,6 @@ eleventyImport.collections: ["lists"]
 
 <div class="pages-article">
 {% for post in collections.lists | reverse %}
- \- [{{ post.data.title or post.data.page.fileSlug }}](/lists/{{ post.data.page.fileSlug }})
+ \- {{ post.page.date.toLocaleDateString("en-UK") }} // [{{ post.data.title or post.data.page.fileSlug }}](/lists/{{ post.data.page.fileSlug }})
 {% endfor %}
 </div>

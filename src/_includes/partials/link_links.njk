@@ -1,0 +1,18 @@
+<div class="paragraph-deparagrapher">
+  <h4><a href="/sitemap/">sitemap</a></h4>
+  <h4><a href="/journal_html/">journal.html</a>
+  <h4><a href="/art/my-art-2023/">my art</a></h4>
+  <h4><a href="{{collections.post[collections.post.length - 1].filePathStem}}">⚠️ newest post! ⚠️</a>
+  <h4>thoughts and feelings</h4>
+  {% for post in collections['blog'] | reverse | limit(5) %}
+      - {{ post.page.date.toLocaleDateString("en-UK") }} // <a href="{{post.filePathStem}}">{{ post.data.title }}</a>
+  {% endfor %}
+  <span> - <a href="/blog/">...and da restt ...</a></span>
+  <h4>lists of things</h4>
+  {% for post in collections['lists'] | reverse | limit(5) %}
+      - {{ post.page.date.toLocaleDateString("en-UK") }} // <a href="{{post.filePathStem}}">{{ post.data.title }}</a>
+  {% endfor %}
+  <span> - <a href="/lists/">older lists....</a></span>
+  <h4><a href="/infinite_nightmare/">art inspiration list</a></h4>
+  <h4><a href="/misc/">miscellania</a></h4>
+</div>
