@@ -10,6 +10,12 @@ thats just art baby! people are naked a _lot_ as it turns out
 welcome to the infinite nightmare list aka a big dumpster for me to put art related stuff that i want to revisit at some point. each section should have a reason that i want to revisit a link. also, i will probably just take images directly from the source so if shit is broken then that would be why
 
 ---
+**erijt**  
+[link](https://erijt.tumblr.com/)  
+![](https://64.media.tumblr.com/0ef4953e222dc2eb7376988f922dfd4e/d0648c097e183cc0-6c/s1280x1920/a26eb283d8e7f6b57d99e4f6491c18adef523e5c.png)  
+erijt is an insane inspiration - they have a really consistent style that i super enjoy, they post basically every day, and they sometimes do breakdowns of their construction
+
+---
 
 **kiwifie**  
 [link](https://kiwifie.tumblr.com/)  
