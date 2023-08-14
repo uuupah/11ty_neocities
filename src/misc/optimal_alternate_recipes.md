@@ -1,6 +1,6 @@
 ---
 title: backup of "optimal alternate recipes" 
-date: 2023/07/01
+date: 2023-07-01
 ---
 
 this guide is absolutely stellar for planning out your satisfactory factory, but with reddit getting flakier by the day i'm going to back it up here. credit to wrigh516, original post [here](https://www.reddit.com/r/SatisfactoryGame/comments/mpjzfb/optimal_alternate_recipes_pushing_the_raw/)
