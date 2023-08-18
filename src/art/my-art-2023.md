@@ -1,6 +1,6 @@
 ---
 title: "my art 2023"
-date: 2023-08-13
+date: 2023-08-19
 ---
 
 <!-- TODO: add some kind of fixed aspect ratio so that these are nice and consistent-->
