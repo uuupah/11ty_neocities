@@ -1,24 +1,65 @@
 ---
-title: "2023-04-26"
-date: 2023-04-26
-draft: true
+title: "2023-08-23"
+date: 2023-08-23
 ---
+
+### art
+i'd left little hints about this throughout the site over the last couple of months, but i've been prepping for an art exhibition since the start of march and it opened at the start of august!  
+
+![](/_assets/img/blog/art_exhibition.jpg)  
+<sup>this isn't my art; i stupidly neglected to get a photo in front of my own pieces</sup>
+
+the experience was pretty fun; we were given three months to put pieces together exploring a theme of chaos, and given that i have the most experience with the human form, i decided that that would be my primary style. thus began a couple of months of compositional development and sketching, leading to me completing the final pieces over july. the experience definitely pushed me to consider theming, composition within framing, and presenting a message, as much as i theoretically abhor the concept.
+
+![](/_assets/img/blog/final_pieces.jpg)  
+<sup>despite the location looking extremely suspect, i can confirm this was actually the dining room in a pretty popular local pub in my city. there was a punk show going on during the opening night, it was cool</sup>  
+
+my series was used as an opportunity to explore the physical aspect of my personal non-binary experience, and to present the kind of body that i think i would like to have. i wasn't 100% happy with the final product but honestly who ever is?
+
+i celebrated the end of the exhibition and my self-imposed three month drawing prison by finally coughing up for an ipad; i havent done real digital art since high school and remember it being a pretty miserable experience, but for a smidge over 600 aud i got a secondhand ipad mini and an apple pencil and it has been a night and day difference to my dodgy secondhand 2010 wacom tablet on the family pc. i've managed to knock out a piece every few days and i've started to learn how to handle colour and how to do digital painting! i'm currently riding the high of motivation, which you can observer on [my art page](/art/my-art-2023/#img_18)
 
 ### webbed
 
-### the strive to complete vs the pain of having it completed
+i made a note to talk about this game way back in may. this blog update truly has been a long time coming. webbed is lovely little game from an indie team in queensland australia that i super enjoyed. the main mechanic of the game is the ability to shoot silk from your little peacock spider. this lets you make full webs to climb around on, move objects around by attaching them to each other and swing around at high speed using the games' very solid feeling physics engine
+
+![](https://cdn.cloudflare.steamstatic.com/steam/apps/1390350/extras/spinning_gif_2.gif)
+
+the physics of the webs is what really makes the game shine above the other indie titles i've played recently. they're super intuitive and almost always super fun to use - the only exception is that they are a bit frustrating with some of the final ant nest puzzles, but after watching some of the speed runs that might in fact be a bit of a skill issue. as you play through you pick up the knack pretty quickly and the game continues to give you different and more difficult challenges until its conclusion.
+
+the game is a bit short, but it also felt like it totally judged how long the average player might want to play in this little cyber playground before moving on to something else. there _is_ more stuff out there to find and i 100% intend to go get it once i've knocked my current backlog back a bit
+
+my other game stuff for the month:  
+ \- i finished [eastward](/blog/eastward/) which was a super fun experience, and experienced the classic post-rpg melancholy; i sort of want to write a post about it but i'm going to take my time with notes and the like  
+ \- started playing baldur's gate 3 with a full party of four players, which is INSANELY fun
+ \- started playing planescape torment, signalis and iconoclasts - all a really good time, none have been finished
+ \- keeping an eye on metaphor: refantazio since it seems to basically be a new persona game
 
 ### independent animation on youtube 
-https://www.youtube.com/watch?v=jAy1zGCQ3DM
 
-https://twitter.com/eiken3kyuboy/status/1662372892548689921
+tiny independent animations are everywhere on youtube - often made with so much effort and care and yet i normally don't have the willpower to give them the time of day. is this a tiktokification thing? am i just using using social media as an excuse for my poor internet hygiene like everyone seems to these days? anyway this animation is super sweet
 
-https://twitter.com/Dr_Mice_/status/1662097202381193217
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/jAy1zGCQ3DM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-https://twitter.com/128_mhz/status/1670265481717252096
+### cool art stuff i found that i dont quite want to put in the infinite backlog even though thats kind of the point of the infinite backlog
 
-https://skeb.jp/@birdman46049238
+[eiken3kyuboy](https://twitter.com/eiken3kyuboy) has a big series of anime girls with robot legs and i think theyre kind of dope (although honestly mostly for the legs)  
+[![](https://pbs.twimg.com/media/FxHvVViaQAEg_eG?format=jpg&name=small)](https://twitter.com/eiken3kyuboy/status/1662372892548689921/photo/1)
+
+[this series of digital paintings](https://twitter.com/Dr_Mice_/status/1662097202381193217) with inklings in the real world  
+[![](https://pbs.twimg.com/media/FxD0lZBaEAASpUL?format=jpg&name=large)](https://twitter.com/Dr_Mice_/status/1662097202381193217/photo/1)
+
+[some super cool development teasers by 128_mhz](https://twitter.com/128_mhz/status/1670265481717252096)  
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Leap <a href="https://t.co/ezdSZdz5KM">pic.twitter.com/ezdSZdz5KM</a></p>&mdash; 128 MHz (@128_mhz) <a href="https://twitter.com/128_mhz/status/1670265481717252096?ref_src=twsrc%5Etfw">June 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+[some outrageously smooth animations by birdman](https://skeb.jp/@birdman46049238)  
+<a href="https://skeb.jp/@birdman46049238/works/17">
+    <video autoplay loop muted style="max-width: 75%;">  
+        <source src="/_assets/img/blog/birdman.mp4"></source>  
+    </video>  
+</a>
 
 ### comics
-https://www.instagram.com/saintmonstre
-https://www.gocomics.com/
+
+my final observation for the time being is that A. turns out that your classic newspaper comics are all really easily available on [gocomics](https://www.gocomics.com/) and B. these things are even worse than i remember them being. bill watterson famously ran calvin and hobbes to its logical conclusion and then stopped instead of turning into one of the multiple decade spanning shit-fests like garfield.
+
+i did however stumble onto a couple of classics, including [saintmostre](https://www.instagram.com/saintmonstre) and their outrageously charming little vignettes and [pocketts](https://pocketss.tumblr.com/)' goblin and harpy based japes. both are absolutely worth a look! (and should probably get added to my webcomics page)
