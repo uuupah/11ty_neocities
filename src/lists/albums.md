@@ -3,6 +3,8 @@ title: my favourite music
 date: 2023-07-31
 ---
 
+⚠️ click on an album cover to load the web player for that album! ⚠️
+
 <h1>albums</h1>
 
 <!-- dev uuupah! be sure to overwrite the iframe style with style="border: 0; width: 100%; aspect-ratio: 1;" when adding new albums -->
@@ -92,37 +94,58 @@ date: 2023-07-31
 <div class="album-tiles-grid">
     <div>
         <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mbQxWvaWie-adhtXtm6b2X0qM-2zoRJio" target="skyrim">
-            <img src="https://i.discogs.com/FUmwSTI4zJh4p_HYsgqAYypIIviL6y15fFK9ocaSx7Q/rs:fit/g:sm/q:90/h:532/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyODY2/NTAtMTUwNzE0ODM5/MS04NzU0LmpwZWc.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+            <img src="/_assets/img/albums/skyrim.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
         </a>
         <iframe name="skyrim" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>the elder scrolls v: skyrim - jeremy soule</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLZuZrScKjWOMAEEBEGTmAGtmmlg6QY7bC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=PLZuZrScKjWOMAEEBEGTmAGtmmlg6QY7bC" target="persona5">
+            <img src="/_assets/img/albums/persona5.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="persona5" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>persona 5 - shoji meguro</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=816099561/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://infiniteammo.bandcamp.com/album/night-in-the-woods-vol-1-at-the-end-of-everything">Night in the Woods Vol. 1: At The End Of Everything by Alec Holowka</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=816099561/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="nightinthewoods">
+            <img src="/_assets/img/albums/nightinthewoods.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="nightinthewoods" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://infiniteammo.bandcamp.com/album/night-in-the-woods-vol-1-at-the-end-of-everything">Night in the Woods Vol. 1: At The End Of Everything by Alec Holowka</a></iframe>
         <b>night in the woods - alec holowka</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mYoJDBgR0t-BCy-Y-K4u3ro0sDVYRoIF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mYoJDBgR0t-BCy-Y-K4u3ro0sDVYRoIF0" target="mirrorsedgecatalyst">
+            <img src="/_assets/img/albums/mirrorsedgecatalyst.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="mirrorsedgecatalyst" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>mirror's edge catalyst - solar fields</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mJQUNw78Oc2RO3imwBugUq9rchF53rkj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mJQUNw78Oc2RO3imwBugUq9rchF53rkj4" target="ahatintime">
+            <img src="/_assets/img/albums/ahatintime.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="ahatintime" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>a hat in time - pascal michael stiefel</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=3091311371/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://widdly2diddly.bandcamp.com/album/lisa-soundtrack">LISA Soundtrack by Widdly 2 Diddly</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=3091311371/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="lisa">
+            <img src="/_assets/img/albums/lisa.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="lisa" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://widdly2diddly.bandcamp.com/album/lisa-soundtrack">LISA Soundtrack by Widdly 2 Diddly</a></iframe>
         <b>lisa - widdly 2 diddly</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?controls=0&amp;list=OLAK5uy_mVPS-4XM_sVgQroZkZsFYvTzEuFqwHEIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <b>masashi hamauzu</b>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?controls=0&amp;list=OLAK5uy_mVPS-4XM_sVgQroZkZsFYvTzEuFqwHEIs" target="finalfantasyxiii">
+            <img src="/_assets/img/albums/finalfantasyxiii.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="finalfantasyxiii" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <b>final fantasy xiii - masashi hamauzu</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=709270856/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack">Chicory: A Colorful Tale (Original Soundtrack) by Lena Raine</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=709270856/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="chicory">
+            <img src="/_assets/img/albums/chicory.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="chicory" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://radicaldreamland.bandcamp.com/album/chicory-a-colorful-tale-original-soundtrack">Chicory: A Colorful Tale (Original Soundtrack) by Lena Raine</a></iframe>
         <b>chicory: a colorful tale - lena raine</b>
     </div>
 </div>
