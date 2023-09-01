@@ -9,56 +9,80 @@ date: 2023-07-31
 
 <div class="album-tiles-grid">
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1662540416/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://cryochamber.bandcamp.com/album/exo">Exo by Tineidae</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=1662540416/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="exo">
+            <img src="/_assets/img/albums/exo.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="exo" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://cryochamber.bandcamp.com/album/exo">Exo by Tineidae</a></iframe>
         <b>exo - tineidae</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=2135258317/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://sabrepulse.bandcamp.com/album/exile-2">Exile by Sabrepulse</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=2135258317/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="exile">
+            <img src="/_assets/img/albums/exile.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="exile" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://sabrepulse.bandcamp.com/album/exile-2">Exile by Sabrepulse</a></iframe>
         <b>exile - sabrepulse</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=3174957532/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://pinclouds.bandcamp.com/album/delancey-st-station">Delancey St. Station by Pinc Louds</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=3174957532/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="delanceyststation">
+            <img src="/_assets/img/albums/delanceyststation.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="delanceyststation" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://pinclouds.bandcamp.com/album/delancey-st-station">Delancey St. Station by Pinc Louds</a></iframe>
         <b>delancey st. station - pinc louds</b>
     </div>
     <div>
         <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kYZZBgXZRayWvaZrwpA3tOb5C6o_9qoio" target="hyperdimensionalexpansionbeam">
-            <img src="https://i.discogs.com/5fDfUB7N6txC1YaahigUyt-kDt9S_v_NzRCHgSABgF8/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0NTk3/NDY0LTE2NjM4NjU3/MTgtNDM1NC5qcGVn.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+            <img src="/_assets/img/albums/hyperdimensionalexpansionbeam.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
         </a>
         <iframe name="hyperdimensionalexpansionbeam" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>hyper dimensional expansion beam - the comet is coming</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1344380888/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://12kmusic.bandcamp.com/album/twine">Twine by Taylor Deupree &amp; Marcus Fischer</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=1344380888/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="twine">
+            <img src="/_assets/img/albums/twine.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="twine" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://12kmusic.bandcamp.com/album/twine">Twine by Taylor Deupree &amp; Marcus Fischer</a></iframe>
         <b>twine - taylor deupree & marcus fischer</b>
     </div>
     <div>
         <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_kAvEij43J5GYQaLVdL4hzUKsWSEDHgYdc" target="troupeaubleu">
-            <img src="https://i.discogs.com/WweaLOTpFYu6DEarL44LwrXO7IhSaUwj21JWjX5pp6Q/rs:fit/g:sm/q:90/h:352/w:348/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkzNDE5/My0xMzUzNzQxNDg2/LTg0MzMuanBlZw.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+            <img src="/_assets/img/albums/troupeaubleu.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
         </a>
         <iframe name="troupeaubleu" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>troupeau bleu - cortex</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1401193641/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://machinegirl.bandcamp.com/album/gemini">Gemini by Machine Girl</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=1401193641/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="gemini">
+            <img src="/_assets/img/albums/gemini.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="gemini" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://machinegirl.bandcamp.com/album/gemini">Gemini by Machine Girl</a></iframe>
         <b>gemini - machine girl</b>
     </div>
     <div>
         <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_nKQ0aamXCuH4pX1DBmYj4tIgvB3Bex0iQ" target="aletterfromslowboat">
-            <img src="https://i.discogs.com/OTtK_yVdPjD_UtNmii2NB6KmhlIcXYNZqPp8EV8Q480/rs:fit/g:sm/q:90/h:595/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk1MzE3/OTUtMTQ4MjIwMjQ0/OC0zNDMzLmpwZWc.jpeg" style="border: 0; width: 100%; aspect-ratio: 1;">
+            <img src="/_assets/img/albums/aletterfromslowboat.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
         </a>
         <iframe name="aletterfromslowboat" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>a letter from slowboat - ryo fukui</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_l13KkpcJNof8bT38IDALP1zpZilzIvQP4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <a class="hide" href="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_l13KkpcJNof8bT38IDALP1zpZilzIvQP4" target="musictranquilizer">
+            <img src="/_assets/img/albums/musictranquilizer.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="musictranquilizer" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <b>music tranquilizer - kaoru ono</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=1734574665/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://felixrosch.bandcamp.com/album/piano-2">Piano by Felix Rösch</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=1734574665/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="piano">
+            <img src="/_assets/img/albums/piano.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="piano" style="border: 0; width: 100%; aspect-ratio: 1; display: none;" src="about:blank" seamless><a href="https://felixrosch.bandcamp.com/album/piano-2">Piano by Felix Rösch</a></iframe>
         <b>piano - felix rösch</b>
     </div>
     <div>
-        <iframe style="border: 0; width: 100%; aspect-ratio: 1;" src="https://bandcamp.com/EmbeddedPlayer/album=2586530263/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="https://nanoray.bandcamp.com/album/zapper">ZAPPER by NANORAY</a></iframe>
+        <a class="hide" href="https://bandcamp.com/EmbeddedPlayer/album=2586530263/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" target="zapper">
+            <img src="/_assets/img/albums/zapper.jpg" style="border: 0; width: 100%; aspect-ratio: 1;">
+        </a>
+        <iframe name="zapper" style="border: 0; width: 100%; aspect-ratio: 1; display: none;    " src="about:blank" seamless><a href="https://nanoray.bandcamp.com/album/zapper">ZAPPER by NANORAY</a></iframe>
         <b>zapper - nanoray</b>
     </div>
 </div>
