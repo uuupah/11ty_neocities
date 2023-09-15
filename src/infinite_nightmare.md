@@ -11,6 +11,13 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
+**highlandkall but this post in particular**  
+[link](https://www.tumblr.com/highlandkall/727644196588142592/naomi-in-a-spotted-dress-i-thought-was-cute)  
+![](https://64.media.tumblr.com/5eb8879ff340aba386e4648e7285c5be/eeba3b0e1ac353b3-df/s2048x3072/d5ea963d9cb0ceab3a143e69f7fecc4ca497c892.pnj)  
+im shitting myself everything about this pic like the subtle shading, the round forms and colouring, the shading, the background, the super subtle edge separation good fucking god
+
+---
+
 **hanabushi**  
 [link](https://twitter.com/hanabushi_/status/1690549358696230912/photo/1)  
 ![](https://pbs.twimg.com/media/F3YFtV_b0AAYStw?format=jpg&name=4096x4096)  
@@ -117,13 +124,6 @@ again with the character design with a cool anatomy shorthand. their creature de
 [link](https://www.reddit.com/gallery/10acji6)  
 ![](https://preview.redd.it/f1wzku48soba1.png?width=748&format=png&auto=webp&v=enabled&s=3637b40447391a48acdbcbb3fad1aa927dc6d154)  
 someone rustled up a huge load of female versions of the tf2 mercenaries in the tf2 source code leak back in 2020, and to the best of my knowledge this is the most convenient way to look at them. i love the way the character traits are communicated visually, and the pics are also just great inspiration for drawing similar characters in the future
-
----
-
-**highlandkall but this post in particular**  
-[link](https://www.tumblr.com/highlandkall/727644196588142592/naomi-in-a-spotted-dress-i-thought-was-cute)  
-![](https://64.media.tumblr.com/5eb8879ff340aba386e4648e7285c5be/eeba3b0e1ac353b3-df/s2048x3072/d5ea963d9cb0ceab3a143e69f7fecc4ca497c892.pnj)  
-im shitting myself everything about this pic like the subtle shading, the round forms and colouring, the shading, the background, the super subtle edge separation good fucking god
 
 ---
 
