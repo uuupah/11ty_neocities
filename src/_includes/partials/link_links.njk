@@ -12,7 +12,7 @@
   {% for post in collections['lists'] | reverse | limit(5) %}
       - {{ post.page.date.toLocaleDateString("en-UK") }} // <a href="{{post.filePathStem}}">{{ post.data.title }}</a>
   {% endfor %}
-  <span> - <a href="/lists/">older lists....</a></span>
+  <span> - <a href="/lists/">older lists</a></span>
   <h4><a href="/infinite_nightmare/">art inspiration list</a></h4>
   <h4><a href="/misc/">miscellania</a></h4>
 </div>
