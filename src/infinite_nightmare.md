@@ -120,6 +120,13 @@ someone rustled up a huge load of female versions of the tf2 mercenaries in the 
 
 ---
 
+**highlandkall but this post in particular**  
+[link](https://www.tumblr.com/highlandkall/727644196588142592/naomi-in-a-spotted-dress-i-thought-was-cute)  
+![](https://64.media.tumblr.com/5eb8879ff340aba386e4648e7285c5be/eeba3b0e1ac353b3-df/s2048x3072/d5ea963d9cb0ceab3a143e69f7fecc4ca497c892.pnj)  
+im shitting myself everything about this pic like the subtle shading, the round forms and colouring, the shading, the background, the super subtle edge separation good fucking god
+
+---
+
 **deppa53**  
 [insta](https://www.instagram.com/deppa_53/) // [tumblr](https://sdns53.tumblr.com/archive)  
 ![](https://64.media.tumblr.com/8c9c9961ab126654570818f1a325660e/4a8336280a4358ce-b1/s1280x1920/eacdff6bf2da569302febbc967f3a1b98c2907b1.jpg)  
