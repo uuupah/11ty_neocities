@@ -1,6 +1,6 @@
 ---
 title: cool links
-date: 2023-07-21
+date: 2023-09-21
 ---
 
 ### name your price essentials
@@ -41,6 +41,7 @@ in the early 80s, sega, nintendo and atari had a stranglehold on the videogame m
 <!--TODO: ## android arts
 [https://androidarts.com/](https://androidarts.com/)
 -->
+
 ### ffilccoo
 [https://pgrkbd.web.fc2.com/](https://pgrkbd.web.fc2.com/)
 
@@ -54,3 +55,10 @@ your average pre-2015 mechanical keyboard enthusiast. you can tell they really c
 this dude has been keep his little personal site up for 24 years and covers a staggering number of topics. my personal favourites are his thoughts on 9/11, written in october of 2001, and the page where he talks in length about his shoes
 
 <a href="https://brisray.com/"><img src="/_assets/img/cool_links/brisray.jpg"/></a>
+
+### you might not need jquery
+[https://youmightnotneedjquery.com/](https://youmightnotneedjquery.com/)
+
+this is a super handy resource if you have been using jquery for years like i have, and you need to wean yourself off of its syntax
+
+<a href="https://youmightnotneedjquery.com/"><img src="/_assets/img/cool_links/youmightnotneedjquery.jpg"/></a>
