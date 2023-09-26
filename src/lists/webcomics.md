@@ -1,6 +1,6 @@
 ---
 title: webcomics
-date: 2023-08-04
+date: 2023-09-26
 ---
 
 ### hasamaya - marmastry splatoon comics  
@@ -8,7 +8,7 @@ date: 2023-08-04
 
 some adorable little comics about two inklings living it up together
 
-<a href="https://www.tumblr.com/marmastry/729510696393605120/moomers-comic-masterpost"><img src="/_assets/img/webcomics/hasamaya.jpeg" height="300px></a>
+<a href="https://www.tumblr.com/marmastry/729510696393605120/moomers-comic-masterpost"><img src="/_assets/img/webcomics/hasamaya.jpeg" height="300px"></a>
 
 ### gold scissors
 [read here](https://goldscissors.thecomicseries.com/comics/first/)
