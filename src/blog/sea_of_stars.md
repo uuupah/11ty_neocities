@@ -1,0 +1,42 @@
+---
+title: sea of stars
+draft: true
+---
+
+- chrono trigger
+- mario rpg / mario and luigi / paper mario
+- cooking
+  - ingredient collection 
+  - ingredient prices (different to eastward)
+  - role of food is different because its turn based
+  - cooking slideshow is DOPE
+- animation (and its occasional bugs in dialogue)
+- art 
+  - saturated but not an eyesore a la stardew valley
+  - occasionally goofy stuff that sort of breaks the jrpg vibe - elder mist
+  - water and fog effects
+    - 3d world
+      - works stellar 99% of the time, mostly stands out with moving objects like bridges
+      - must have made map building WAY fucking easier
+  - full animation scenes
+    - brief, but sort of feel unnecessary
+    - like almost takes you out of it
+- story
+  - garl 
+    - you definitely feel like somethings gonna go wrong here
+  - playing rpgs as an adult sucks because you're always looking for the tropes and things that you've seen before
+  - stupid little goofs like teaks teleporting around as she looks at valere and zale kind of work
+- world
+  - feels a little generic but i'm writing this early in
+  - lots of weird arcane places, the purpose of which is not immediately obvious
+- combat
+  - timing doesnt always feel intuitive (for hits and blocks)
+  - chosing the order of your team is really clever
+  - changes from familiar systems dont feel gimmicky
+  - level up bonus is similar to mario
+  - innovative way of handling death / knockouts
+- menus
+  - (i think) intentional nod to final fantasy
+- traversal
+- the mechanicc of teaks appearing and then only showing up when it makes sense is interesting
+  - it feels a bit inserty the same way that it did in indivisible, but i think making her a non-combat character 
