@@ -6,6 +6,7 @@ date: 2023-08-03
 ### infinite backlog  
 [https://infinitebacklog.nl/](https://infinitebacklog.nl/)  
 i have a constant issue where i'll get really busy and forget what games i started playing a couple weeks ago, so a game tracking system is super important for me. i mentioned in a blog post that i'd checked out a bunch of different sites and found that infinite backlog was the best thing available, it is feature-complete for all the different organisation you might want to do, but it still has a really easy to navigate interface
+&nbsp;
 
 ### splatoon 3 gear seed checker  
 [https://leanny.github.io/splat3seedchecker/](https://leanny.github.io/splat3seedchecker/)  
