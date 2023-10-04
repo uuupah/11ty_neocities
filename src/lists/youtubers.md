@@ -1,7 +1,6 @@
 ---
 title: "my favourite youtube creators"
 date: 2023-10-04
-draft: true
 ---
 
 ### hhhazel  
