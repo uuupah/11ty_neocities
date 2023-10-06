@@ -141,13 +141,3 @@ date: 2023-07-31
       })
     })
 </script>
-
-<!-- template -->
-
-    <!-- <div>
-        <a class="hide" href="<<EMBEDLINK>>" target="<<TARGETNAME>>">
-            <img src="<<IMAGELINK>>" style="border: 0; width: 100%; aspect-ratio: 1;">
-        </a>
-        <iframe name="<<TARGETNAME>>" style="border: 0; width: 100%; aspect-ratio: 1; display: none; margin-bottom: 7px;" src="about:blank" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        <b><<ALBUM AND ARTIST NAME>></b>
-    </div> -->
