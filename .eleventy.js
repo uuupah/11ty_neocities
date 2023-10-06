@@ -11,6 +11,29 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/_assets/fonts");
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
 
+  eleventyConfig.addShortcode("albumtile", function (title, embedLink, coverImage) {
+    // hugely overcomplicated universal slug method
+    var slug = title
+      .toLowerCase()
+      .trim()
+      // remove accents
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '') 
+      // replace invalid characters with spaces
+      .replace(/[^a-z0-9\s-]/g, ' ')
+      .trim()
+      // replace multiple spaces or hyphens with a hyphen
+      .replace(/[\s-]+/g, '-');
+
+    return `<div>
+      <a class="hide" href="${embedLink}" target="${slug}">
+      <img class="album-tile-cover-image" src="${coverImage}">
+      </a>
+      <iframe class="album-tile-iframe" name="${slug}" src="about:blank" seamless></iframe>
+      <b>${title}</b>
+    </div>`
+  });
+
   // make a list of all tags besides "post" and add them to the collection
   eleventyConfig.addCollection("tagsList", function (collectionApi) {
     const tagsList = new Set();

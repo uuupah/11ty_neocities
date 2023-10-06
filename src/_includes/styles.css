@@ -49,7 +49,8 @@ h3 {
   margin-bottom: var(--line-padding);
 }
 
-h4, h5 {
+h4,
+h5 {
   margin-top: var(--line-padding);
   margin-bottom: var(--line-padding);
 }
@@ -143,7 +144,7 @@ nav {
   margin-bottom: var(--line-padding);
 }
 
-.link-tiles-grid>a>img, 
+.link-tiles-grid>a>img,
 .album-tiles-grid>a>img {
   background-color: var(--border);
   width: 100%;
@@ -274,18 +275,24 @@ footer {
 }
 
 @keyframes bounce {
-  0%, 100% {
+
+  0%,
+  100% {
     transform: translateY(0);
   }
+
   50% {
     transform: translateY(-5px);
   }
+
   75% {
     transform: translateY(0);
   }
+
   100% {
     transform: translateY(0);
-    animation-delay: 3s; /* add a 3 second delay before restarting the animation */
+    animation-delay: 3s;
+    /* add a 3 second delay before restarting the animation */
   }
 }
 
@@ -313,7 +320,7 @@ footer {
 }
 
 .gallery>a>img {
-  box-sizing:border-box;
+  box-sizing: border-box;
   background-color: var(--accent-bg);
   border: 2px solid var(--border);
 }
@@ -327,7 +334,7 @@ footer {
   margin-bottom: 15px;
 }
 
-.two-columns *{
+.two-columns * {
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;
@@ -342,47 +349,59 @@ footer {
 
 /* simple lightbox pulled from https://codepen.io/nebo/pen/ONXejO */
 
-.trans
-{
-	transition: all 0.25s ease;
+.trans {
+  transition: all 0.25s ease;
 }
-.lightbox
-{
-	position: fixed;
-	width: 100%;
-	height: 100%;
-	text-align: center;
-	top: 0;
-	left: 0;
-	background-color: rgba(0,0,0,0.75);
-	z-index: 999;
-	opacity: 0;
-	pointer-events: none;
+
+.lightbox {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.75);
+  z-index: 999;
+  opacity: 0;
+  pointer-events: none;
 }
-.lightbox img
-{
-	max-width: 90%;
-	max-height: 80%;
-	position: relative;
-	top: -100%;
-	/* Transition */
-	transition: all 0.5 ease;
+
+.lightbox img {
+  max-width: 90%;
+  max-height: 80%;
+  position: relative;
+  top: -100%;
+  /* Transition */
+  transition: all 0.5 ease;
 }
-.lightbox:target
-{
-	outline: none;
-	top: 0;
-	opacity: 1;
-	pointer-events: auto;
-	transition: all 0.2s ease;
+
+.lightbox:target {
+  outline: none;
+  top: 0;
+  opacity: 1;
+  pointer-events: auto;
+  transition: all 0.2s ease;
 }
-.lightbox:target img
-{
-	top: 0;
-	top: 50%;
-	transform: translateY(-50%);
+
+.lightbox:target img {
+  top: 0;
+  top: 50%;
+  transform: translateY(-50%);
 }
 
 .paragraph-deparagrapher p {
   margin: 0;
+}
+
+.album-tile-cover-image {
+  border: 0;
+  width: 100%;
+  aspect-ratio: 1;
+}
+
+.album-tile-iframe {
+  border: 0;
+  width: 100%;
+  aspect-ratio: 1;
+  display: none;
 }
