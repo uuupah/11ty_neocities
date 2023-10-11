@@ -66,9 +66,9 @@ module.exports = function (eleventyConfig) {
       }${!image || image == "" ?
         "" :
         Array.isArray(image) ?
-          image.map((i, index) => `<a href="#img_${slug}_${index}"><img src="${image}"/></a><br>
-          <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${image}"/></a>`).join(" ") :
-          `<a href="#img_${slug}"><img src="${image}"/></a><br>
+          image.map((i, index) => `<a href="#img_${slug}_${index}"><img src="${i}"/></a><br>
+          <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a>`).join(" ") :
+          `<a href="#img_${slug}"><img src="${i}"/></a><br>
           <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a>`
       }${!video || video == "" ?
         "" :
