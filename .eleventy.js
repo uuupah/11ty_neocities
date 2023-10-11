@@ -39,6 +39,10 @@ module.exports = function (eleventyConfig) {
       return '';
     };
 
+    var imageString = "";
+    var linkString = "";
+    var videoString = "";
+
     var slug = title
       .toLowerCase()
       .trim()
@@ -51,32 +55,38 @@ module.exports = function (eleventyConfig) {
       // replace multiple spaces or hyphens with a hyphen
       .replace(/[\s-]+/g, '-');
 
+    if (Array.isArray(link)) {
+      if (typeof link[0] === 'string') {
+        linkString = link.map((l) => `<a href="${l}">link</a><br>`).join(" // ") + '<br>';
+      } else {
+        linkString = link.map((l) => `<a href="${l.link}">${l.title}</a>`).join(" // ") + '<br>';
+      }
+    } else if (typeof link === 'string') {
+      linkString = `<a href="${link}">link</a><br>`;
+    }
+
+    if (Array.isArray(image)) {
+      imageString = image.map((i, index) => `<a href="#img_${slug}_${index}"><img src="${i}"/></a>
+      <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a><br>`).join(" ");
+    } else if (typeof image === 'string') {
+      imageString = `<a href="#img_${slug}"><img src="${image}"/></a>
+      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a><br>`
+    }
+
+    if (video) {
+      videoString = `<video autoplay loop muted controls poster="${video.poster}">  
+          <source src="${video.link}" type="video/mp4"></source>  
+          <img src="${video.poster}"></img>  
+      </video><br>`
+    }
+
     return `<hr>
     <p>
       <strong>${title}</strong><br>
-      ${
-      // evil nested tertiary this is the worlds least oneline oneliner
-      !link || link == "" ?
-        "" :
-        Array.isArray(link) ?
-          (typeof link[0] === 'string' ?
-            link.map((l) => `<a href="${l}">link</a><br>`).join(" // ") + '<br>' :
-            link.map((l) => `<a href="${l.link}">${l.title}</a>`).join(" // ") + '<br>') :
-          `<a href="${link}">link</a><br>`
-      }${!image || image == "" ?
-        "" :
-        Array.isArray(image) ?
-          image.map((i, index) => `<a href="#img_${slug}_${index}"><img src="${i}"/></a><br>
-          <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a>`).join(" ") :
-          `<a href="#img_${slug}"><img src="${image}"/></a><br>
-          <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a>`
-      }${!video || video == "" ?
-        "" :
-        `<video autoplay loop muted controls poster="${video.poster}">  
-            <source src="${video.link}" type="video/mp4"></source>  
-            <img src="${video.poster}"></img>  
-        </video><br>`
-      }${description}
+      ${linkString}
+      ${imageString}
+      ${videoString}
+      ${description}
     </p>`
   });
 
