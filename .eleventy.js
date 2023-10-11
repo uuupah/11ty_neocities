@@ -40,21 +40,22 @@ module.exports = function (eleventyConfig) {
     };
 
     var slug = title
-    .toLowerCase()
-    .trim()
-    // remove accents
-    .normalize('NFD')
-    .replace(/[\u0300-\u036f]/g, '')
-    // replace invalid characters with spaces
-    .replace(/[^a-z0-9\s-]/g, ' ')
-    .trim()
-    // replace multiple spaces or hyphens with a hyphen
-    .replace(/[\s-]+/g, '-');
+      .toLowerCase()
+      .trim()
+      // remove accents
+      .normalize('NFD')
+      .replace(/[\u0300-\u036f]/g, '')
+      // replace invalid characters with spaces
+      .replace(/[^a-z0-9\s-]/g, ' ')
+      .trim()
+      // replace multiple spaces or hyphens with a hyphen
+      .replace(/[\s-]+/g, '-');
 
     return `<hr>
     <p>
       <strong>${title}</strong><br>
-      ${// evil nested tertiary this is the worlds least oneline oneliner
+      ${
+      // evil nested tertiary this is the worlds least oneline oneliner
       !link || link == "" ?
         "" :
         Array.isArray(link) ?
@@ -65,8 +66,9 @@ module.exports = function (eleventyConfig) {
       }${!image || image == "" ?
         "" :
         Array.isArray(image) ?
-          image.map((i) => `<img src="${i}"/><br>`).join(" ") :
-          `<a href="#img_${slug}"><img src="${image}"/><br></a>
+          image.map((i, index) => `<a href="#img_${slug}_${index}"><img src="${image}"/></a><br>
+          <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${image}"/></a>`).join(" ") :
+          `<a href="#img_${slug}"><img src="${image}"/></a><br>
           <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a>`
       }${!video || video == "" ?
         "" :
