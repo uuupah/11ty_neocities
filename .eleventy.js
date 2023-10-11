@@ -39,6 +39,18 @@ module.exports = function (eleventyConfig) {
       return '';
     };
 
+    var slug = title
+    .toLowerCase()
+    .trim()
+    // remove accents
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    // replace invalid characters with spaces
+    .replace(/[^a-z0-9\s-]/g, ' ')
+    .trim()
+    // replace multiple spaces or hyphens with a hyphen
+    .replace(/[\s-]+/g, '-');
+
     return `<hr>
     <p>
       <strong>${title}</strong><br>
@@ -53,8 +65,9 @@ module.exports = function (eleventyConfig) {
       }${!image || image == "" ?
         "" :
         Array.isArray(image) ?
-          image.map((i) => `<img src="${i}"></img><br>`).join(" ") :
-          `<img src="${image}"></img><br>`
+          image.map((i) => `<img src="${i}"/><br>`).join(" ") :
+          `<a href="#img_${slug}"><img src="${image}"/><br></a>
+          <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a>`
       }${!video || video == "" ?
         "" :
         `<video autoplay loop muted controls poster="${video.poster}">  
