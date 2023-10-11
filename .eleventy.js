@@ -18,7 +18,7 @@ module.exports = function (eleventyConfig) {
       .trim()
       // remove accents
       .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '') 
+      .replace(/[\u0300-\u036f]/g, '')
       // replace invalid characters with spaces
       .replace(/[^a-z0-9\s-]/g, ' ')
       .trim()
@@ -32,6 +32,37 @@ module.exports = function (eleventyConfig) {
       <iframe class="album-tile-iframe" name="${slug}" src="about:blank" seamless></iframe>
       <b>${title}</b>
     </div>`
+  });
+
+  eleventyConfig.addShortcode("infinitenightmare", function (title, link, image, video, description) {
+    if (!title || title == "") {
+      return '';
+    };
+
+    return `<hr>
+    <p>
+      <strong>${title}</strong><br>
+      ${// evil nested tertiary this is the worlds least oneline oneliner
+      !link || link == "" ?
+        "" :
+        Array.isArray(link) ?
+          (typeof link[0] === 'string' ?
+            link.map((l) => `<a href="${l}">link</a><br>`).join(" // ") + '<br>' :
+            link.map((l) => `<a href="${l.link}">${l.title}</a>`).join(" // ") + '<br>') :
+          `<a href="${link}">link</a><br>`
+      }${!image || image == "" ?
+        "" :
+        Array.isArray(image) ?
+          image.map((i) => `<img src="${i}"></img><br>`).join(" ") :
+          `<img src="${image}"></img><br>`
+      }${!video || video == "" ?
+        "" :
+        `<video autoplay loop muted controls poster="${video.poster}">  
+            <source src="${video.link}" type="video/mp4"></source>  
+            <img src="${video.poster}"></img>  
+        </video><br>`
+      }${description}
+    </p>`
   });
 
   // make a list of all tags besides "post" and add them to the collection
