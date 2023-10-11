@@ -11,7 +11,14 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 ---
 
-**highlandkall but this post in particular**  
+**hachi**  
+[link](https://www.artstation.com/artwork/WK9wvy)  
+![](https://cdnb.artstation.com/p/assets/images/images/034/624/299/large/hachi-li-1-02.jpg?1612797350)  
+im not super keen on hachi's general artstyle, it's a bit too disney for my liking, but these are some super cool examples of stylisation, simplification and gestural exaggeration  
+
+---
+
+**highlandkall**  
 [link](https://www.tumblr.com/highlandkall/727644196588142592/naomi-in-a-spotted-dress-i-thought-was-cute)  
 ![](https://64.media.tumblr.com/5eb8879ff340aba386e4648e7285c5be/eeba3b0e1ac353b3-df/s2048x3072/d5ea963d9cb0ceab3a143e69f7fecc4ca497c892.pnj)  
 im shitting myself everything about this pic like the subtle shading, the round forms and colouring, the shading, the background, the super subtle edge separation good fucking god
