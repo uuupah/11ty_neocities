@@ -12,22 +12,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
 
   eleventyConfig.addShortcode("albumtile", function (title, embedLink, coverImage) {
-    // hugely overcomplicated universal slug method
-    var slug = title
-      .toLowerCase()
-      .trim()
-      // remove accents
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      // replace invalid characters with spaces
-      .replace(/[^a-z0-9\s-]/g, ' ')
-      .trim()
-      // replace multiple spaces or hyphens with a hyphen
-      .replace(/[\s-]+/g, '-');
-
+    var slug = slugify(title);
+    
     return `<div>
-      <a class="hide" href="${embedLink}" target="${slug}">
-      <img class="album-tile-cover-image" src="${coverImage}">
+    <a class="hide" href="${embedLink}" target="${slug}">
+    <img class="album-tile-cover-image" src="${coverImage}">
       </a>
       <iframe class="album-tile-iframe" name="${slug}" src="about:blank" seamless></iframe>
       <b>${title}</b>
@@ -42,18 +31,8 @@ module.exports = function (eleventyConfig) {
     var imageString = "";
     var linkString = "";
     var videoString = "";
-
-    var slug = title
-      .toLowerCase()
-      .trim()
-      // remove accents
-      .normalize('NFD')
-      .replace(/[\u0300-\u036f]/g, '')
-      // replace invalid characters with spaces
-      .replace(/[^a-z0-9\s-]/g, ' ')
-      .trim()
-      // replace multiple spaces or hyphens with a hyphen
-      .replace(/[\s-]+/g, '-');
+    
+    var slug = slugify(title);
 
     if (Array.isArray(link)) {
       if (typeof link[0] === 'string') {
@@ -72,14 +51,14 @@ module.exports = function (eleventyConfig) {
       imageString = `<a href="#img_${slug}"><img src="${image}"/></a>
       <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a><br>`
     }
-
+    
     if (video) {
       videoString = `<video autoplay loop muted controls poster="${video.poster}">  
           <source src="${video.link}" type="video/mp4"></source>  
           <img src="${video.poster}"></img>  
-      </video><br>`
+          </video><br>`
     }
-
+    
     return `<hr>
     <p>
       <strong>${title}</strong><br>
@@ -89,7 +68,7 @@ module.exports = function (eleventyConfig) {
       ${description}
     </p>`
   });
-
+  
   // make a list of all tags besides "post" and add them to the collection
   eleventyConfig.addCollection("tagsList", function (collectionApi) {
     const tagsList = new Set();
@@ -105,12 +84,12 @@ module.exports = function (eleventyConfig) {
     const sortedTagsList = new Set(Array.from(tagsList).sort());
     return sortedTagsList;
   });
-
+  
   // limit filter
   eleventyConfig.addFilter("limit", function (array, limit) {
     return array.slice(0, limit);
   });
-
+  
   // minify all html files
   eleventyConfig.addTransform("htmlmin", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
@@ -142,7 +121,7 @@ module.exports = function (eleventyConfig) {
       return data.permalink;
     }
   });
-
+  
   // When `eleventyExcludeFromCollections` is true, the file is not included in any collections
   eleventyConfig.addGlobalData("eleventyComputed.eleventyExcludeFromCollections", function () {
     return (data) => {
@@ -154,7 +133,7 @@ module.exports = function (eleventyConfig) {
       return data.eleventyExcludeFromCollections;
     }
   });
-
+  
   eleventyConfig.on("eleventy.before", ({ runMode }) => {
     // Set the environment variable
     if (runMode === "serve" || runMode === "watch") {
@@ -172,3 +151,17 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
+  
+var slugify = function (preSlug) {
+  return preSlug
+  .toLowerCase()
+  .trim()
+  // remove accents
+  .normalize('NFD')
+  .replace(/[\u0300-\u036f]/g, '')
+  // replace invalid characters with spaces
+  .replace(/[^a-z0-9\s-]/g, ' ')
+  .trim()
+  // replace multiple spaces or hyphens with a hyphen
+  .replace(/[\s-]+/g, '-');
+}
