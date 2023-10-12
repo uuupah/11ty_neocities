@@ -319,7 +319,13 @@ footer {
   line-height: 0;
 }
 
-.gallery>a>img {
+/* nunjuks / 11ty formatter puts unnecessary paragraphs in here because of the
+   for loop */
+.gallery>p {
+  margin: 0;
+}
+
+.gallery-image {
   box-sizing: border-box;
   background-color: var(--accent-bg);
   border: 2px solid var(--border);
