@@ -6,7 +6,7 @@ pagination:
   size: 1000
   alias: postslist
 ---
-<div class="infinite-nightmare">
+<div class="infinite-nightmare list-formatting">
 
 ### 🔞 warning! some of this stuff will be nsfw or include art that is nsfw 🔞
 thats just art baby! people are naked a _lot_ as it turns out
@@ -19,6 +19,7 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
     post.link,
     post.image,
     post.video,
+    post.iframelink,
     post.description
   %}
 {% endfor %}

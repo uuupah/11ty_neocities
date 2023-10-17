@@ -3,11 +3,19 @@ title: "my favourite youtube creators"
 date: 2023-10-17
 ---
 
-### dalub
-[www.youtube.com/@StellariteDalub](https://www.youtube.com/@StellariteDalub)  
-<iframe width="560" height="315" style="padding: 0;" src="https://www.youtube-nocookie.com/embed/NbTLpZLmfI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div class="list-formatting">
 
-this is an extremely indulgent move but dalub provides the most wonderfully genuine splatoon montages with just a bunch of people messing about; everything else on youtube is trying to put out regular weekly content instead of just having fun
+{% infinitenightmare
+    "dalub",
+    [{
+        "title": "www.youtube.com/@StellariteDalub",
+        "link": "https://www.youtube.com/@StellariteDalub"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/NbTLpZLmfI4",
+    "this is an extremely indulgent move but dalub provides the most wonderfully genuine splatoon montages with just a bunch of people messing about; everything else on youtube is trying to put out regular weekly content instead of just having fun"
+%}
 
 ### hhhazel  
 [youtube.com/@hhhazel](https://www.youtube.com/@hhhazel)  
@@ -26,3 +34,5 @@ whitestone jazz is a mathematician who splits time between describing mathematic
 <iframe width="560" height="315" style="padding: 0;" src="https://www.youtube-nocookie.com/embed/p4AdFD3E2ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
 
 jenny nicholson fits squarely in the camp of people who are delightful to listen to because they're simply extremely passionate. her videos span a bunch of different topics but there is a lot of movie and tv stuff, with some absolute out-there left-field type topics in between
+
+</div>

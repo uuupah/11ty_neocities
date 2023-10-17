@@ -8,16 +8,18 @@
 
   --bg: #6a826a;
   --container: #fffbef;
-  --accent-bg: #b99b6c;
+  --accent-bg: #6a826a;
   --text: #6a826a;
-  --header-text: #b99b6c;
-  /* --text-light: #585858; */
+  --header-text: #6a826a;
   --border: #6a826a;
   --accent: #aa5757;
+
   --content-column-width: 750px;
   /* this width was 200 but i stretched it out to fit the gif */
   --sidebar-column-width: 287px;
   --line-padding: 8px;
+
+  font-size: 11pt;
 }
 
 html {
@@ -270,43 +272,6 @@ footer {
   justify-self: flex-end;
 }
 
-.bouncy {
-  animation: bounce 1s cubic-bezier(0.45, 0.05, 0.55, 0.95) infinite;
-}
-
-@keyframes bounce {
-
-  0%,
-  100% {
-    transform: translateY(0);
-  }
-
-  50% {
-    transform: translateY(-5px);
-  }
-
-  75% {
-    transform: translateY(0);
-  }
-
-  100% {
-    transform: translateY(0);
-    animation-delay: 3s;
-    /* add a 3 second delay before restarting the animation */
-  }
-}
-
-.updates-field {
-  border: 2px solid var(--bg);
-  padding: 5px;
-  margin-top: var(--line-padding);
-  margin-bottom: var(--line-padding);
-}
-
-.updates-field p {
-  margin: 0;
-}
-
 .gallery {
   width: 100%;
   display: grid;
@@ -410,4 +375,21 @@ footer {
   width: 100%;
   aspect-ratio: 1;
   display: none;
+}
+
+.list-formatting p{
+  margin-top: 0;
+  margin-bottom: 4px;
+}
+
+.list-formatting h3,
+.list-formatting hr{
+  margin-bottom: 0;
+  margin-top: 32px;
+}
+
+.list-formatting img,
+.list-formatting video,
+.list-formatting iframe {
+  border: 1px solid var(--border);
 }
