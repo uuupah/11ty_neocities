@@ -396,4 +396,5 @@ footer {
 .list-formatting video,
 .list-formatting iframe {
   border: 1px solid var(--border);
+  background-color: var(--border);
 }

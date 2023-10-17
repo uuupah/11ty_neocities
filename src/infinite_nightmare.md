@@ -16,6 +16,7 @@ welcome to the infinite nightmare list aka a big dumpster for me to put art rela
 
 <div class="infinite-nightmare list-formatting">
 
+<!-- /src/_data/infinite_nightmare.json/ -->
 {% for post in infinite_nightmare %}
   {% listentry 
     post.title,

@@ -3,7 +3,23 @@ title: webcomics
 date: 2023-09-26
 ---
 
-### hasamaya - marmastry splatoon comics  
+<div class="list-formatting half-width">
+
+<!-- /src/_data/webcomics.json/ -->
+{% for post in webcomics %}
+  {% listentry 
+    post.title,
+    post.link,
+    post.image,
+    post.video,
+    post.iframelink,
+    post.description
+  %}
+{% endfor %}
+
+</div><br>
+
+<!-- ### hasamaya - marmastry splatoon comics  
 [read here](https://www.tumblr.com/marmastry/729510696393605120/moomers-comic-masterpost)  
 
 some adorable little comics about two inklings living it up together
@@ -52,5 +68,4 @@ the assorted works of internet crazy person andrew hussie are varied, and have a
 
 a really wild comic about trans people in the real world and tumblr / true crime culture. deals with some really heavy stuff so read the content warning for each sub-story.
 
-<a href="https://whathappensnext.webcomic.ws/archive/"><img src="https://img.comicfury.com/comics/223/51537a1636508411b68615f61136977.png" height="300px"></a>
-
+<a href="https://whathappensnext.webcomic.ws/archive/"><img src="https://img.comicfury.com/comics/223/51537a1636508411b68615f61136977.png" height="300px"></a> -->
