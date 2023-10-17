@@ -23,7 +23,7 @@ module.exports = function (eleventyConfig) {
     </div>`
   });
 
-  eleventyConfig.addShortcode("infinitenightmare", function (title, link, image, video, iframelink, description) {
+  eleventyConfig.addShortcode("listentry", function (title, link, image, video, iframelink, description) {
     if (!title || title == "") {
       return '';
     };
@@ -63,7 +63,7 @@ module.exports = function (eleventyConfig) {
     if (iframelink) {
       console.log(iframelink)
       iframeString = `
-      <iframe src="${iframelink}" width="560" height="315" seamless allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>`;
+      <iframe src="${iframelink}" style="width: 560px; aspect-ratio: 16/9; max-width: 100%;" seamless allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>`;
     }
     
     return `<p>

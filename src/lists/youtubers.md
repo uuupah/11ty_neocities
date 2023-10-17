@@ -5,34 +5,52 @@ date: 2023-10-17
 
 <div class="list-formatting">
 
-{% infinitenightmare
+{% listentry
     "dalub",
     [{
-        "title": "www.youtube.com/@StellariteDalub",
+        "title": "youtube.com/@StellariteDalub",
         "link": "https://www.youtube.com/@StellariteDalub"
     }],
     null,
     null,
     "https://www.youtube-nocookie.com/embed/NbTLpZLmfI4",
     "this is an extremely indulgent move but dalub provides the most wonderfully genuine splatoon montages with just a bunch of people messing about; everything else on youtube is trying to put out regular weekly content instead of just having fun"
-%}
+-%}
 
-### hhhazel  
-[youtube.com/@hhhazel](https://www.youtube.com/@hhhazel)  
-<iframe width="560" height="315" style="padding: 0;" src="https://www.youtube-nocookie.com/embed/yNidRSwwKSg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+{% listentry
+    "hhhazel",
+    [{
+        "title": "youtube.com/@hhhazel",
+        "link": "https://www.youtube.com/@hhhazel"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/yNidRSwwKSg",
+    "hhhazel is an anime video creator who goes to stupid lengths to communicate her feelings in a way that allows you to really empathise with her, as well as understand some of the (more) objective qualities about a show or series that set it apart from the rest. i always feel like i'm getting better at art criticism and analysis whenever i listen to her"
+-%}
 
-hhhazel is an anime video creator who goes to stupid lengths to communicate her feelings in a way that allows you to really empathise with her, as well as understand some of the (more) objective qualities about a show or series that set it apart from the rest. i always feel like i'm getting better at art criticism and analysis whenever i listen to her
+{% listentry
+    "whitestone jazz",
+    [{
+        "title": "youtube.com/@whitestonejazz",
+        "link": "https://www.youtube.com/@whitestonejazz"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/aWzrjQ2rc3U",
+    "whitestone jazz is a mathematician who splits time between describing mathematical concepts in minecraft and breaking down the maths / logic of cool minecraft systems for the layperson. it's still pretty in-depth stuff, but i think he does a good job of simplifying it"
+-%}
 
-### whitestone jazz  
-[youtube.com/@whitestonejazz](https://www.youtube.com/@whitestonejazz)  
-<iframe width="560" height="315" style="padding: 0;" src="https://www.youtube-nocookie.com/embed/aWzrjQ2rc3U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+{% listentry
+    "jenny nicholson",
+    [{
+        "title": "youtube.com/@JennyNicholson",
+        "link": "https://www.youtube.com/@JennyNicholson"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/p4AdFD3E2ok",
+    "jenny nicholson fits squarely in the camp of people who are delightful to listen to because they're simply extremely passionate. her videos span a bunch of different topics but there is a lot of movie and tv stuff, with some absolute out-there left-field type topics in between"
+-%}
 
-whitestone jazz is a mathematician who splits time between describing mathematical concepts in minecraft and breaking down the maths / logic of cool minecraft systems for the layperson. it's still pretty in-depth stuff, but i think he does a good job of simplifying it
-
-### jenny nicholson  
-[youtube.com/@JennyNicholson](https://www.youtube.com/@JennyNicholson)  
-<iframe width="560" height="315" style="padding: 0;" src="https://www.youtube-nocookie.com/embed/p4AdFD3E2ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
-
-jenny nicholson fits squarely in the camp of people who are delightful to listen to because they're simply extremely passionate. her videos span a bunch of different topics but there is a lot of movie and tv stuff, with some absolute out-there left-field type topics in between
-
-</div>
+</div><br>

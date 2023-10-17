@@ -388,6 +388,10 @@ footer {
   margin-top: 32px;
 }
 
+/* .list-formatting h3:first-of-type {
+  margin-top: 8px;
+} */
+
 .list-formatting img,
 .list-formatting video,
 .list-formatting iframe {
