@@ -67,7 +67,7 @@ module.exports = function (eleventyConfig) {
     }
     
     return `<p>
-      <h3>${title}</h3>
+      <h3 id="${slug}">${title}</h3>
       ${linkString}
       ${imageString}
       ${videoString}
