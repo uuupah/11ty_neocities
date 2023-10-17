@@ -1,7 +1,13 @@
 ---
 title: "my favourite youtube creators"
-date: 2023-10-04
+date: 2023-10-17
 ---
+
+### dalub
+[www.youtube.com/@StellariteDalub](https://www.youtube.com/@StellariteDalub)  
+<iframe width="560" height="315" style="padding: 0;" src="https://www.youtube-nocookie.com/embed/NbTLpZLmfI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+this is an extremely indulgent move but dalub provides the most wonderfully genuine splatoon montages with just a bunch of people messing about, where everything else on youtube is tryign far too hard to put out regular weekly content instead of just having fun
 
 ### hhhazel  
 [youtube.com/@hhhazel](https://www.youtube.com/@hhhazel)  
