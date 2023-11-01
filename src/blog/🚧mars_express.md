@@ -5,9 +5,17 @@ draft: true
 - carlos's story
   - looking back on the story and yiu realise how it was about him all along
 - imaginative robot and technology designs
-  - one of
+  - one of the collest versions of populated mars
+    - i loved the highways dug into the walls and the weird super highway
 - lem
   - laid back character who isnt annoying or sassy
   - great look too
 - facial expressions
   - little mouth movements especially
+- brain farming
+- the whole concept of backups - jem's backup 'clone'
+- the comms technology is fun and some of the decisions outline how awkward it can be 
+  - people going blank during calls
+  - the forensics team private chat
+  - the ui and how she interacts with it
+- surprised by the ending and how it reframes the rest of the film
