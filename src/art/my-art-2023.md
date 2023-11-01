@@ -31,8 +31,8 @@ date: 2023-10-31
 
 <div class="gallery">
 {% for image in images %}
-    <a href="#img_{{loop.index}}"><img class="gallery-image" src="{{image}}"></a>
-    <a href="#_{{loop.index}}" class="lightbox trans" id="img_{{loop.index}}"><img src="{{image}}"></a>
+    <a href="#img_{{images.length - loop.index}}"><img class="gallery-image" src="{{image}}"></a>
+    <a href="#_{{images.length - loop.index}}" class="lightbox trans" id="img_{{images.length - loop.index}}"><img src="{{image}}"></a>
 {% endfor %}
 </div>
 
