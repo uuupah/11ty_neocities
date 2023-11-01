@@ -14,3 +14,5 @@ title: links
 - [tanami.org/](https://tanami.org/)
 - [t-amadan.carrd/](https://t-amadan.carrd.co/)
 - [lulu.contact/](https://lulu.contact/)
+- [gusbus.space/](https://gusbus.space)
+- [jazz-dude.com.](https://jazz-dude.com/)
