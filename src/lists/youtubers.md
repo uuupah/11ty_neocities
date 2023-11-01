@@ -1,9 +1,21 @@
 ---
 title: "my favourite youtube creators"
-date: 2023-10-17
+date: 2023-11-01
 ---
 
 <div class="list-formatting">
+
+{% listentry
+    "acerola",
+    [{
+        "title": "youtube.com/@Acerola_t",
+        "link": "https://www.youtube.com/@Acerola_t"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/PH9q0HNBjT4",
+    "acerola is a graphics programmer who works in the area profesisonally, but also makes some lovely (and just generally entertaining) videos on different graphics programming concepts from the perspective of someone who actually knows what theyre talking about"
+-%}
 
 {% listentry
     "dalub",
