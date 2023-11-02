@@ -6,6 +6,18 @@ date: 2023-11-01
 <div class="list-formatting">
 
 {% listentry
+    "rp archive",
+    [{
+        "title": "youtube.com/@RPArchiveOfficial",
+        "link": "https://www.youtube.com/@RPArchiveOfficial"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/K_vR2wQlzFo",
+    "matt from rp archive has created this whole interlocking magnetic battle map system for table top roleplaying games and they itch the part of my brain that loves dioramas and worldbuilding. i'm yeeeet to actually make anything that he's talked about, but i do have a tiny apartment and i have no idea where i'd put it in the first place"
+-%}
+
+{% listentry
     "acerola",
     [{
         "title": "youtube.com/@Acerola_t",
