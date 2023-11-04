@@ -2,6 +2,16 @@
 layout: layout/base.njk
 title: links
 ---
+### button!
+
+```
+<a href="https://uuupah.neocities.org">
+  <img src="https://uuupah.neocities.org/_assets/img/button.png"/>
+</a>
+```
+
+[![](/_assets/img/button.png)](https://uuupah.neocities.org)
+
 ### my media tracking
 - 🎬 [letterboxd.com/uuupah/](https://letterboxd.com/uuupah/)
 - 🎷 [last.fm/user/uuupah/](https://last.fm/user/uuupah)
