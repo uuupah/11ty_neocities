@@ -29,3 +29,6 @@ watched for a few dollars more; vast improvement on a fistful of dollars
 
 **2023.04.23**  
 started playing devil daggers and cave story +
+
+**2023.11.06**
+started putting together my home server tutorial - this shit took longer than i expected
