@@ -37,6 +37,10 @@ draft: true
   - innovative way of handling death / knockouts
 - menus
   - (i think) intentional nod to final fantasy
+- general interaction
+  - picking up items has a minimal pause, and standing near two and mashing a makes you pick them all up at the same time with no delay
+  - pushing the teal crystals also has no delay and goes quickly
+  - animations after completing a puzzle dont lock up the game (if its on the same screen) and let you move to the area that's being revealed
 - traversal
 - the mechanicc of teaks appearing and then only showing up when it makes sense is interesting
   - it feels a bit inserty the same way that it did in indivisible, but i think making her a non-combat character 
