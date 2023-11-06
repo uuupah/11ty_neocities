@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2023.11.06**
+started putting together my home server tutorial, theres about 10 sectoins total and this one took me more than an hour on its own
+
 **2023.08.01**  
 huge homepage redesign! i'll write about it in some more detail but i'm currently at work and should really be finishing up my tasks instead
 
@@ -29,6 +32,3 @@ watched for a few dollars more; vast improvement on a fistful of dollars
 
 **2023.04.23**  
 started playing devil daggers and cave story +
-
-**2023.11.06**
-started putting together my home server tutorial - this shit took longer than i expected
