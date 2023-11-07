@@ -1,14 +1,14 @@
 import sys
 import os
+import re
 from  PIL import Image as im
-import filetype
 
 # width in pixels
 MAX_WIDTH = 720
 # filetype
-OUTPUT_FILETYPE = "JPG"
+OUTPUT_FILETYPE = "jpg"
 IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps", 
-  ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif")
+  ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif", ".webp")
 
 def main():
   if len(sys.argv) < 2:
@@ -40,8 +40,7 @@ def handle_directory(dirpath):
   return
 
 def verify_file_is_image(filepath):
-  # TODO: find new method so i can avoid using filetype
-  return filetype.is_image(filepath)
+  return os.path.splitext(filepath)[1] in IMG_FM
 
 def process_image(filepath):
   print("processing " + filepath)
@@ -51,11 +50,10 @@ def process_image(filepath):
       width_percent = MAX_WIDTH / float(current_image.width)
       new_height = int((float(current_image.height) * float(width_percent)))
       current_image = current_image.resize((MAX_WIDTH, new_height), im.Resampling.LANCZOS)
-    print("> format is " + str(current_image.format))
-    # TODO: save file here
-    print("filename " + os.path.splitext(os.path.basename(filepath))[0])
-    print("dirname " + os.path.dirname(filepath))
-    current_image.save()
+    if current_image.mode in ("RGBA", "P"): 
+      current_image = current_image.convert("RGB")
+    filename_slug = slugify(os.path.splitext(os.path.basename(filepath))[0])
+    current_image.save(os.path.join(os.path.dirname(filepath), (filename_slug + "." + OUTPUT_FILETYPE)))
   return
 
 def slugify(s: str) -> str:
