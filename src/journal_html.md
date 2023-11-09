@@ -3,8 +3,8 @@ layout: layout/base.njk
 title: journal.html
 ---
 
-**2023.11.06**
-started putting together my home server tutorial, theres about 10 sectoins total and this one took me more than an hour on its own
+**2023.11.06**  
+started putting together my home server tutorial, theres about 10 sections total and this one took me more than an hour on its own
 
 **2023.08.01**  
 huge homepage redesign! i'll write about it in some more detail but i'm currently at work and should really be finishing up my tasks instead
