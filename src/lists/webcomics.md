@@ -1,6 +1,6 @@
 ---
 title: webcomics
-date: 2023-09-26
+date: 2023-11-16
 ---
 
 <div class="list-formatting half-width">
