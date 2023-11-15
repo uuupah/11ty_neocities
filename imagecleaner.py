@@ -1,6 +1,4 @@
-import sys
-import os
-import re
+import sys, os, re
 from  PIL import Image as im
 
 # width in pixels
