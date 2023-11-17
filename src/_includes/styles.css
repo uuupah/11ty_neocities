@@ -76,7 +76,13 @@ a:hover,
 
 .smallweb-subway {
   text-decoration: underline;
-  cursor: pointer;
+  cursor: pointer;  
+  background: none!important;
+  border: none;
+  padding: 0!important;
+  /*optional*/
+  font-family: inherit;
+  /*input has OS specific font-family*/
 }
 
 hr {
