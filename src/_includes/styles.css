@@ -61,15 +61,22 @@ h5 {
 
 /* Format links */
 a,
-a:visited {
+a:visited,
+.smallweb-subway  {
   color: var(--accent);
   display: inline-block;
   transition: transform .07s ease-out;
 }
 
-a:hover {
+a:hover,
+.smallweb-subway:hover {
   text-decoration: none;
   transform: translate(0px, -2px);
+}
+
+.smallweb-subway {
+  text-decoration: underline;
+  cursor: pointer;
 }
 
 hr {
