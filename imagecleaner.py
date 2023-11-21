@@ -51,7 +51,7 @@ def process_image(filepath):
     if current_image.mode in ("RGBA", "P"): 
       current_image = current_image.convert("RGB")
     filename_slug = slugify(os.path.splitext(os.path.basename(filepath))[0])
-    current_image.save(os.path.join(os.path.dirname(filepath), (filename_slug + "." + OUTPUT_FILETYPE)))
+    current_image.save(os.path.join(os.path.dirname(filepath), (filename_slug + "." + OUTPUT_FILETYPE)), quality=90)
   return
 
 def slugify(s: str) -> str:
