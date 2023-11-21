@@ -11,7 +11,7 @@ hey what's up! my name is uuupah. im a twenty-something non-binary (they/them) p
 
 <div class="paragraph-deparagrapher">
 
-  #### [🧑‍🎨 my art 👩‍🎨](/art/my-art-2023/)
+  #### [🖌️ my art 🖼️](/art/my-art-2023/)
   #### [journal.html](/journal_html/)
   #### [⚠️ newest post! ⚠️]({{collections.post[collections.post.length - 1].filePathStem}})
   #### thoughts and feelings
