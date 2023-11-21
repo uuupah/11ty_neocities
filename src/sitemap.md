@@ -12,7 +12,7 @@ title: sitemap
 [infinite nightmare list of things i want to draw](/infinite_nightmare/)  
 {% for tag in collections.tagsList %}
   [{{tag}}]({{"/" + tag + "/"}})
-  {% for post in collections[tag] %}
+  {% for post in collections[tag] | reverse %}
  \- [{{ post.data.title or post.data.page.fileSlug }}](/{{ tag }}/{{ post.data.page.fileSlug }})
   {% endfor %}
 {% endfor %}
