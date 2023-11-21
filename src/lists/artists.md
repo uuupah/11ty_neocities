@@ -1,6 +1,6 @@
 ---
 title: "my favourite artists"
-date: 2023-07-22
+date: 2023-11-21
 ---
 
 i find my """artistic journey""" and """""artistic goals""""" are pretty hard to grasp; i don't think i'm the kind of person who has some great unique thing to say that hasnt been said before, and my insecurity about my skill means that i find it pretty difficult to experiment. i guess i just want to make things that look neat, but i want to stay genuine while doing it, whatever that means
@@ -9,6 +9,17 @@ anyway further to that point, heres some of artists that inspire me. i think alm
 
 [note: i've cropped and resized all of these images for ease of loading and to protect the site against <a href="https://en.wikipedia.org/wiki/Link_rot">link rot</a>; you can see the original images in their original context by clicking on them]
 
+<h3>android arts</h3>
+<a href="https://androidarts.com/">link</a>
+<div class="two-columns">
+    <a href="https://androidarts.com/palette/Famicube.htm#cases">
+        <img src="https://androidarts.com/palette/Famicube2r3bflat.jpg">
+    </a>
+    <a href="https://androidarts.com/kawaiik/kawaiik.htm#techies">
+        <img src="https://androidarts.com/kawaiik/kawaiik_engineered.jpg">
+    </a>
+</div>
+i stumbled onto this artist way back in primary school and have consistently been in love with both their art and the way that they think ever since. their site was the inspiration for me starting my own blog! their projects are largely reimaginings of old properties (both visually and mechanically, for video games), industrial design and thei own personal worldbuilding.
 <h3>stedilnik</h3>
 <a href="https://stedilnik.tumblr.com/">tumblr</a>
 <a href="https://twitter.com/stedilnik">twitter</a>
