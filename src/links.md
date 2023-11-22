@@ -25,4 +25,5 @@ title: links
 - [t-amadan.carrd/](https://t-amadan.carrd.co/)
 - [lulu.contact/](https://lulu.contact/)
 - [gusbus.space/](https://gusbus.space)
-- [jazz-dude.com.](https://jazz-dude.com/)
+- [jazz-dude.com/](https://jazz-dude.com/)
+- [snailcomic.neocities.org/](https://snailcomic.neocities.org/)

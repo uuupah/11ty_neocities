@@ -19,7 +19,7 @@ anyway further to that point, heres some of artists that inspire me. i think alm
         <img src="/_assets/img/artists/androidarts-2.jpg">
     </a>
 </div>
-i stumbled onto this artist way back in primary school and have consistently been in love with both their art and the way that they think ever since. their site was the inspiration for me starting my own blog! their projects are largely reimaginings of old properties (both visually and mechanically, for video games), industrial design and thei own personal worldbuilding.
+i stumbled onto this artist way back in primary school and have consistently been in love with both their art and the way that they think ever since. their site was the inspiration for me starting my own blog! their projects are largely reimaginings of old properties (both visually and mechanically, for video games), industrial design and their own personal worldbuilding.
 <h3>stedilnik</h3>
 <a href="https://stedilnik.tumblr.com/">tumblr</a>
 <a href="https://twitter.com/stedilnik">twitter</a>
