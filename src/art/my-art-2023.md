@@ -3,11 +3,15 @@ title: "my art 2023"
 date: 2023-11-21
 ---
 
-<span>
+<div class="smallweb-subway-handler">
+    <smallweb-subway></smallweb-subway>
+</div>
+
+<!-- <span>
     <button class="smallweb-subway" onclick="goToPrev()">&lt;==</button> 
     smallweb subway
     <button class="smallweb-subway" onclick="goToNext()">==&gt;</button>
-</span>
+</span> -->
 
 {% set images = [
     "https://64.media.tumblr.com/d2bc6d6a0a5230cbfd37ae9afed3d33b/8279bd1a333d8a52-91/s1280x1920/5f3341d65b27bf2d2a075e98fe1ac2a9cfa0af4f.jpg",
