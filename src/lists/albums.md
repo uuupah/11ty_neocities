@@ -1,6 +1,6 @@
 ---
 title: my favourite music
-date: 2023-07-31
+date: 2023-11-23
 ---
 
 ⚠️ click on an album cover to load the web player for that album! ⚠️
@@ -72,6 +72,12 @@ date: 2023-07-31
         "zapper - nanoray",
         "https://bandcamp.com/EmbeddedPlayer/album=2586530263/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/",
         "/_assets/img/albums/zapper.jpg"
+    -%}
+
+    {% albumtile
+        "backroom labyrinth - oliver buckland",
+        "https://bandcamp.com/EmbeddedPlayer/track=80082692/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/",
+        "/_assets/img/albums/backroomlabyrinth.jpg"
     -%}
 </div>
 
