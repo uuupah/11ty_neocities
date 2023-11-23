@@ -1,5 +1,6 @@
 import sys, os, re
-from  PIL import Image as im
+from PIL import Image as im
+from argparse import ArgumentParser as argparser
 
 # width in pixels
 MAX_WIDTH = 720
@@ -38,6 +39,11 @@ def handle_directory(dirpath):
   return
 
 def verify_file_is_image(filepath):
+  # note that this isnt a bulletproof way to check a file is _actually_ an 
+  # image, but pil can figure out the filetype for us if its been misattributed 
+  # in the file metadata - this just stops us from wasting time trying to 
+  # process markdown files or js code, but also means we're not relying on some
+  # stupid fucking package solution for an extremely simple problem
   return os.path.splitext(filepath)[1] in IMG_FM
 
 def process_image(filepath):
