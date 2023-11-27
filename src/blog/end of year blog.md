@@ -2,6 +2,10 @@
 draft: true
 ---
 
+the scramble vice
+
+my top three things of 2023
+
 ### art refocus
 
 https://twitter.com/cartvage
