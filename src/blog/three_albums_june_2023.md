@@ -6,7 +6,7 @@ date: 2023-07-01
 this is likely going to be a shorter post than usual, but this month's playlist is [here](https://open.spotify.com/playlist/7EMFyjdCmvrF2q2q8mvKJ6?si=e8fccb3f063f4699)  
 
 ### 3. sinnohvation - insaneintherainmusic  
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZdMJRE9Qo6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+<iframe style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=2886208125/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://insaneintherainmusic.bandcamp.com/album/sinnohvation">Sinnohvation by insaneintherainmusic</a></iframe>
 
 this is maybe a bit more cheesy and self-indulgent than usual, but it's been a really big month and i needed some shameless nostalgia to fall back on.
 
