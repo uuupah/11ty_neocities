@@ -1,5 +1,6 @@
 ---
 draft: true
+title: "end of year blog"
 ---
 
 the scramble vice

@@ -1,0 +1,67 @@
+[
+  {
+    "title": "1x2",
+    "image": "/_assets/img/keyboards/1x2.jpg",
+    "description": "this keyboard is actually one of my newest, and was designed to ape on [this lego brick](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069bp80) - the dimensions are almost identical to the original brick, and also include its completely nonsensical layout. i actually made the project [available on github](https://github.com/uuupah/onebytwo_kb), not that i think many people would be too interested in making one"
+  },
+  {
+    "title": "refitted cherry g1800",
+    "image": "/_assets/img/keyboards/1800.jpg",
+    "description": "this one is the produce one of my favourite taobao hauls. the case is from the skanti offices in denmark and had a bit of a rough life - it's covered in scratches and wear marks. the internal pcb is a tkc1800 that i was insanely lucky to find, and i've fashioned a usb mini b extender cable so that it can be disconnected and moved around, instead of using the old fixed cable. the electrical tape is to dim the lock lights because my leds were way too bright"
+  },
+  {
+    "title": "aek60",
+    "image": "/_assets/img/keyboards/aek60.jpg",
+    "description": "this one is a cannibalised apple extended keyboard, including original alps orange switches. the spacebar was yellowed to a deep caramel colour, but i did my first [retrobright](https://en.wikipedia.org/wiki/Retrobright) attempt and i reckon it turned out pretty good! the keyboard itself feels and sounds really good, and going through the effort of importing an extra caps lock key from the states to use as short right shift was absolutely worth the trouble - the guy who sent them to me is a semi-retired physics (i think) professor who included a load of other fliers and cds from his various interests to get the package to its minimum weight. i might hunt them down some time and share them here because theyre honestly pretty interesting"
+  },
+  {
+    "title": "alps64",
+    "image": "/_assets/img/keyboards/alps64.jpg",
+    "description": "a friend offered me an old mck-101sx "
+  },
+  {
+    "title": "dilly",
+    "image": "/_assets/img/keyboards/dilly.jpg",
+    "description": ""
+  },
+  {
+    "title": "downbubble",
+    "image": "/_assets/img/keyboards/downbubble.jpg",
+    "description": ""
+  },
+  {
+    "title": "gherkin",
+    "image": "/_assets/img/keyboards/gherkin.jpg",
+    "description": ""
+  },
+  {
+    "title": "hhkb",
+    "image": "/_assets/img/keyboards/hhkb.jpg",
+    "description": ""
+  },
+  {
+    "title": "kara",
+    "image": "/_assets/img/keyboards/kara.jpg",
+    "description": ""
+  },
+  {
+    "title": "μlice",
+    "image": "/_assets/img/keyboards/mulice.jpg",
+    "description": ""
+  },
+  {
+    "title": "rf23u",
+    "image": "/_assets/img/keyboards/rf23u.jpg",
+    "description": ""
+  },
+  {
+    "title": "seinfeld60",
+    "image": "/_assets/img/keyboards/seinfeld60.jpg",
+    "description": ""
+  },
+  {
+    "title": "zoo96",
+    "image": "/_assets/img/keyboards/zoo96.jpg",
+    "description": ""
+  }
+]
