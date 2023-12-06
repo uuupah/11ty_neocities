@@ -57,7 +57,7 @@ def process_image(filepath):
   print("processing " + filepath)
   with im.open(filepath) as current_image:
     if (current_image.width > MAX_WIDTH):
-      print("> width is " + str(current_image.width) + ", resizing to 720px")
+      print("> width is " + str(current_image.width) + ", resizing to " + str(MAX_WIDTH) + "px")
       width_percent = MAX_WIDTH / float(current_image.width)
       new_height = int((float(current_image.height) * float(width_percent)))
       current_image = current_image.resize((MAX_WIDTH, new_height), im.Resampling.LANCZOS)
