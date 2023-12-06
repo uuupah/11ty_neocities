@@ -17,51 +17,51 @@
   {
     "title": "alps64",
     "image": "/_assets/img/keyboards/alps64.jpg",
-    "description": "a friend offered me an old mck-101sx "
+    "description": "a friend offered me an old mck-101sx and i literally cut up the plastic plate with a hacksaw. the switches are soldered into an old damaged alps64 pcb that has wire jumpers connecting the switches that have lifted pcb pads"
   },
   {
     "title": "dilly",
     "image": "/_assets/img/keyboards/dilly.jpg",
-    "description": ""
+    "description": "this one got bought on an absolute whim because kits like this used to be like forty bucks. its not a super useful layout but this one actually got loads of use as a macro board at my last office job, as you can tell from the horrible colour the paper stickers have turned"
   },
   {
     "title": "downbubble",
     "image": "/_assets/img/keyboards/downbubble.jpg",
-    "description": ""
+    "description": "to the best of my knowledge this is one of three existing downbubbles, a creation by the ever charming [flehrad](https://www.reddit.com/user/flehrad/). the official version has a gigantic cnc aluminium case, but i went the cheap options. the turned numpad is actually a super convenient addition and you honestly forget that it's a bit weird after using it for just a few minutes. the board is currently sitting in my sin bin because i tried my hardest, but i dont really like silent linear switches. i'll probably swap them out one day in the future"
   },
   {
     "title": "gherkin",
     "image": "/_assets/img/keyboards/gherkin.jpg",
-    "description": ""
+    "description": "another whim purchase, and equally useless. this one has a laser etched image of my friend ed on the back, but i dont have a good photo"
   },
   {
     "title": "hhkb",
     "image": "/_assets/img/keyboards/hhkb.jpg",
-    "description": ""
+    "description": "and here is my favourite keyboard that i've ever owned - i'm typing on it as we speak. my partner bought me an hhkb when they visited japan close to 10 years ago, and this thing has suffered through a thousand different modifications, the most important being the resin high profile caps i got made by blizzardmods. the shape looks a little odd but i find the raised edges and dished centres really improve my typing experience"
   },
   {
     "title": "kara",
     "image": "/_assets/img/keyboards/kara.jpg",
-    "description": ""
+    "description": "rama, the designer of this board, has somewhat blotted their copybook in the last couple of years, but i managed to grab this one both before the drama, and before their massive multiyear wait times set in. it's a really nice feeling board and i'm super happy with it, but i've been waiting on a replacement black plate for two years now"
   },
   {
     "title": "μlice",
     "image": "/_assets/img/keyboards/mulice.jpg",
-    "description": ""
+    "description": "this board was part of an exercise to build an 'alice' style keyboard for the minimum possible price, hence 'micro'. i put it together two sojus deep after one of the worst days of my professional life, which was incredibly therapeutic, but also resulting in the wiring getting crazier as i worked across the columns. regardless, i think the look is really nifty and the layout is super ergonomic and comfortable"
   },
   {
     "title": "rf23u",
     "image": "/_assets/img/keyboards/rf23u.jpg",
-    "description": ""
+    "description": "you know youve sunk to a new level of stupid when you get this excited about a numpad, but the rf23u is an incredible tool if you need to slap huge amounts of numbers into a spreadsheet. having the esc, backspace, tab and shift keys up the top gives a lot of utility that is normally missing and would require a second hand, and the dedicated = and 00 keys speed up functions and big number respectively. this one has been modded with bke redux domes, but i think theyre a little loud and fatiguing, and will probably swap them back if i ever go back to an office job"
   },
   {
     "title": "seinfeld60",
     "image": "/_assets/img/keyboards/seinfeld60.jpg",
-    "description": ""
+    "description": "this VERY silly design actually hides a pretty interesting board - the bleach60 was a pcb that takes smk switches, which are these kind of horrific evil halfway point between alps and cherry. my friend dra did a build log with some [here](https://www.reddit.com/r/MechanicalKeyboards/comments/6wa31p/reviving_a_forgotten_switch_bleach_60_build_log/). as for the keycaps, turns out that if you send an email to wasd keyboards, they can substitute whatever switch profiles you'd like before they do the printing, which means i got an hhkb style splite right shift and split backspace. hilariously, this board is probably in my top three most used keyboards, mostly because it _just works_"
   },
   {
     "title": "zoo96",
     "image": "/_assets/img/keyboards/zoo96.jpg",
-    "description": ""
+    "description": "and finally, probably my most expensive keyboard project. i got the case cnc milled at a chinese fab for something like 600 australian dollars, which was a pretty silly thing to do. the board inside is an xd96, and i actually had to update the official qmk repo because they didnt have all of this boards layouts available. the switches are just cherry clears, and the keycaps are 'simpleja' which are just an expanded set of standard japanese office keyboard keys that a friend gifted me. the heavy and expensive case thankfully makes it feel really solid, but it doesnt get heaps of use anymore since i dont use my numpad in most day-to-day tasks"
   }
 ]
