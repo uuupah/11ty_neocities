@@ -31,7 +31,7 @@ i stumbled onto this artist way back in primary school and have consistently bee
         <img src="/_assets/img/artists/yeon-lee-2.jpg" alt=""/>
     </a>
 </div>
-i credit yeon lee with being the person to _truly_ get me back into art. i saw her ["how to draw complex landscape easily"](https://www.youtube.com/watch?v=QAuiIfFXvGY) video while midway through drawabox (and bored out of my mind). her architectural and portrait drawing seemed both incredible and attainable with enough practice, so i immediately dropped drawabox and didnt go back
+i credit yeon lee with being the person to _truly_ get me back into art. i saw her <a href="https://www.youtube.com/watch?v=QAuiIfFXvGY">"how to draw complex landscape easily"</a> video while midway through drawabox (and bored out of my mind). her architectural and portrait drawing seemed both incredible and attainable with enough practice, so i immediately dropped drawabox and didnt go back
 <h3>stedilnik</h3>
 <a href="https://stedilnik.tumblr.com/">tumblr</a>
 <a href="https://twitter.com/stedilnik">twitter</a>
