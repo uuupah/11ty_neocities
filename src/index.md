@@ -24,8 +24,8 @@ hey what's up! my name is uuupah. im a twenty-something non-binary (they/them) p
       - {{ post.page.date.toLocaleDateString("en-UK") }} // [{{ post.data.title }}]({{post.filePathStem}})
   {% endfor %}
   \- [older lists](/lists/)
-  #### [art inspiration list](/infinite_nightmare/)
-  #### [sitemap](/sitemap/)
+  #### [🤔 art inspiration list 💭](/infinite_nightmare/)
+  #### [🗺️ sitemap 🌏](/sitemap/)
   #### [miscellania](/misc/)
 
 </div>
