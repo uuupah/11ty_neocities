@@ -16,6 +16,9 @@ date: 2023-11-21
 {% set images = [
     "/_assets/img/my_art_2023/witches.png",
     "/_assets/img/my_art_2023/angel.png",
+    "/_assets/img/my_art_2023/sexy-snes.png",
+    "/_assets/img/my_art_2023/tyre-painting.png",
+    "/_assets/img/my_art_2023/power-of-potluck.png",
     "/_assets/img/my_art_2023/duck-wagie.png",
     "/_assets/img/my_art_2023/vine-boom.png",
     "/_assets/img/my_art_2023/nehera-aw22.jpg",
