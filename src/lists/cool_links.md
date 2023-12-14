@@ -3,6 +3,13 @@ title: cool links
 date: 2023-09-21
 ---
 
+### the anal retentive rocky horror costume list
+[http://www.rockyhorrorcostumelist.info/](http://www.rockyhorrorcostumelist.info/)
+
+a curated list of basically every piece of information one would want about the original rocky horror picture show costumes
+
+<a href="http://www.rockyhorrorcostumelist.info/"><img src="/_assets/img/cool_links/anal_retentive.jpg"/></a>
+
 ### name your price essentials
 [https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/](https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/)
 
@@ -37,10 +44,6 @@ scatter plot of every recorded spotify genre. charted with a fuzzy calibration; 
 in the early 80s, sega, nintendo and atari had a stranglehold on the videogame market, and by extension, the kinds of games that could easily be distributed to the public. the pc-9800 series of japanese personal computers allowed people to bypass publication requirements for other systems and make whatever a developer could dream up (within the physical limitations of the hardware). this caused a bit of a renaissance of extremely slick pixel art productions, and this site records the vast majority. also check out [thor high heels' video](https://www.youtube.com/watch?v=OVpX2y6KjwA) on the pc-98 for some more eye candy
 
 <a href="https://www.pc98.org/main.html"><img src="/_assets/img/cool_links/pc98.jpg"/></a>
-
-<!--TODO: ## android arts
-[https://androidarts.com/](https://androidarts.com/)
--->
 
 ### ffilccoo
 [https://pgrkbd.web.fc2.com/](https://pgrkbd.web.fc2.com/)
