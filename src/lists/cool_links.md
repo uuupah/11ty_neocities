@@ -8,7 +8,7 @@ date: 2023-12-14
 
 a curated list of basically every piece of information one would want about the original rocky horror picture show costumes
 
-<a href="http://www.rockyhorrorcostumelist.info/"><img src="/_assets/img/cool_links/anal_retentive.jpg"/></a>
+<a href="http://www.rockyhorrorcostumelist.info/"><img src="/_assets/img/cool_links/anal-retentive.jpg"/></a>
 
 ### name your price essentials
 [https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/](https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/)
