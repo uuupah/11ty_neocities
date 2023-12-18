@@ -1,8 +1,45 @@
 ---
 title: cool links
-date: 2023-12-14
+date: 2023-12-19
 ---
 
+**[ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)**  
+learn the fundamentals of generating ray traced images in a very short time! two days, perhaps?
+
+**[bookmrks-mthrfckr](https://github.com/whoisdsmith/BOOKMRKS-MTHRFCKR)**  
+as below, another huge collection of useful links, but these are more general (and very well organised) (and version controlled)
+
+**[computervirus.neocities 100% legal data acquisition sources](https://computervirus.neocities.org/resources)**  
+this collection is super solid, and sharing it here makes more sense that just slicing it up piecemeal
+
+**[the anal retentive rocky horror costume list](http://www.rockyhorrorcostumelist.info/)**  
+a curated list of basically every piece of information one would want about the original rocky horror picture show costumes
+
+**[name your price essentials](https://rateyourmusic.com/list/lospollitoz/name-your-price-essentials-free-albums/)**  
+a list of highly rated albums that are "name your price" (functionally free) on bandcamp
+
+**[console variations](https://consolevariations.com/)**  
+record of all known variations of game console releases with their rarity
+
+**[jojo's bizarre comparisons](https://jojocomparisons.github.io/)**  
+goes through each jojo episode with a fine toothed comb, comparing the differences between the tv and dvd releases
+
+**[every noise at once](https://everynoise.com/)**  
+scatter plot of every recorded spotify genre. charted with a fuzzy calibration; mechanical / electronic feel on the vertical axis, smoothness on the horizontal axis. really useful for finding similar artists based on ones that you enjoy
+
+**[pc98](https://www.pc98.org/main.html)**  
+in the early 80s, sega, nintendo and atari had a stranglehold on the videogame market, and by extension, the kinds of games that could easily be distributed to the public. the pc-9800 series of japanese personal computers allowed people to bypass publication requirements for other systems and make whatever a developer could dream up (within the physical limitations of the hardware). this caused a bit of a renaissance of extremely slick pixel art productions, and this site records the vast majority. also check out [thor high heels' video](https://www.youtube.com/watch?v=OVpX2y6KjwA) on the pc-98 for some more eye candy
+
+**[ffilccoo](https://pgrkbd.web.fc2.com/)**  
+your average pre-2015 mechanical keyboard enthusiast. you can tell they really cares about the holistic aesthetic of the mid-80s mechanical keyboard and what makes them unique over the more capitalist focused modern offerings
+
+**[brisray](https://brisray.com/)**  
+this dude has been keep his little personal site up for 24 years and covers a staggering number of topics. my personal favourites are his thoughts on 9/11, written in october of 2001, and the page where he talks in length about his shoes
+
+**[you might not need jquery](https://youmightnotneedjquery.com/)**  
+this is a super handy resource if you have been using jquery for years like i have, and you need to wean yourself off of its syntax
+
+<!-- 
 ### the anal retentive rocky horror costume list
 [http://www.rockyhorrorcostumelist.info/](http://www.rockyhorrorcostumelist.info/)
 
@@ -64,4 +101,5 @@ this dude has been keep his little personal site up for 24 years and covers a st
 
 this is a super handy resource if you have been using jquery for years like i have, and you need to wean yourself off of its syntax
 
-<a href="https://youmightnotneedjquery.com/"><img src="/_assets/img/cool_links/youmightnotneedjquery.jpg"/></a>
+<a href="https://youmightnotneedjquery.com/"><img src="/_assets/img/cool_links/youmightnotneedjquery.jpg"/></a> 
+-->
