@@ -3,6 +3,9 @@ title: cool links
 date: 2023-12-19
 ---
 
+**[99gifs](https://99gifshop.neocities.org/)**  
+whole bunch of vintage gifs!
+
 **[ray tracing in one weekend](https://raytracing.github.io/books/RayTracingInOneWeekend.html)**  
 learn the fundamentals of generating ray traced images in a very short time! two days, perhaps?
 
