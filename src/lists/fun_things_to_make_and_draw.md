@@ -27,6 +27,7 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[ctrl paint - let's paint](https://www.ctrlpaint.com/lets-paint/)**  
 **[proko portrait course](https://www.proko.com/course/portrait-drawing-fundamentals/lessons)**  
 **[marc brunet digital painted backgrounds](https://www.youtube.com/watch?v=pmdc2zQ9jvM)**  
+**[majestics0ck cafe](majestics0ck.notion.site)**
 
 ---
 
