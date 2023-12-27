@@ -14,6 +14,7 @@ date: 2023-11-21
 </span> -->
 
 {% set images = [
+    "/_assets/img/my_art_2023/christmas.png",
     "/_assets/img/my_art_2023/witches.png",
     "/_assets/img/my_art_2023/angel.png",
     "/_assets/img/my_art_2023/sexy-snes.png",
