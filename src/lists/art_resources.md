@@ -1,6 +1,6 @@
 ---
 title: art resources
-date: 2023-12-21
+date: 2023-12-29
 ---
 
 (i stole this structure from friend of the site yamasztuka ty <3)
@@ -13,6 +13,7 @@ date: 2023-12-21
 
 ## 📐 design
 \- **[lospec palettes](https://lospec.com/palette-list)** this site is designed for pixel art but the palettes available on here are super useful for other art
+\- **[llesa poc features](https://twitter.com/Lle_plus_a/status/1739399709666553922)** some tips for drawing poc characters
 
 ## 📷 reference
 \- **[grafit studio](https://grafitschool.gumroad.com/)** these refs aren't free but theyre pretty cheap, and very high quality  
