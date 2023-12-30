@@ -15,6 +15,7 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[ismarus](https://www.instagram.com/ismarus_art/)** - ismarus' constant weight, nice round lineart and great colour choices  
 **[kunomd](https://twitter.com/KunoMD/status/1731062379470090495)** - this one in particular steps through multiple sketching and multiple colouring stages that could be super useful  
 **[shawn gerlin](https://twitter.com/shawngerlin)** - hands  
+**[nurzhan](https://www.artstation.com/artwork/1AweL)** - shading
 
 ## 🧑‍🎨 artists to look at because you like them and your art sort of looks like theirs  
 **[subspace skater](https://subspaceskater.tumblr.com/tagged/myart)**  
