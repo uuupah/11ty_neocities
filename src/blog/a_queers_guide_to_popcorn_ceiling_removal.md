@@ -1,6 +1,6 @@
 ---
 title: a queer's guide to removing popcorn ceiling (whilst living australia)
-date: 2023-01-17
+date: 2024-01-17
 ---
 
 <div class="half-width">
