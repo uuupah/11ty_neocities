@@ -1,5 +1,5 @@
 ---
-title: a queer's guide to removing popcorn ceiling (whilst living australia)
+title: a queer's guide to removing popcorn ceiling (whilst living in australia)
 date: 2024-01-17
 ---
 
@@ -57,7 +57,7 @@ i don't have loads of good photos of the plastering process, but it sucks pretty
 
 if you have to do painting (and you probably should, since your furniture is already elsewhere) get your friends in on a working bee - we managed to paint the whole place in about twelve working hours over two days. it's also a great way to snag some photos of your friends with paint in your hair
 
-additionally, if you want to replace the floor (and your probably sohuld, since your furniture is already elsewhere) places like carpet court will supply and install for surprisingly little money. we had timber laminate and carpet put in for just under 4000aud, and with extremely little trouble
+additionally, if you want to replace the floor (and your probably should, since your furniture is already elsewhere) places like carpet court will supply and install for surprisingly little money. we had timber laminate and carpet put in for just under 4000aud, and with extremely little trouble
 
 ### i mean it, just spray paint the ceiling
 
