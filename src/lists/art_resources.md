@@ -1,6 +1,6 @@
 ---
 title: art resources
-date: 2023-12-29
+date: 2024-01-29
 ---
 
 (i stole this structure from friend of the site yamasztuka ty <3)
@@ -18,7 +18,7 @@ date: 2023-12-29
 ## 📷 reference
 \- **[grafit studio](https://grafitschool.gumroad.com/)** these refs aren't free but theyre pretty cheap, and very high quality  
 \- **[the pose archive](https://www.deviantart.com/theposearchives)** this couple do the same poses with both a masc and fem body which is super convenient for learning, and their backlog is gigantic  
-\- **[reference angle](https://referenceangle.com)** takes a user supplied head angle and provides matching references for matching face anatomy and lighting behaviour
+\- **[reference angle](http://referenceangle.com/)** takes a user supplied head angle and provides matching references for matching face anatomy and lighting behaviour
 
 ### clothing
 \- **[nationalclothing.org](https://nationalclothing.org/)** this and the below link are designed for finding good references of national cultural clothing  
