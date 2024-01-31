@@ -3,6 +3,8 @@ title: "my art 2023"
 date: 2023-11-21
 ---
 
+[<== next year](/art/my-art-2024)
+
 <div class="smallweb-subway-handler">
     <smallweb-subway></smallweb-subway>
 </div>
