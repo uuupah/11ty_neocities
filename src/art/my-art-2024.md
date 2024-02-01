@@ -10,7 +10,8 @@ date: 2024-01-31
 </div>
 
 {% set images = [
-    "/_assets/img/my_art_2024/skate-wizard.png"
+    "/_assets/img/my_art_2024/skate-wizard.png",
+    "/_assets/img/my_art_2024/wcburger-clown.png"
 ] %}
 
 <div class="gallery">

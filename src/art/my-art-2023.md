@@ -5,10 +5,6 @@ date: 2023-11-21
 
 [<== next year](/art/my-art-2024)
 
-<div class="smallweb-subway-handler">
-    <smallweb-subway></smallweb-subway>
-</div>
-
 <!-- <span>
     <button class="smallweb-subway" onclick="goToPrev()">&lt;==</button> 
     smallweb subway
