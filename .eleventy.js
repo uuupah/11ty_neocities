@@ -1,10 +1,13 @@
 const htmlmin = require("html-minifier");
 const rimraf = require("rimraf");
 const cleancss = require("clean-css");
+const pluginRss = require("@11ty/eleventy-plugin-rss");
 
 module.exports = function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
   rimraf.windows.sync("public/")
+
+  eleventyConfig.addPlugin(pluginRss);
 
   eleventyConfig.addPassthroughCopy("./src/_assets/css");
   eleventyConfig.addPassthroughCopy("./src/_assets/img");
