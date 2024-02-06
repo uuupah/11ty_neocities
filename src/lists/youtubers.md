@@ -1,9 +1,21 @@
 ---
-title: "my favourite youtube creators"
-date: 2023-11-01
+title: "my favourite youtubers"
+date: 2024-02-06
 ---
 
 <div class="list-formatting">
+
+{% listentry
+    "angela collier",
+    [{
+        "title": "youtube.com/@acollierastro",
+        "link": "https://www.youtube.com/@acollierastro"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/PbmJkMhmrVI",
+    "this is probably a little reductive, but i feel like angela is sort of the astrophysics communicator equivalent of jenny nicholson (or her youtube videos are anyway). she was the first person to that allowed me to actually understand dark matter, antimatter and string theory, and her videos on each are absolutely excellent"
+-%}
 
 {% listentry
     "rp archive",
