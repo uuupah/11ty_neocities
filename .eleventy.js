@@ -158,6 +158,8 @@ module.exports = function (eleventyConfig) {
     for (iframe of iframes) {
       console.log(iframe.getAttribute('src'));
     }
+
+    return content;
   })
   
   eleventyConfig.on("eleventy.before", ({ runMode }) => {
