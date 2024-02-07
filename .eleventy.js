@@ -1,7 +1,13 @@
+// used for minifying code for space saving
 const htmlmin = require("html-minifier");
-const rimraf = require("rimraf");
 const cleancss = require("clean-css");
+// used for cleaning /public directory - not needed for github ci
+const rimraf = require("rimraf");
+// used for rss
 const pluginRss = require("@11ty/eleventy-plugin-rss");
+// used for rss - reading over html and replacing iframes
+const jsdom = require("jsdom");
+const { JSDOM } = jsdom;
 
 module.exports = function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
@@ -143,6 +149,16 @@ module.exports = function (eleventyConfig) {
       return data.eleventyExcludeFromCollections;
     }
   });
+
+  //TODO - use this to replace iframes in rss
+  eleventyConfig.addFilter("unIframe", function (content) {
+    const dom = new JSDOM(content);
+    var iframes = (dom.window.document.getElementsByTagName("iframe"));
+
+    for (iframe of iframes) {
+      console.log(iframe.getAttribute('src'));
+    }
+  })
   
   eleventyConfig.on("eleventy.before", ({ runMode }) => {
     // Set the environment variable
