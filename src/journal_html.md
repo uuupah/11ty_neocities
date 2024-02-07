@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2042.02.07**  
+add rss feed at `/feed.xml`. needs a bit of tweaking because i use a lot of embeds for music players so the code the generates the xml needs to detect that and replace it with an image or link
+
 **2024.02.01**  
 big couple of months! replaced the ceiling and floor in my apartment and painted the walls on a microbudget. still feeling the physical ramifications of removing a popcorn ceiling by hand in my finger joints. dropped my apple pencil and broke the tip, just replaced it and am drawing digital again. wading through the uninspiring furniture options available in australia to refit my living space. watching lots of movies and am getting up to date on frieren and dungeon meshi. read frank herbert's dune and rewatched the 2022 film - feeling so-so on the story but absolutely in love with the world. looking for a larger creative project to work on, as well as building a 5 bay nas for legally acquiring copyrighted media
 
