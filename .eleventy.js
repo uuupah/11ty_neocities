@@ -153,10 +153,16 @@ module.exports = function (eleventyConfig) {
   //TODO - use this to replace iframes in rss
   eleventyConfig.addFilter("unIframe", function (content) {
     const dom = new JSDOM(content);
-    var iframes = (dom.window.document.getElementsByTagName("iframe"));
 
-    for (iframe of iframes) {
+    for (iframe of dom.window.document.getElementsByTagName("iframe")) {
       console.log(iframe.getAttribute('src'));
+
+      var replacementLink = dom.createElement('a');
+      replacementLink.setAttribute('src', iframe.getAttribute('src'))
+      replacementLink.setHTML('link for this iframe')
+
+      // https://stackoverflow.com/questions/843680/how-to-replace-dom-element-in-place-using-javascript#answer-40444300
+      iframe?.replaceWith?.(replacementLink)
     }
 
     return content;
