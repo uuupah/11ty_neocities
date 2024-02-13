@@ -13,7 +13,7 @@ title: sitemap
 {% for tag in collections.tagsList %}
   [{{tag}}]({{"/" + tag + "/"}})
   {% for post in collections[tag] | reverse %}
- \- [{{ post.data.title or post.data.page.fileSlug }}](/{{ tag }}/{{ post.data.page.fileSlug }})
+ \- [{{ post.data.title or post.data.page.fileSlug }}](/{{ tag }}/{{ post.data.page.fileSlug }}/)
   {% endfor %}
 {% endfor %}
 </div>

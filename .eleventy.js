@@ -157,12 +157,12 @@ module.exports = function (eleventyConfig) {
     for (iframe of dom.window.document.getElementsByTagName("iframe")) {
       console.log(iframe.getAttribute('src'));
 
-      var replacementLink = dom.createElement('a');
-      replacementLink.setAttribute('src', iframe.getAttribute('src'))
-      replacementLink.setHTML('link for this iframe')
+      // var replacementLink = dom.createElement('a');
+      // replacementLink.setAttribute('src', iframe.getAttribute('src'))
+      // replacementLink.setHTML('link for this iframe')
 
       // https://stackoverflow.com/questions/843680/how-to-replace-dom-element-in-place-using-javascript#answer-40444300
-      iframe?.replaceWith?.(replacementLink)
+      // iframe?.replaceWith?.(replacementLink)
     }
 
     return content;
