@@ -3,7 +3,10 @@ layout: layout/base.njk
 title: journal.html
 ---
 
-**2042.02.07**  
+**2024.02.13**  
+added another eight lines of javascript so that you can move through blogposts with ← and → or a and d. feeling infinite shame.
+
+**2024.02.07**  
 add rss feed at `/feed.xml`. needs a bit of tweaking because i use a lot of embeds for music players so the code the generates the xml needs to detect that and replace it with an image or link
 
 **2024.02.01**  
