@@ -14,3 +14,17 @@ layout: layout/core.njk
 {% if nextPost %}<a href="{{ nextPost.url }}">&lt;== next</a>{% else %}x=={% endif %}
 {% if previousPost %}<a href="{{ previousPost.url }}">prev ==&gt;</a>{% else %}==x{% endif %}
 </div>
+
+<script>
+  // the layout of this dom was already ugly and this makes it worse and i apologise
+  addEventListener("keydown", (event) => {
+    // d or right arrow
+    if ((event.keyCode === 65 || event.keyCode === 37) && '{{ nextPost.url }}') {
+      window.location.href = '{{ nextPost.url }}'
+    } 
+    // a or left arrow
+    if ((event.keyCode === 68 || event.keyCode === 39) && '{{ previousPost.url }}') {
+      window.location.href = '{{ previousPost.url }}'
+    }
+  });
+</script>
