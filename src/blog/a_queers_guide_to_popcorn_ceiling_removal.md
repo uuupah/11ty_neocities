@@ -15,7 +15,7 @@ a lot of stuff that i have read has actually assured me that this practice was p
 
 while researching the job, i ended up watching [this video by diy duke](https://www.youtube.com/watch?v=LLb4mTC1_dI) that made it look really straightforward and quick, but i didn't realise that i'd been swindled by the fact that newer popcorn ceilings are a mixture of cement render and styrofoam, while older ceilings are cement render and vermiculite. the latter comes off _really_ easy when wet, but the former is basically soft concrete. knowing which one you have is key to how i would recommend you complete this task
 
-![](/_assets/img/renovation/popcorn.jpg)
+{% blogImage '/_assets/img/renovation/popcorn.jpg' %}
 [this is what this cursed stuff actually looks like, if you're unfamiliar](https://en.wikipedia.org/wiki/Popcorn_ceiling)
 
 
@@ -33,7 +33,7 @@ if you decide to ignore my warnings and follow down this dark path, i have a cou
 
 if you have a crack with a tool like a plaster scraper, you'll find that you just knock off the top half of the popcorn, which is the actual popcorny bit - this seems easier, and looks like it gives you an easier surface to work with, but don't be fooled - this will make your life waaaay harder when you need to run a plaster coat. render / plaster will dry super quick if the surface you apply it to is porous, and popcorn ceiling is super porous. it sucks way more to begin with, but it's easier to work with in the future
 
-![](/_assets/img/renovation/skim.jpg)
+{% blogImage '/_assets/img/renovation/skim.jpg' %}
 
 2. get it _seriously_ wet before scraping
 
@@ -43,11 +43,11 @@ i mean it, by the end i was spraying it with a garden hose to soften it up. the 
 
 we scraped the ceiling with a floor scraper that we turned into a makeshift dark souls boss weapon with an angle grinder - this shit weighs probable five or six kilos and swinging it over your head for ten hours absolutely destroys your body. additionally, if anyone else has had the bright idea to try and fix the ceiling before you then you now have either paint, render or cement over the top of it - this will transform the already hard popcorn into a composite of near-mythical strength that will need to be individually chiseled away
 
-![](/_assets/img/renovation/tool.jpg)
+{% blogImage '/_assets/img/renovation/tool.jpg' %}
 
 the best part is that you now probably have a lumpy concrete ceiling with big stupid gaps in it, which now require plastering to make a surface that you can bear to look at
 
-![](/_assets/img/renovation/lumpy.jpg)
+{% blogImage '/_assets/img/renovation/lumpy.jpg' %}
 
 ### wait don't people get paid like actual money to plaster things
 

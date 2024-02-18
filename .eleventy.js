@@ -84,6 +84,18 @@ module.exports = function (eleventyConfig) {
       ${description}
     </p>`
   });
+
+  eleventyConfig.addShortcode("blogImage", (link) => {
+    if (link && typeof link === 'string') {
+      // this is not guaranteed to give uniqueness but i should be giving all the images in a blogpost a different name
+      // anyway
+      var slug = slugify(link.split('/').at(-1));
+      return `<a href="#img_${slug}"><img style="max-width: 360px;" src="${link}"/></a>
+      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`
+    } else {
+      return '';
+    }
+  })
   
   // make a list of all tags besides "post" and add them to the collection
   eleventyConfig.addCollection("tagsList", function (collectionApi) {
