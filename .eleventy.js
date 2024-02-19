@@ -11,7 +11,7 @@ const { JSDOM } = jsdom;
 
 module.exports = function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
-  rimraf.windows.sync("public/")
+  rimraf.windows.sync("public/");
 
   eleventyConfig.addPlugin(pluginRss);
 
@@ -20,111 +20,126 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/_assets/fonts");
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
 
-  eleventyConfig.addShortcode("albumtile", function (title, embedLink, coverImage) {
-    var slug = slugify(title);
-    
-    return `<div>
+  eleventyConfig.addShortcode(
+    "albumtile",
+    function (title, embedLink, coverImage) {
+      var slug = slugify(title);
+
+      return `<div>
     <a class="hide" href="${embedLink}" target="${slug}">
     <img class="album-tile-cover-image" src="${coverImage}">
       </a>
       <iframe class="album-tile-iframe" name="${slug}" src="about:blank" seamless></iframe>
       <b>${title}</b>
-    </div>`
-  });
+    </div>`;
+    }
+  );
 
-  eleventyConfig.addShortcode("listentry", function (title, link, image, video, iframelink, description) {
-    if (!title || title == "") {
-      return '';
-    };
-
-    var imageString = "";
-    var linkString = "";
-    var videoString = "";
-    var iframeString = "";
-    
-    var slug = slugify(title);
-
-    if (Array.isArray(link)) {
-      if (typeof link[0] === 'string') {
-        linkString = link.map((l) => `<a href="${l}">link</a><br>`).join(" // ") + '<br>';
-      } else {
-        linkString = link.map((l) => `<a href="${l.link}">${l.title}</a>`).join(" // ") + '<br>';
+  eleventyConfig.addShortcode(
+    "listentry",
+    function (title, link, image, video, iframelink, description) {
+      if (!title || title == "") {
+        return "";
       }
-    } else if (typeof link === 'string') {
-      linkString = `<a href="${link}">link</a><br>`;
-    }
 
-    if (Array.isArray(image)) {
-      imageString = image.map((i, index) => `<a href="#img_${slug}_${index}"><img src="${i}"/></a>
-      <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a><br>`).join(" ");
-    } else if (typeof image === 'string') {
-      imageString = `<a href="#img_${slug}"><img src="${image}"/></a>
-      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a><br>`
-    }
-    
-    if (video) {
-      videoString = `<video autoplay loop muted controls poster="${video.poster}">  
+      var imageString = "";
+      var linkString = "";
+      var videoString = "";
+      var iframeString = "";
+
+      var slug = slugify(title);
+
+      if (Array.isArray(link)) {
+        if (typeof link[0] === "string") {
+          linkString =
+            link.map((l) => `<a href="${l}">link</a><br>`).join(" // ") +
+            "<br>";
+        } else {
+          linkString =
+            link.map((l) => `<a href="${l.link}">${l.title}</a>`).join(" // ") +
+            "<br>";
+        }
+      } else if (typeof link === "string") {
+        linkString = `<a href="${link}">link</a><br>`;
+      }
+
+      if (Array.isArray(image)) {
+        imageString = image
+          .map(
+            (i, index) => `<a href="#img_${slug}_${index}"><img src="${i}"/></a>
+      <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a><br>`
+          )
+          .join(" ");
+      } else if (typeof image === "string") {
+        imageString = `<a href="#img_${slug}"><img src="${image}"/></a>
+      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${image}"/></a><br>`;
+      }
+
+      if (video) {
+        videoString = `<video autoplay loop muted controls poster="${video.poster}">  
           <source src="${video.link}" type="video/mp4"></source>  
           <img src="${video.poster}"></img>  
-          </video><br>`
-    }
+          </video><br>`;
+      }
 
-    if (iframelink) {
-      console.log(iframelink)
-      iframeString = `
+      if (iframelink) {
+        console.log(iframelink);
+        iframeString = `
       <iframe src="${iframelink}" style="width: 560px; aspect-ratio: 16/9; max-width: 100%;" seamless allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>`;
-    }
-    
-    return `<p>
+      }
+
+      return `<p>
       <h3 id="${slug}">${title}</h3>
       ${linkString}
       ${imageString}
       ${videoString}
       ${iframeString}
       ${description}
-    </p>`
-  });
+    </p>`;
+    }
+  );
 
   eleventyConfig.addShortcode("blogImage", (link) => {
-    if (link && typeof link === 'string') {
+    if (link && typeof link === "string") {
       // this is not guaranteed to give uniqueness but i should be giving all the images in a blogpost a different name
       // anyway
-      var slug = slugify(link.split('/').at(-1));
+      var slug = slugify(link.split("/").at(-1));
       return `<a href="#img_${slug}"><img style="max-width: 360px;" src="${link}"/></a>
-      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`
+      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
     } else {
-      return '';
+      return "";
     }
-  })
-  
+  });
+
   // make a list of all tags besides "post" and add them to the collection
   eleventyConfig.addCollection("tagsList", function (collectionApi) {
     const tagsList = new Set();
-    collectionApi.getAll().map(item => {
-      if (item.data.tags) { // handle pages that don't have tags
-        item.data.tags.map(tag => {
+    collectionApi.getAll().map((item) => {
+      if (item.data.tags) {
+        // handle pages that don't have tags
+        item.data.tags.map((tag) => {
           if (tag != "post") {
-            tagsList.add(tag)
+            tagsList.add(tag);
           }
-        })
+        });
       }
     });
     const sortedTagsList = new Set(Array.from(tagsList).sort());
     return sortedTagsList;
   });
-  
+
   // limit filter
   eleventyConfig.addFilter("limit", function (array, limit) {
     return array.slice(0, limit);
   });
-  
+
   // minify all html files
   eleventyConfig.addTransform("htmlmin", function (content) {
     if (this.page.outputPath && this.page.outputPath.endsWith(".html")) {
       let minified = htmlmin.minify(content, {
         useShortDoctype: true,
         removeComments: true,
-        collapseWhitespace: true
+        collapseWhitespace: true,
       });
       return minified;
     }
@@ -137,7 +152,7 @@ module.exports = function (eleventyConfig) {
   });
 
   // // the below three configs allow for excluding files from builds using draft: true
-  // // https://www.11ty.dev/docs/quicktips/draft-posts/ 
+  // // https://www.11ty.dev/docs/quicktips/draft-posts/
   // When `permalink` is false, the file is not written to disk
   eleventyConfig.addGlobalData("eleventyComputed.permalink", function () {
     return (data) => {
@@ -147,39 +162,56 @@ module.exports = function (eleventyConfig) {
       }
 
       return data.permalink;
-    }
+    };
   });
-  
-  // When `eleventyExcludeFromCollections` is true, the file is not included in any collections
-  eleventyConfig.addGlobalData("eleventyComputed.eleventyExcludeFromCollections", function () {
-    return (data) => {
-      // Always exclude from non-watch/serve builds
-      if (data.draft && !process.env.BUILD_DRAFTS) {
-        return true;
-      }
 
-      return data.eleventyExcludeFromCollections;
+  // When `eleventyExcludeFromCollections` is true, the file is not included in any collections
+  eleventyConfig.addGlobalData(
+    "eleventyComputed.eleventyExcludeFromCollections",
+    function () {
+      return (data) => {
+        // Always exclude from non-watch/serve builds
+        if (data.draft && !process.env.BUILD_DRAFTS) {
+          return true;
+        }
+
+        return data.eleventyExcludeFromCollections;
+      };
     }
-  });
+  );
 
   //TODO - use this to replace iframes in rss
   eleventyConfig.addFilter("unIframe", function (content) {
     const dom = new JSDOM(content);
+    const doc = dom.window.document;
 
-    for (iframe of dom.window.document.getElementsByTagName("iframe")) {
-      console.log(iframe.getAttribute('src'));
+    for (iframe of doc.getElementsByTagName("iframe")) {
+      console.log(iframe.getAttribute("src"));
 
-      // var replacementLink = dom.createElement('a');
-      // replacementLink.setAttribute('src', iframe.getAttribute('src'))
-      // replacementLink.setHTML('link for this iframe')
+      var newAnchor = doc.createElement("a");
+      newAnchor.setAttribute("src", 
+        iframe.getAttribute("rss-link") ? 
+        iframe.getAttribute("rss-link"):
+        iframe.getAttribute("src"));
+      newAnchor.appendChild(
+        doc.createTextNode(
+          iframe.getAttribute("rss-linkname")
+            ? iframe.getAttribute("rss-linkname") + "(there was an iframe here but rss hid it)"
+            : "(there was an iframe here but rss hid it)"
+        )
+      );
 
-      // https://stackoverflow.com/questions/843680/how-to-replace-dom-element-in-place-using-javascript#answer-40444300
-      // iframe?.replaceWith?.(replacementLink)
+      iframe.parentNode.replaceChild(newAnchor, iframe);
     }
 
-    return content;
-  })
-  
+    var out = dom.serialize();
+
+    console.log(out);
+    return out;
+
+    // return content;
+  });
+
   eleventyConfig.on("eleventy.before", ({ runMode }) => {
     // Set the environment variable
     if (runMode === "serve" || runMode === "watch") {
@@ -197,17 +229,19 @@ module.exports = function (eleventyConfig) {
     },
   };
 };
-  
+
 var slugify = function (preSlug) {
-  return preSlug
-  .toLowerCase()
-  .trim()
-  // remove accents
-  .normalize('NFD')
-  .replace(/[\u0300-\u036f]/g, '')
-  // replace invalid characters with spaces
-  .replace(/[^a-z0-9\s-]/g, ' ')
-  .trim()
-  // replace multiple spaces or hyphens with a hyphen
-  .replace(/[\s-]+/g, '-');
-}
+  return (
+    preSlug
+      .toLowerCase()
+      .trim()
+      // remove accents
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "")
+      // replace invalid characters with spaces
+      .replace(/[^a-z0-9\s-]/g, " ")
+      .trim()
+      // replace multiple spaces or hyphens with a hyphen
+      .replace(/[\s-]+/g, "-")
+  );
+};
