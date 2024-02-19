@@ -200,9 +200,10 @@ module.exports = function (eleventyConfig) {
             : "(there was an iframe here but rss hid it)"
         )
       );
-      newAnchor.appendChild(doc.createElement("br"));
-
+      
       iframe.parentNode.replaceChild(newAnchor, iframe);
+      
+      iframe.appendChild(doc.createElement("br"));
     }
 
     var out = dom.serialize();
