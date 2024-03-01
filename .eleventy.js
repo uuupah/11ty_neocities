@@ -181,10 +181,11 @@ module.exports = function (eleventyConfig) {
   );
 
   //TODO - use this to replace iframes in rss
-  eleventyConfig.addFilter("unIframe", function (content) {
+  eleventyConfig.addFilter("rssCleanup", function (content) {
     const dom = new JSDOM(content);
     const doc = dom.window.document;
 
+    // reconfigure iframes
     for (iframe of doc.getElementsByTagName("iframe")) {
       console.log(iframe.getAttribute("src"));
 
@@ -205,6 +206,9 @@ module.exports = function (eleventyConfig) {
       
       iframe.appendChild(doc.createElement("br"));
     }
+
+    // remove lightbox images from rss because the rss cant hide them properly
+    doc.querySelectorAll('.lightbox').forEach (e => e.remove());
 
     var out = dom.serialize();
 
