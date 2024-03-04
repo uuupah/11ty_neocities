@@ -19,6 +19,10 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/_assets/img");
   eleventyConfig.addPassthroughCopy("./src/_assets/fonts");
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
+  eleventyConfig.addPassthroughCopy("./src/robots.txt");
+
+//   // Put robots.txt in root
+// eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
 
   eleventyConfig.addShortcode(
     "albumtile",
