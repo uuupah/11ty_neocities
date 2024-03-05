@@ -4,4 +4,8 @@ User-agent: Google-Extended
 User-agent: CCBot
 User-agent: PerplexityBot
 User-agent: anthropic-ai
+User-agent: cohere-ai
+User-agent: Bytespider
+User-agent: FacebookBot
+User-agent: omgili
 Disallow: /
