@@ -1,6 +1,6 @@
 ---
 title: art ideas for me and me alone
-date: 2023-12-21
+date: 2024-03-06
 ---
 
 a non exhaustive and exhausting list of all the art things i want to do
@@ -18,6 +18,7 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[nurzhan](https://www.artstation.com/artwork/1AweL)** - shading
 
 ## 🧑‍🎨 artists to look at because you like them and your art sort of looks like theirs  
+**[govy](https://www.instagram.com/govy9807/)**
 **[subspace skater](https://subspaceskater.tumblr.com/tagged/myart)**  
 **[cartvage](https://twitter.com/cartvage)**  
 **[murninatair](https://murninatair.tumblr.com/)**  
