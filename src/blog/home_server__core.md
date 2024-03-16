@@ -15,7 +15,7 @@ these m710q's tend to ship with windows 10 pro, but i've been setting my little 
 \- cloud storage  
 #### dessert
 \- discord bot  
-\- minecraft server  
+\- [game server hosting](/blog/home_server__game_servers)  
 
 ## first things first
 whatever box you end up going with, you'll want to download ubuntu server (lts version) from [here](https://ubuntu.com/download/server), then follow their installation instructions [here](https://ubuntu.com/tutorials/install-ubuntu-server#1-overview). for those new to code or open source software, lts stands for long term support, which is more or less what it says on the tin. new versions of ubuntu come out every couple of months, but these regular versions only come with nine months of support by default, meaning you'll have to keep updating to take advantage of security updates and support. lts versions are normally supported for three years, and because theyre the version the average consumer uses, theyre also the version most regularly targeted by the software we're installing, like some kind of software ouroboros
@@ -58,7 +58,8 @@ sudo systemctl enable --now ssh
 
 this will start up ssh and make sure ubuntu starts it on system boot in the future
 
-## ufw
+<h2 id="ufw">ufw</h2>
+
 uncomplicated firewall ships with ubuntu, and allows us to configure a firewall in an uncomplicated manner! sweet! i'm using [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04)([local copy](how_to_set_up_a_firewall_with_ufw_on_ubuntu_20_04)) for ufw setup. first up, i'll introduce you to a friend that's going to be with us for the rest of this adventure:
 
 ```sh
