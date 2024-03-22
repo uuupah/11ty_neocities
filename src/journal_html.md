@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2024.03.23**  
+i just finished a blogpost about installing multiple minecraft servers on a ubuntu box and a discord bot to swap between them. it is clunky, long, and very difficult to read, but it is published, which is the important part
+
 **2024.02.13**  
 added another eight lines of javascript so that you can move through blogposts with ← and → or a and d. feeling infinite shame.
 
