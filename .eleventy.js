@@ -21,9 +21,6 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("./src/_assets/js");
   eleventyConfig.addPassthroughCopy("./src/robots.txt");
 
-//   // Put robots.txt in root
-// eleventyConfig.addPassthroughCopy({ 'src/robots.txt': '/robots.txt' });
-
   eleventyConfig.addShortcode(
     "albumtile",
     function (title, embedLink, coverImage) {
@@ -191,7 +188,7 @@ module.exports = function (eleventyConfig) {
 
     // reconfigure iframes
     for (iframe of doc.getElementsByTagName("iframe")) {
-      console.log(iframe.getAttribute("src"));
+      // console.log(iframe.getAttribute("src"));
 
       var newAnchor = doc.createElement("a");
       newAnchor.setAttribute("src", 
@@ -201,7 +198,7 @@ module.exports = function (eleventyConfig) {
       newAnchor.appendChild(
         doc.createTextNode(
           iframe.getAttribute("rss-linkname")
-            ? iframe.getAttribute("rss-linkname") + "(there was an iframe here but rss hid it)"
+            ? iframe.getAttribute("rss-linkname") + " (there was an iframe here but rss hid it)"
             : "(there was an iframe here but rss hid it)"
         )
       );
@@ -216,7 +213,7 @@ module.exports = function (eleventyConfig) {
 
     var out = dom.serialize();
 
-    console.log(out);
+    // console.log(out);
     return out;
 
     // return content;
