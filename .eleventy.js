@@ -181,15 +181,14 @@ module.exports = function (eleventyConfig) {
     }
   );
 
-  //TODO - use this to replace iframes in rss
   eleventyConfig.addFilter("rssCleanup", function (content) {
     const dom = new JSDOM(content);
     const doc = dom.window.document;
 
+    const newAnchorPairList = []
+
     // reconfigure iframes
     for (iframe of doc.getElementsByTagName("iframe")) {
-      // console.log(iframe.getAttribute("src"));
-
       var newAnchor = doc.createElement("a");
       newAnchor.setAttribute("src", 
         iframe.getAttribute("rss-link") ? 
@@ -200,23 +199,24 @@ module.exports = function (eleventyConfig) {
           iframe.getAttribute("rss-linkname")
             ? iframe.getAttribute("rss-linkname") + " (there was an iframe here but rss hid it)"
             : "(there was an iframe here but rss hid it)"
-        )
-      );
+            )
+            );
+      newAnchor.appendChild(doc.createElement("br"));
       
-      iframe.parentNode.replaceChild(newAnchor, iframe);
-      
-      iframe.appendChild(doc.createElement("br"));
+      // this feels like an ugly way of doing it but if you replace the child inside the list you end up pushing indexes
+      // around and iframes get skipped
+      newAnchorPairList.push({a:newAnchor, i:iframe})
+    }
+
+    for (newAnchorPair of newAnchorPairList) {
+      newAnchorPair.i.parentNode.replaceChild(newAnchorPair.a, newAnchorPair.i);
     }
 
     // remove lightbox images from rss because the rss cant hide them properly
     doc.querySelectorAll('.lightbox').forEach (e => e.remove());
 
     var out = dom.serialize();
-
-    // console.log(out);
     return out;
-
-    // return content;
   });
 
   eleventyConfig.on("eleventy.before", ({ runMode }) => {

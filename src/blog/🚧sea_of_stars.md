@@ -31,9 +31,11 @@ draft: true
   - lots of weird arcane places, the purpose of which is not immediately obvious
 - combat
   - timing doesnt always feel intuitive (for hits and blocks)
-  - chosing the order of your team is really clever
+  - choosing the order of your team is really clever
   - changes from familiar systems dont feel gimmicky
+  - having all the fights in the "overworld" instead of a different screen
   - level up bonus is similar to mario
+    - item pickup afterwards gives a cute satisfying and tactile feel
   - innovative way of handling death / knockouts
 - menus
   - (i think) intentional nod to final fantasy
@@ -42,5 +44,5 @@ draft: true
   - pushing the teal crystals also has no delay and goes quickly
   - animations after completing a puzzle dont lock up the game (if its on the same screen) and let you move to the area that's being revealed
 - traversal
-- the mechanicc of teaks appearing and then only showing up when it makes sense is interesting
-  - it feels a bit inserty the same way that it did in indivisible, but i think making her a non-combat character 
+- the mechanic of teaks appearing and then only showing up when it makes sense is interesting
+  - it feels a bit inserty the same way that it did in indivisible, but i think making her a non-combat character makes way more sense worldbuilding/character-wise
