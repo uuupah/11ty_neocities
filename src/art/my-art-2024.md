@@ -1,6 +1,6 @@
 ---
 title: "my art 2024"
-date: 2024-02-28
+date: 2024-04-01
 ---
 
 [last year ==>](/art/my-art-2023)
@@ -10,6 +10,10 @@ date: 2024-02-28
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2024/landscape1.png",
+    "/_assets/img/my_art_2024/value3.png",
+    "/_assets/img/my_art_2024/value2.png",
+    "/_assets/img/my_art_2024/value1.png",
     "/_assets/img/my_art_2024/protaxite.png",
     "/_assets/img/my_art_2024/pumpkin-melon.png",
     "/_assets/img/my_art_2024/puffball.png",
