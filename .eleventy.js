@@ -191,8 +191,7 @@ module.exports = function (eleventyConfig) {
     for (iframe of doc.getElementsByTagName("iframe")) {
       var newAnchor = doc.createElement("a");
       newAnchor.setAttribute("src", 
-        iframe.getAttribute("rss-link") ? 
-        iframe.getAttribute("rss-link"):
+        iframe.getAttribute("rss-link") ??
         iframe.getAttribute("src"));
       newAnchor.appendChild(
         doc.createTextNode(
