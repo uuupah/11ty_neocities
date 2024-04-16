@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2024.04.16**  
+jesus christ my blog has got dorky recently. ive got some philosophical fun stuff i want to talk about floating around my head, but but there will probably be another one or two nerdposts before that happens
+
 **2024.03.23**  
 i just finished a blogpost about installing multiple minecraft servers on a ubuntu box and a discord bot to swap between them. it is clunky, long, and very difficult to read, but it is published, which is the important part
 
