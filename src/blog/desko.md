@@ -43,7 +43,7 @@ next up, some precision marking was done with a sharp pair of tweezers to make g
 and away we go! this didn't go quite as smoothly as i wanted, but i did manage to drill the three holes per switch that i needed. i found that my horrifically oversized masonry drill and very cheap chinese drill bits tended to slide around a little bit, despite me tapping a homing point on the pcb, but silicon is actually pretty soft and holes can be adjusted with a craft knife of a pair of nippers. note that i was wearing a respirator this whole time! pcb dust is pretty nasty shit and you do not want to breathe it in.
 
 {% blogImage '/_assets/img/desko/new-switches.jpg' %} 
-{% blogImage '/_assets/img/desko/jump.jpg' %} 
+{% blogImage '/_assets/img/desko/jumps.jpg' %} 
 my original plan was to use a plate to keep everything stable, but because i'd gone down the alternate route, i put down a bunch of hot glue to the sides of the switches. normally you can hold switches to a pcb with the two plastic pins on either side of the central shaft, but the first six holes had been hard enough to line up, and i didnt want to try my luck with four more. this solution is temporary, as i'll discuss in a second, and it feels fine for the time being.
 
 on the back of the keyboard you can see the jumps i made to connect the new switches to the circuit board. the left switch is connected directly to the old backspace, and the right switch to the scroll lock on the far right of the keyboard. i did this because scroll lock is basically unused in 2024, so i could remap it to some other switch and not really impede the original key. what's that? remapping? how do you do that? 

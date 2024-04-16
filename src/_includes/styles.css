@@ -114,6 +114,10 @@ ul > li::marker {
   content: "- ";
 }
 
+li + li {
+  margin-top: 1rem;
+}
+
 body {
   color: var(--text);
   background: var(--bg);
