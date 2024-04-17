@@ -113,7 +113,7 @@ module.exports = function (eleventyConfig) {
       // this is not guaranteed to give uniqueness but i should be giving all the images in a blogpost a different name
       // anyway
       var slug = slugify(link.split("/").at(-1));
-      return `<a href="#img_${slug}"><img style="max-width: ${maxWidth}px;" src="${link}"/></a>
+      return `<a href="#img_${slug}"><img style="width: ${maxWidth}px;" src="${link}"/></a>
       <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
     } else {
       return "";
