@@ -61,7 +61,7 @@ we're going to create a new user to run our service, give it permissions to use 
 
 
 ```
-sudo useradd -c "minecraft service 1.20.4 service" -d /opt/minecraft_1.20.4 -s /usr/sbin/noLogin minecraft_1.20.4
+sudo useradd -c "minecraft service 1.20.4 service" -d /opt/minecraft_1.20.4 -s /usr/bin/nologin minecraft_1.20.4
 sudo chown -R minecraft_1.20.4:minecraft_1.20.4 /opt/minecraft_1.20.4
 sudo nano /etc/systemd/system/minecraft_1.20.4.service
 ```
