@@ -1,9 +1,21 @@
 ---
 title: "my favourite youtubers"
-date: 2024-02-06
+date: 2024-05-06
 ---
 
 <div class="list-formatting">
+
+{% listentry
+    "elliot is a cool guy",
+    [{
+        "title": "youtube.com/@welliot",
+        "link": "https://www.youtube.com/@welliot"
+    }],
+    null,
+    null,
+    "https://www.youtube.com/watch?v=OfbJe1hkWrE",
+    "elliot is a graphic designer with a penchant for bright colours, cool post processing and doing things his own particular way. i see him as a bit style touchstone, and he's australian so i'm contractually obligated to share him"
+-%}
 
 {% listentry
     "angela collier",
