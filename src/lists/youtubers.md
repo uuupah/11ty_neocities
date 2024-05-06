@@ -13,7 +13,7 @@ date: 2024-05-06
     }],
     null,
     null,
-    "https://www.youtube.com/watch?v=OfbJe1hkWrE",
+    "https://www.youtube-nocookie.com/embed/OfbJe1hkWrE",
     "elliot is a graphic designer with a penchant for bright colours, cool post processing and doing things his own particular way. i see him as a bit style touchstone, and he's australian so i'm contractually obligated to share him"
 -%}
 
