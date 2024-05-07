@@ -1,6 +1,6 @@
 ---
 title: three albums - april 2024
-date: 2024-06-01
+date: 2024-05-01
 ---
 
 i've had a hell of a couple of months that have somewhat impacted my blogging and art schedules, but i have to get in the three albums for april 2024 for the sake of my own sanity. theres a couple more things in the pipeline, so keep an eye on the blog!
