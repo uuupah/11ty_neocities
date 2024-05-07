@@ -1,9 +1,21 @@
 ---
 title: "my favourite youtubers"
-date: 2024-05-06
+date: 2024-05-07
 ---
 
 <div class="list-formatting">
+
+{% listentry
+    "masaru",
+    [{
+        "title": "youtube.com/@masaru.9268",
+        "link": "https://www.youtube.com/@masaru.9268"
+    }],
+    null,
+    null,
+    "https://www.youtube-nocookie.com/embed/Om2gIVeeioY",
+    "masaru probably isn't for everyone because his whole deal is that he catches and fillets fish, but if you don't have an issue with seeing that kind of thing i think he's an extremely interesting person. masaru has an incredible devil-may-care personality which is hyperfocused into trying to catch and eat every aquatic animal under the sun. he's quite knowledgeable about fish and filleting them, but he also has a genuine explorative innocence that makes him a joy to watch"
+-%}
 
 {% listentry
     "elliot is a cool guy",
