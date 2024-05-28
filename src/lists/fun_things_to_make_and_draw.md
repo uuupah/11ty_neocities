@@ -31,6 +31,11 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[marc brunet digital painted backgrounds](https://www.youtube.com/watch?v=pmdc2zQ9jvM)**  
 **[majestics0ck cafe](majestics0ck.notion.site)**
 
+## 💃 prompts
+- baseball players
+- frogs
+- p90 and ak47
+
 ---
 
 🚧👷‍♂️ this page is still in construction! watch this space! 👷‍♀️🚧
