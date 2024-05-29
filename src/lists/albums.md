@@ -79,6 +79,12 @@ date: 2023-11-23
         "https://bandcamp.com/EmbeddedPlayer/track=80082692/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/",
         "/_assets/img/albums/backroomlabyrinth.jpg"
     -%}
+
+    {% albumtile
+        "a greater bliss - wordclock",
+        "https://bandcamp.com/EmbeddedPlayer/album=2467704422/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/",
+        "/_assets/img/albums/agreaterbliss.jpg"
+    -%}
 </div>
 
 # soundtracks
