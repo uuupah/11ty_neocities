@@ -32,6 +32,7 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[majestics0ck cafe](majestics0ck.notion.site)**
 
 ## 💃 prompts
+- vtuber
 - baseball players
 - frogs
 - p90 and ak47
