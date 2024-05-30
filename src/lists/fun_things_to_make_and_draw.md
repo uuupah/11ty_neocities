@@ -1,6 +1,6 @@
 ---
 title: art ideas for me and me alone
-date: 2024-03-06
+date: 2024-05-30
 ---
 
 a non exhaustive and exhausting list of all the art things i want to do
@@ -12,7 +12,7 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[marc brunet, learn to draw in one year](https://www.youtube.com/watch?v=0NYqmhESI-Y)**  
 
 ## 🧑‍🎓 artists to study
-**[ismarus](https://www.instagram.com/ismarus_art/)** - ismarus' constant weight, nice round lineart and great colour choices  
+**[ismarus](https://www.instagram.com/ismarus_art/)** - constant weight, nice round lineart and great colour choices  
 **[kunomd](https://twitter.com/KunoMD/status/1731062379470090495)** - this one in particular steps through multiple sketching and multiple colouring stages that could be super useful  
 **[shawn gerlin](https://twitter.com/shawngerlin)** - hands  
 **[nurzhan](https://www.artstation.com/artwork/1AweL)** - shading
@@ -24,6 +24,7 @@ a non exhaustive and exhausting list of all the art things i want to do
 **[murninatair](https://murninatair.tumblr.com/)**  
 **[hou-jae](https://www.instagram.com/hou_jae04/)**  
 **[erijt](https://erijt.tumblr.com/)**
+**[nomdoodles](https://www.instagram.com/nomdoodles)**
 
 ## 📔 courses / tutorials
 **[ctrl paint - let's paint](https://www.ctrlpaint.com/lets-paint/)**  
