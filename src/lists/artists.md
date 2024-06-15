@@ -102,6 +102,12 @@ i really love nobby's approach to minimally anthropomorphising their furry chara
     </a>
 </div>
 the very worst thing is potentially one of the most creative artists on this list. i'm always amazed at how they can pull a new twist on a character design to create something simultaneously otherworldly and familiar
+<h3>studio zimoun</h3>
+<a href="https://www.zimoun.net/">personal website</a>
+<br/>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/7235817?h=3e23495df6" width="640" height="360" frameborder="0"    allowfullscreen></iframe>
+</div>
+i dont think i've really resonated with a load of more abstract modern art, but theres something unequivocally lovely and enrapturing about zimoun's works. i just think theyre neat!
 <!-- add julette cousins -->
 <!-- add ryuko kui -->
 <hr>
