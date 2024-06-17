@@ -1,7 +1,6 @@
 ---
-draft: true
-title: "on being non binary"
-date: git Last Modified
+title: "on being non-binary"
+date: 2025-06-17
 ---
 
 my friend gave me a spare bottle of hormone blockers today! 
@@ -17,6 +16,3 @@ so some flavour of medical transition (for me) comes down to throwing my hormone
 in a way, i do feel a little blessed that i feel very comfortably non-binary instead of something else. the vagueness of the definition sometimes feels a bit silly, sort of like you're faking it or fooling yourself, but its fundamentally a bit of a 'what you make of it' kind of identity. it both is and isn't wishy washy - you just dont feel like presenting either masc or femme matches the way you feel inside. it's nebulous, but its also concrete in its nebulous-ness
 
 i'm still not sure if i'll try the blockers, - i gather having no primary sex hormones can fuck your shit up pretty bad, but you can also stop them without any major effects. in any case, it has given me an opportunity to be introspective about the other parts of being non-binary that i've really enjoyed, like thinking about how my internalised gender presentation (positively) affects my personality, or how i relish in the challenge of finding cool womens' clothes that still works with my hips and shoulders
-
-<!-- non binary culture annoys me sometimes -->
-<!-- labels dont entirely serve me anymore, im just happy being me -->

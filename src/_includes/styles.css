@@ -114,9 +114,9 @@ ul > li::marker {
   content: "- ";
 }
 
-li + li {
+/* li + li {
   margin-top: 1rem;
-}
+} */
 
 iframe {
   max-width: 100%;
