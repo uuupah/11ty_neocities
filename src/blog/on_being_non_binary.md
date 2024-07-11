@@ -1,6 +1,6 @@
 ---
 title: "on being non-binary"
-date: 2025-06-17
+date: 2024-06-17
 ---
 
 my friend gave me a spare bottle of hormone blockers today! 
