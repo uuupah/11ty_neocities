@@ -5,9 +5,9 @@ date: 2024-06-02
 
 [last year ==>](/art/my-art-2023)
 
-<script src="https://gusbus.space/smallweb-subway/smallweb-subway.js"></script>
+<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
 <div class="smallweb-subway-handler">
-    <smallweb-subway></smallweb-subway>
+    <smallweb-subway-doodlecrew></smallweb-subway-doodlecrew>
 </div>
 
 {% set images = [
