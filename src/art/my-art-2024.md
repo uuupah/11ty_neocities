@@ -11,6 +11,7 @@ date: 2024-06-02
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2024/marble-david.png",
     "/_assets/img/my_art_2024/landscape4.png",
     "/_assets/img/my_art_2024/flamberge.png",
     "/_assets/img/my_art_2024/pike.png",
