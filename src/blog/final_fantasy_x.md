@@ -7,3 +7,6 @@ when i was in primary school i was friends with a farmer's son. farmers tend to 
 
 i started thinking about final fantasy x again when completing last months top 3 albums - the track eternal lightwaves from gaia/rae remixes a track from final fantasy x-2 directly, and i think its somewhat emblematic of where the ps1/2 revival is currently focusing its energy. extremely deeply rooted childhood nostalgia aside, i truly believe that these two games are something pretty special and worth thinking about.
 
+- world
+- story
+- gameplay
