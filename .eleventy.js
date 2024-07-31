@@ -193,26 +193,35 @@ module.exports = function (eleventyConfig) {
     const dom = new JSDOM(content);
     const doc = dom.window.document;
 
-    const newAnchorPairList = []
+    const newAnchorPairList = [];
 
     // reconfigure iframes
     for (iframe of doc.getElementsByTagName("iframe")) {
       var newAnchor = doc.createElement("a");
-      newAnchor.setAttribute("src", 
-        iframe.getAttribute("rss-link") ??
-        iframe.getAttribute("src"));
+      newAnchor.setAttribute(
+        "src",
+        iframe.getAttribute("rss-link") ?? iframe.getAttribute("src")
+      );
+
+      if (iframe.getAttribute("rss-image")) {
+        var rssImg = doc.createElement("img");
+        rssImg.setAttribute("src", iframe.getAttribute("rss-image"));
+        newAnchor.appendChild(rssImg);
+      }
+
       newAnchor.appendChild(
         doc.createTextNode(
           iframe.getAttribute("rss-linkname")
-            ? iframe.getAttribute("rss-linkname") + " (there was an iframe here but rss hid it)"
+            ? iframe.getAttribute("rss-linkname") +
+                " (there was an iframe here but rss hid it)"
             : "(there was an iframe here but rss hid it)"
-            )
-            );
+        )
+      );
       newAnchor.appendChild(doc.createElement("br"));
-      
+
       // this feels like an ugly way of doing it but if you replace the child inside the list you end up pushing indexes
       // around and iframes get skipped
-      newAnchorPairList.push({a:newAnchor, i:iframe})
+      newAnchorPairList.push({ a: newAnchor, i: iframe });
     }
 
     for (newAnchorPair of newAnchorPairList) {
@@ -220,7 +229,7 @@ module.exports = function (eleventyConfig) {
     }
 
     // remove lightbox images from rss because the rss cant hide them properly
-    doc.querySelectorAll('.lightbox').forEach (e => e.remove());
+    doc.querySelectorAll(".lightbox").forEach((e) => e.remove());
 
     var out = dom.serialize();
     return out;
