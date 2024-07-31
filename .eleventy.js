@@ -9,6 +9,8 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
+const HOSTLOCATION = "https://uuupah.neocities.org"
+
 module.exports = function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
   rimraf.windows.sync("public/");
@@ -199,14 +201,15 @@ module.exports = function (eleventyConfig) {
     for (iframe of doc.getElementsByTagName("iframe")) {
       var newAnchor = doc.createElement("a");
       newAnchor.setAttribute(
-        "src",
+        "href",
         iframe.getAttribute("rss-link") ?? iframe.getAttribute("src")
       );
 
       if (iframe.getAttribute("rss-image")) {
         var rssImg = doc.createElement("img");
-        rssImg.setAttribute("src", iframe.getAttribute("rss-image"));
+        rssImg.setAttribute("src", HOSTLOCATION + iframe.getAttribute("rss-image"));
         newAnchor.appendChild(rssImg);
+        newAnchor.appendChild(doc.createElement("br"));
       }
 
       newAnchor.appendChild(
