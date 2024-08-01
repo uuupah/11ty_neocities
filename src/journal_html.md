@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2024.08.01**
+my housemate said i have really good taste and asked me how i find the cool things i find (verbatim) and i think im gonna cry. also upgraded the rss processing function to better convert iframes to something readable in rss. also im working on a manic autismpost about the big catch: tacklebox and also final fantasy x. the more i think about it the more i dont think i'll do a post about my big breakup but maybe just breadcrumb it out over monthly blogs as my feelings on it continue to ferment
+
 **2024.04.16**  
 jesus christ my blog has got dorky recently. ive got some philosophical fun stuff i want to talk about floating around my head, but but there will probably be another one or two nerdposts before that happens
 
