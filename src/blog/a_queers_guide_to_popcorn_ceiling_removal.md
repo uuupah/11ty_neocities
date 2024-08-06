@@ -3,7 +3,7 @@ title: a queer's guide to removing popcorn ceiling (whilst living in australia)
 date: 2024-01-17
 ---
 
-<div class="half-width">
+<!-- <div class="half-width"> -->
 
 hello all! this is probably a little off-brand for this blog but i've spent the last fortnight+ renovating my shitty australian apartment and i thought it could be helpful to other people who would like to remove their stupid acoustic ceiling in their 70's era domicile. first up, a super brief intro to popcorn ceiling: this stuff was big in the late 20th century, mostly because it allowed construction companies to half-ass their ceiling surface and cover it up after the fact. if you're in the same approximate age range as i am and you're lucky enough to own a place then it's not unrealistic that it would have this. there are two hidden issues with popcorn ceiling if you're living in australia:
 

@@ -102,9 +102,9 @@ module.exports = function (eleventyConfig) {
     }
   );
 
-  eleventyConfig.addShortcode("blogImage", (link, maxWidth) => {
+  eleventyConfig.addShortcode("blogImage", (link, maxWidth, lightbox = true) => {
     if (!maxWidth) {
-      maxWidth = 360;
+      maxWidth = 500;
     }
 
     if (maxWidth > 720) {
@@ -115,8 +115,14 @@ module.exports = function (eleventyConfig) {
       // this is not guaranteed to give uniqueness but i should be giving all the images in a blogpost a different name
       // anyway
       var slug = slugify(link.split("/").at(-1));
-      return `<a href="#img_${slug}"><img style="width: ${maxWidth}px;" src="${link}"/></a>
-      <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
+
+      if (lightbox) {
+        return `<a href="#img_${slug}"><img style="width: ${maxWidth}px;" src="${link}"/></a>
+        <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
+      }
+      else {
+        return `<img style="width: ${maxWidth}px;" src="${link}"/>`
+      }
     } else {
       return "";
     }
