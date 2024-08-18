@@ -11,6 +11,7 @@ date: 2024-07-27
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2024/thumper.png",
     "/_assets/img/my_art_2024/trio.png",
     "/_assets/img/my_art_2024/marble-apollo.png",
     "/_assets/img/my_art_2024/uuupproved.png",
