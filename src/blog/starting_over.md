@@ -5,7 +5,7 @@ date: 2024-08-19
 
 {% blogImage "/_assets/img/blog/startingover.webp", 500, false %}
 
-let's start with a nice easy question - what are you meant to do with your life? theres a few answers that would get good scores on family feud: finish school, get a degree, find a good job, pair off with a romantic partner, buy a house and have 2.1 children. so what are my goals? ive gone through uni and found a job that pays pretty well and doesnt put a huge stress on my time or energy. so what now? 
+let's start with a nice easy question - what are you meant to do with your life? theres a few answers that would get good scores on family feud: finish school, get a degree, find a good job, pair off with a romantic partner, buy a house and have 2.1 children. what are _my_ goals? ive gone through uni and found a job that pays pretty well and doesnt put a huge stress on my time or energy. so what now? 
 
 something that freaked me out after breaking up with my really long term partner was the realisation that we didnt have any shared goals - largely because _i_ don't have any. im not a sedentary person (i could honestly probably benefit from doing _less_) but i feel like all of my needs are met and the things that i want to improve on or strive towards are all steady, long term projects. i could try to travel more but that's a little outside of my financial range at the moment, and i _might_ be able to afford a house one day if i keep saving for a couple of years. 
 
