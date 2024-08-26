@@ -6,6 +6,12 @@ date: 2024-07-27
 [last year ==>](/art/my-art-2023)
 
 <script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
+<script src="/_assets/js/simple-lightbox.min.js"></script>
+<script>
+  var lightbox = new SimpleLightbox('.gallery a', {});
+</script>
+<link rel="stylesheet" type="text/css" href="/_assets/css/simple-lightbox.min.css" />
+
 <div class="smallweb-subway-handler">
     <smallweb-subway-doodlecrew></smallweb-subway-doodlecrew>
 </div>
@@ -39,8 +45,15 @@ date: 2024-07-27
 ] %}
 
 <div class="gallery">
-{% for image in images %}
-    <a href="#img_{{images.length - loop.index}}"><img class="gallery-image" src="{{image}}"></a>
-    <a href="#_{{images.length - loop.index}}" class="lightbox trans" id="img_{{images.length - loop.index}}"><img src="{{image}}"></a>
-{% endfor %}
+  <a href="/_assets/img/my_art_2024/thumper.png"><img src="/_assets/img/my_art_2024/thumper.png"/></a>
+  <a href="/_assets/img/my_art_2024/trio.png"><img src="/_assets/img/my_art_2024/trio.png"/></a>
+  <a href="/_assets/img/my_art_2024/marble-apollo.png"><img src="/_assets/img/my_art_2024/marble-apollo.png"/></a>
 </div>
+
+<!--<div class="gallery">-->
+{% for image in images %}
+  <!--<a href="{{image}}"><img src="{{image}}"/></a>-->
+    <!-- <a href="#img_{{images.length - loop.index}}"><img class="gallery-image" src="{{image}}"></a> -->
+    <!-- <a href="#_{{images.length - loop.index}}" class="lightbox trans" id="img_{{images.length - loop.index}}"><img src="{{image}}"></a> -->
+{% endfor %}
+<!--</div>-->
