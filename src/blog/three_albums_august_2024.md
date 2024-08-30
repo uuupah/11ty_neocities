@@ -23,20 +23,30 @@ disco elysium also (nominally) fits in the walk-around-a-town genre of game, but
 
 #### disco elysium gb
 {% blogImage "/_assets/img/three_albums_august_2024/discogb.png" %}
-https://csbrannan.itch.io/disco-elysium-game-boy-edition
+[csbrannan.itch.io/disco-elysium-game-boy-edition](https://csbrannan.itch.io/disco-elysium-game-boy-edition)  
+outwardly this one totally looks like a bit of a goof, but theyve done an honestly impressive job at simplifying disco elysium's systems without losing the original vibe, the visuals are also a hidden gem here; i love kim's tiny little chat portrait and how easily it can be read
 
 ### food
 #### the best corn tortilla recipe ive found yet
-https://www.youtube.com/watch?v=U3RKg4jEyAk
+{% blogImage "/_assets/img/three_albums_august_2024/tortilla.webp" %}
+[link](https://www.youtube.com/watch?v=U3RKg4jEyAk)  
+this is the only corn tortilla i've ever had any real success with. the advice this youtuber gives is super reliant on detecting issues and adjusting yourself which i think is really key with cooking. he unfortunately doesnt allow for video embedding, but trust me, this one is good. even if you don't get the perfect puff, getting close will still yield an extremely good tortilla
 
 #### chicken karahi
-https://www.youtube.com/watch?v=fEguvHE0Clg
+<iframe rss-link="https://www.youtube.com/watch?v=fEguvHE0Clg" rss-image="/_assets/img/three_albums_august_2024/karahi.jpeg" rss-linkname="chicken karahi recipe by imran ali" width="560" height="315" src="https://www.youtube-nocookie.com/embed/fEguvHE0Clg?si=ElMzbmszPjqA9kl8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-#### pesto ala calabrese
-https://www.notanothercookingshow.tv/post/spicy-red-pepper-pasta
+this recipe did result in me spending an hour going to three (3) separate indian grocers looking for fenugreek leaves / methi, but the end result was incredible. if you stumble onto a bunch of fresh tomatoes the flavour of this dish is out of this world and also somehow unbelieveably easy and simple. the 35 minute number promised in the title isn't hyperbole
+
+#### pesto calabrese
+<iframe rss-lnk="https://www.youtube.com/watch?v=I0DkkLsvF4o" rss-image="/_assets/img/three_albums_august_2024/pasta.webp" rss-linkname="pesto calabrese recipe by not another cooking show" width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0DkkLsvF4o?si=QpBeSBA6HZSQ9k1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[www.notanothercookingshow.tv/post/spicy-red-pepper-pasta](www.notanothercookingshow.tv/post/spicy-red-pepper-pasta)  
+finally, this recipe is a little bit of effort, but is totally worthwhile. keep an eye out for cavatappi specifically because it truly heightens the whole experience
 
 ### webdev
 #### zed editor
+{% blogImage "/_assets/img/three_albums_august_2024/zed.png" %}
+i'm writing this post in the zed code editor for linux! i grabbed it on a whim a week or so ago and have (mostly) been pleasantly surprised by the experience.
 
 #### 11ty sitemap generator
 https://www.belter.io/eleventy-sitemap/

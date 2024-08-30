@@ -9,7 +9,7 @@ const pluginRss = require("@11ty/eleventy-plugin-rss");
 const jsdom = require("jsdom");
 const { JSDOM } = jsdom;
 
-const HOSTLOCATION = "https://uuupah.neocities.org"
+const HOSTLOCATION = "https://uuupah.neocities.org";
 
 module.exports = function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
@@ -35,7 +35,7 @@ module.exports = function (eleventyConfig) {
       <iframe class="album-tile-iframe" name="${slug}" src="about:blank" seamless></iframe>
       <b>${title}</b>
     </div>`;
-    }
+    },
   );
 
   eleventyConfig.addShortcode(
@@ -70,7 +70,7 @@ module.exports = function (eleventyConfig) {
         imageString = image
           .map(
             (i, index) => `<a href="#img_${slug}_${index}"><img src="${i}"/></a>
-      <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a><br>`
+      <a href="#_${slug}_${index}" class="lightbox trans" id="img_${slug}_${index}"><img src="${i}"/></a><br>`,
           )
           .join(" ");
       } else if (typeof image === "string") {
@@ -79,9 +79,9 @@ module.exports = function (eleventyConfig) {
       }
 
       if (video) {
-        videoString = `<video autoplay loop muted controls poster="${video.poster}">  
-          <source src="${video.link}" type="video/mp4"></source>  
-          <img src="${video.poster}"></img>  
+        videoString = `<video autoplay loop muted controls poster="${video.poster}">
+          <source src="${video.link}" type="video/mp4"></source>
+          <img src="${video.poster}"></img>
           </video><br>`;
       }
 
@@ -99,34 +99,36 @@ module.exports = function (eleventyConfig) {
       ${iframeString}
       ${description}
     </p>`;
-    }
+    },
   );
 
-  eleventyConfig.addShortcode("blogImage", (link, maxWidth, lightbox = true) => {
-    if (!maxWidth) {
-      maxWidth = 500;
-    }
+  eleventyConfig.addShortcode(
+    "blogImage",
+    (link, maxWidth, lightbox = true) => {
+      if (!maxWidth) {
+        maxWidth = 500;
+      }
 
-    if (maxWidth > 720) {
-      maxWidth = 720;
-    }
+      if (maxWidth > 720) {
+        maxWidth = 720;
+      }
 
-    if (link && typeof link === "string") {
-      // this is not guaranteed to give uniqueness but i should be giving all the images in a blogpost a different name
-      // anyway
-      var slug = slugify(link.split("/").at(-1));
+      if (link && typeof link === "string") {
+        // this is not guaranteed to give uniqueness but i should be giving all the images in a blogpost a different name
+        // anyway
+        var slug = slugify(link.split("/").at(-1));
 
-      if (lightbox) {
-        return `<a href="#img_${slug}"><img style="width: ${maxWidth}px;" src="${link}"/></a>
+        if (lightbox) {
+          return `<a href="#img_${slug}"><img style="width: ${maxWidth}px;" src="${link}"/></a>
         <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
+        } else {
+          return `<img style="width: ${maxWidth}px;" src="${link}"/>`;
+        }
+      } else {
+        return "";
       }
-      else {
-        return `<img style="width: ${maxWidth}px;" src="${link}"/>`
-      }
-    } else {
-      return "";
-    }
-  });
+    },
+  );
 
   // make a list of all tags besides "post" and add them to the collection
   eleventyConfig.addCollection("tagsList", function (collectionApi) {
@@ -194,7 +196,7 @@ module.exports = function (eleventyConfig) {
 
         return data.eleventyExcludeFromCollections;
       };
-    }
+    },
   );
 
   eleventyConfig.addFilter("rssCleanup", function (content) {
@@ -208,12 +210,15 @@ module.exports = function (eleventyConfig) {
       var newAnchor = doc.createElement("a");
       newAnchor.setAttribute(
         "href",
-        iframe.getAttribute("rss-link") ?? iframe.getAttribute("src")
+        iframe.getAttribute("rss-link") ?? iframe.getAttribute("src"),
       );
 
       if (iframe.getAttribute("rss-image")) {
         var rssImg = doc.createElement("img");
-        rssImg.setAttribute("src", HOSTLOCATION + iframe.getAttribute("rss-image"));
+        rssImg.setAttribute(
+          "src",
+          HOSTLOCATION + iframe.getAttribute("rss-image"),
+        );
         newAnchor.appendChild(rssImg);
         newAnchor.appendChild(doc.createElement("br"));
       }
@@ -221,10 +226,9 @@ module.exports = function (eleventyConfig) {
       newAnchor.appendChild(
         doc.createTextNode(
           iframe.getAttribute("rss-linkname")
-            ? iframe.getAttribute("rss-linkname") +
-                " (there was an iframe here but rss hid it)"
-            : "(there was an iframe here but rss hid it)"
-        )
+            ? iframe.getAttribute("rss-linkname")
+            : "(there was an iframe here but rss hid it)",
+        ),
       );
       newAnchor.appendChild(doc.createElement("br"));
 
