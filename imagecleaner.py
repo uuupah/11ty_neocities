@@ -3,11 +3,11 @@ from PIL import Image as im
 from argparse import ArgumentParser as argparser
 
 # width in pixels
-MAX_WIDTH = 720
+MAX_WIDTH = 1920
 # filetype
 OUTPUT_FILETYPE = "webp"
-IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps", 
-  ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif", ".webp")
+IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps",
+  ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif", ".webp", "avif")
 
 def main():
   if len(sys.argv) < 2:
@@ -26,7 +26,7 @@ def main():
 def handle_file(filepath):
   if verify_file_is_image(filepath):
     process_image(filepath)
-  else: 
+  else:
     print("file " + filepath + " is not an image, ignoring")
   return
 
@@ -39,9 +39,9 @@ def handle_directory(dirpath):
   return
 
 def verify_file_is_image(filepath):
-  # note that this isnt a bulletproof way to check a file is _actually_ an 
-  # image, but pil can figure out the filetype for us if its been misattributed 
-  # in the file metadata - this just stops us from wasting time trying to 
+  # note that this isnt a bulletproof way to check a file is _actually_ an
+  # image, but pil can figure out the filetype for us if its been misattributed
+  # in the file metadata - this just stops us from wasting time trying to
   # process markdown files or js code, but also means we're not relying on some
   # stupid fucking package solution for an extremely simple problem
   return os.path.splitext(filepath)[1] in IMG_FM
@@ -61,7 +61,7 @@ def process_image(filepath):
       width_percent = MAX_WIDTH / float(current_image.width)
       new_height = int((float(current_image.height) * float(width_percent)))
       current_image = current_image.resize((MAX_WIDTH, new_height), im.Resampling.LANCZOS)
-    if current_image.mode in ("RGBA", "P"): 
+    if current_image.mode in ("RGBA", "P"):
       current_image = current_image.convert("RGB")
     filename_slug = slugify(os.path.splitext(os.path.basename(filepath))[0])
     current_image.save(os.path.join(os.path.dirname(filepath), (filename_slug + "." + OUTPUT_FILETYPE)), quality=90)
