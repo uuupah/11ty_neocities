@@ -5,12 +5,6 @@ date: 2023-11-21
 
 [<== next year](/art/my-art-2024)
 
-<!-- <span>
-    <button class="smallweb-subway" onclick="goToPrev()">&lt;==</button> 
-    smallweb subway
-    <button class="smallweb-subway" onclick="goToNext()">==&gt;</button>
-</span> -->
-
 {% set images = [
     "/_assets/img/my_art_2023/christmas.png",
     "/_assets/img/my_art_2023/witches.png",

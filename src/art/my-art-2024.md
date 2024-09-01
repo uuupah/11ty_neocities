@@ -5,7 +5,6 @@ date: 2024-07-27
 
 [last year ==>](/art/my-art-2023)
 
-<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
 <div class="smallweb-subway-handler">
     <smallweb-subway-doodlecrew></smallweb-subway-doodlecrew>
 </div>
@@ -44,3 +43,5 @@ date: 2024-07-27
     <a href="#_{{images.length - loop.index}}" class="lightbox trans" id="img_{{images.length - loop.index}}"><img src="{{image}}"></a>
 {% endfor %}
 </div>
+
+<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
