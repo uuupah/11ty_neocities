@@ -21,6 +21,7 @@ title: links
 - 📚 [app.thestorygraph.com/profile/squid_with_glasses](https://app.thestorygraph.com/profile/squid_with_glasses)
 
 ### my pals' sites
+- [scylla.neocities.org/](https://scylla.neocities.org)
 - [tanami.org/](https://tanami.org/)
 - [t-amadan.carrd/](https://t-amadan.carrd.co/)
 - [lulu.contact/](https://lulu.contact/)
