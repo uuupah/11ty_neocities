@@ -1,34 +1,52 @@
 ---
 title: "august 2024 blog // three albums"
-date: 2024-08-22
-draft: true
+date: 2024-09-02
 ---
 
+<img style="display:none;" src="/_assets/img/three_albums_august_2024/beag.jpg"></img>
+
+this is a big one! strap in!
+
+[my august 2024 plays!](https://www.last.fm/user/uuupah/library/albums?from=2024-08-01&to=2024-08-31&page=1)
+
 ### no hands - joey valence & brae
+<iframe rss-image="/_assets/img/three_albums_august_2024/nohands.jpg" rss-link="https://joeyvalenceandbrae.bandcamp.com/album/no-hands" rss-linkname="no hands by joey valence and brae on bandcamp" style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=4133920162/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://joeyvalenceandbrae.bandcamp.com/album/no-hands">NO HANDS by Joey Valence &amp; Brae</a></iframe>
+
+i honestly thought this was a joke album when i first heard it, but no hands is a love letter to / modern interpretation of 80s east coast hip-hop. the album both pays heartfelt homage to the original style (my favourite detail is that all of the swearing is bleeped) but also brings in distinctly modern elements where it makes sense - "where u from" includes a tv-girl style chipmunk call and response, millenial whoops sprinkled throughout, and an atmospheric dnb break at the end of bussit, to note just a few. i thought the lyric mentioning "double xp weekend" was cute
 
 ### oncle jazz - men i trust
+<iframe rss-image="/_assets/img/three_albums_august_2024/onclejazz.jpg" rss-link="https://menitrust.bandcamp.com/album/oncle-jazz" rss-linkname="oncle jazz by men i trust on bandcamp" style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=1115961286/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://menitrust.bandcamp.com/album/oncle-jazz">Oncle Jazz by Men I Trust</a></iframe>
+
+my friend kye actually introduced the album to me a year or so ago, but i rediscovered it again recently and it has been a mainstay of my morning routine ever since. the whole vibe is extremely dreamlike and emmanuelle proulx's vocals can easily blend into the larger composition if you dont have the mental faculties to focus on them (this is a complement, if it was unclear), but are beautifully heartfelt if you are able to sit and really appreciate them. instrumentally, the whole thing is super simple; the drums and bass guitar are quite conventional, acting as a foundation for the airy synth, electric guitar and vocal performance. this allows for tracks to vary in intensity, like the more upbeat "say can you hear" and "slap pie", while still being cohesive with the rest of the album
 
 ### melkweg - jameszoo, metropole orkest, jules buckley
+<iframe rss-image="/_assets/img/three_albums_august_2024/melkweg.jpg" rss-link="https://jameszoo.bandcamp.com/album/melkweg" rss-linkname="melkweg by jameszoo and metropole orkest on bandcamp" style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=3689107641/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://jameszoo.bandcamp.com/album/melkweg">Melkweg by Jameszoo &amp; Metropole Orkest (conducted by Jules Buckley)</a></iframe>
+
+another month, and uuupah is recommending another album combining an experimental electronic artist with a heavy emphasis on keys and a full orchestra 🙄🙄🙄 this one starts incredible and keeps the quality high throughout. the contrast between lovely, sometimes jarring synth sections, moments of lilting brass or strings, and then absolutely _slamming_ you with the full force of every instrument in the room all at once gives me chills every time. the absolute genre bending between jazzy, electronic, and classical made this one a must-listen that i enjoyed immensely
+
+### links baby!!!
 
 the extra stuff this month is going to be extremely unfocused and higgeldy piggeldy because i did a massive cleanup of my 200+ (!) phone tabs and took notes of the interesting ones. they are being archived here for my future reference and your viewing pleasure:
 
 ### games
 #### mutazione
 {% blogImage "/_assets/img/three_albums_august_2024/mutazione.webp" %}
-i first tried playing mutazione more than a year ago. these flavour of game where you walk around a town and get to know everyone's weird business and have interesting interpersonal moments are totally my jam (night in the woods is probably my favourite game ever) and this provides that with its own super unique paper cut-out visual style. i think the opening couple of hours maybe don't grab the average player as well as they could, and the whole thing is very much a visual novel without much need for problem solving, but the overall experience is really lovely and intriguing. i will 100% overlook all kinds of sins if you let me explore a visually interesting world and dig into some weird kinda mundane soap opera level stories. mutazione absolutely scratched my night in the woods itch and i'm now on the hunt for _another_ game to fill that gap
+this flavour of game where you walk around a town and get to know everyone's weird business and have interesting interpersonal moments are totally my jam (night in the woods is probably my favourite game ever) and this provides that with its own super unique paper cut-out visual style. i think the opening couple of hours maybe don't grab the average player as well as they could, and the whole thing is very much a visual novel without much need for problem solving, but the overall experience is really lovely and intriguing. i will 100% overlook all kinds of sins if you let me explore a visually interesting world and dig into some weird kinda mundane soap opera level stories. mutazione absolutely scratched my night in the woods itch and i'm now on the hunt for _another_ game to fill that gap
 
 #### disco elysium
 {% blogImage "/_assets/img/three_albums_august_2024/disco.webp" %}
 disco elysium also (nominally) fits in the walk-around-a-town genre of game, but frames it as a detective mystery instead. you play as a cop in a familiar but alternate reality who has drunk themselves into almost total amnesia and must figure out what's going on in _the world_ before they can figure out who committed the crime at hand. disco has an absolutely gorgeous smeary oil painting look to the entire game and each character has their own unique portrait that is full of charm (and a little bit unsettling, sometimes). the core system that sets this game apart is your skills being separated into a sort of greek chorus that, depending on your skill in each one, will check in on the situation at hand depending on your proficiency. this creates a perfect thematic move where you feel like you are going slightly crazy and talking to yourself. the game is also structured in a way where taking the weird or "wrong" move is somewhat encouraged due to your character being a bit of a fuck-up, which gives you more freedom to roleplay than ive seen in a lot of other game experiences - it feels like a little thing, but i think it helps disco to stand out as one of the best of its style in recent years
 
 #### disco elysium gb
-{% blogImage "/_assets/img/three_albums_august_2024/discogb.png" %}
+{% blogImage "/_assets/img/three_albums_august_2024/discogb.png", "480", false %}
+
 [www.csbrannan.itch.io/disco-elysium-game-boy-edition](https://csbrannan.itch.io/disco-elysium-game-boy-edition)  
 outwardly this one totally looks like a bit of a goof, but theyve done an honestly impressive job at simplifying disco elysium's systems without losing the original vibe, the visuals are also a hidden gem here; i love kim's tiny little chat portrait and how easily it can be read
 
 ### food
 #### the best corn tortilla recipe ive found yet
-{% blogImage "/_assets/img/three_albums_august_2024/tortilla.webp" %}
+{% blogImage "/_assets/img/three_albums_august_2024/tortilla.webp", "500", false %}
+
 [link](https://www.youtube.com/watch?v=U3RKg4jEyAk)  
 this is the only corn tortilla i've ever had any real success with. the advice this youtuber gives is super reliant on detecting issues and adjusting yourself which i think is really key with cooking. he unfortunately doesnt allow for video embedding, but trust me, this one is good. even if you don't get the perfect puff, getting close will still yield an extremely good tortilla
 
@@ -38,7 +56,7 @@ this is the only corn tortilla i've ever had any real success with. the advice t
 this recipe did result in me spending an hour going to three (3) separate indian grocers looking for fenugreek leaves / methi, but the end result was incredible. if you stumble onto a bunch of fresh tomatoes the flavour of this dish is out of this world and also somehow unbelieveably easy and simple. the 35 minute number promised in the title isn't hyperbole
 
 #### pesto calabrese
-<iframe rss-lnk="https://www.youtube.com/watch?v=I0DkkLsvF4o" rss-image="/_assets/img/three_albums_august_2024/pasta.webp" rss-linkname="pesto calabrese recipe by not another cooking show" width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0DkkLsvF4o?si=QpBeSBA6HZSQ9k1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe rss-link="https://www.youtube.com/watch?v=I0DkkLsvF4o" rss-image="/_assets/img/three_albums_august_2024/pasta.webp" rss-linkname="pesto calabrese recipe by not another cooking show" width="560" height="315" src="https://www.youtube-nocookie.com/embed/I0DkkLsvF4o?si=QpBeSBA6HZSQ9k1u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [www.notanothercookingshow.tv/post/spicy-red-pepper-pasta](www.notanothercookingshow.tv/post/spicy-red-pepper-pasta)  
 finally, this recipe is a little bit of effort, but is totally worthwhile. keep an eye out for cavatappi specifically because it truly heightens the whole experience
@@ -79,13 +97,19 @@ this is a project that i'm super excited about, that is also not desperately int
 
 ### art
 #### digital painting
-{% blogImage "/_assets/img/three_albums_august_2024/painting.webp" %}
+{% blogImage "/_assets/img/three_albums_august_2024/painting.webp", "500", false %}
+
 [link](https://www.youtube.com/watch?v=93oPmKWuKrk)  
 a lot of big developments in my art journey have centred around finding a topic i want to dig into and sifting through thirty or so dogshit youtube tutorials until i find the diamond in the rough that works for me specifically, and this video was that for monochrome, realistic digital painting. i found the technique simple and the process for the first image easy to follow, but also the whole concept could be easily transferred to different references
 
 #### ayeeops brushes
 [ayeoops.gumroad.com](https://ayeoops.gumroad.com/l/waxnn)  
 i have gone absolutely fucking crazy on these brushes the last couple of weeks [like with this piece](/art/my-art-2024/#img_24) - the texture on the "crunkly" brush makes it feel really natural to use and allows for a bit of a carefree drawing experience which has kicked my ass into gear with actually knuckling down and finishing things
+
+### golemm
+<iframe rss-link="https://www.youtube.com/watch?v=Sn4BI8zy92M" rss-image="/_assets/img/three_albums_august_2024/untouchable.jpg" rss-linkname="how untouchable was made by golemm" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Sn4BI8zy92M?si=jrmIUyoBgnt3_Fgr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[hazardous bubble basics by golemm](https://golemm.bandcamp.com/album/hazardous-bubble-basics) was my top album of 2024, so i was super pleased to find out that he's done some rundowns of how his tracks have come together. i uh, don't actually know how a lot of this stuff works, but it is exquisitely interesting nevertheless
 
 ### blogs
 #### dustbunnybedroom
@@ -95,7 +119,7 @@ i stumbled onto this site in the neocities activity page and i adore how genuine
 #### japanese food isnt actually japanese food
 {% blogImage "/_assets/img/three_albums_august_2024/jp.avif" %}
 [link](https://theconversation.com/white-rice-with-side-dishes-isnt-really-traditional-japanese-food-so-where-did-we-get-this-idea-233871)  
-a friend of mine wrote this piece on the perceivance of traditional japanese cuisine a month or two back and i think it's super intriguing! give it a read! 
+a friend of mine wrote this piece on the perceptance of traditional japanese cuisine a month or two back and i think it's super intriguing! give it a read! 
 
 ### anime
 #### narenare
@@ -105,3 +129,8 @@ i saw a couple of clips from this show and grabbed it immediately because it loo
 #### i parry everything
 {% blogImage "/_assets/img/three_albums_august_2024/parry.webp" %}
 conversely, i heard a brief explanation of this show and thought "well, it cant hurt to watch an episode or two" and then proceeded to binge the remaining episodes and get completely up to date. i parry everything is so intriguing because it's a native isekai (an exquisitely boring setting), the animation is _just okay_ the music is _just okay_ and the characters are about as generic as it gets, but the conceit of the show being that the main character has willpowered himself into being unbelievably skilled (one punch man style) but is such a sheltered dipshit that he doesn't realise that all of his feats of strength are at otherworldly levels _somehow works_. i don't even like stories that pivot around misunderstanding between characters, and yet. i'm going to sheepishly give this one a recommendation to check it out, with condition that it's currently only up to episode 9 and it could totally go downhill
+
+### personal update
+{% blogImage "/_assets/img/three_albums_august_2024/beag.jpg", "500", false %}
+
+holy fuck! im not doing well! my brother has been having problems with my mum for the last couple of years and officially dropped an ultimatum which has totally turned things nuclear. i managed to masterfully fumble two separate people who were totally into me, and my ex informed me theyre starting to date casually again, which feels super barbed given how much trouble they had being physical when we were together. all in the span of a week! i'm feeling pretty fucking rough at the moment, which is kind of funny given how well the rest of august went. i'm sort of interested in recording my state of mind each day so i could plot it on a graph. i suspect it would look a bit like a sine wave
