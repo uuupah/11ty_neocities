@@ -11,6 +11,8 @@ date: 2024-07-27
 
 {% set images = [
     "/_assets/img/my_art_2024/pair.jpg",
+    "/_assets/img/my_art_2024/tuck.jpg",
+    "/_assets/img/my_art_2024/laundromat.jpg",
     "/_assets/img/my_art_2024/thumper.png",
     "/_assets/img/my_art_2024/trio.png",
     "/_assets/img/my_art_2024/marble-apollo.png",
