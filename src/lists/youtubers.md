@@ -6,6 +6,18 @@ date: 2024-05-07
 <div class="list-formatting">
 
 {% listentry
+    "anti-chef",
+    [{
+        "title": "youtube.com/@antichef",
+        "link": "https://www.youtube.com/@antichef"
+    }],
+    null,
+    null,
+    "https://www.youtube.com/watch?v=N-UWd84l8GY",
+    "i don't want to diminish josh's skill in any amount by calling his youtube series an entertainment-first cooking show, but the fact of the matter is that it is extremely entertaining. his cute callback bits are somehow always funny, his positive outlook is infectious, and you feel it when he messes us just as bad as he does. i could (and do) accidentally watch fifteen episodes in a row while doing my own cooking"
+-%}
+
+{% listentry
     "masaru",
     [{
         "title": "youtube.com/@masaru.9268",
