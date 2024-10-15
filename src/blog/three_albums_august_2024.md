@@ -10,7 +10,9 @@ this is a big one! strap in!
 [my august 2024 plays!](https://www.last.fm/user/uuupah/library/albums?from=2024-08-01&to=2024-08-31&page=1)
 
 ### no hands - joey valence & brae
-<iframe rss-image="/_assets/img/three_albums_august_2024/nohands.jpg" rss-link="https://joeyvalenceandbrae.bandcamp.com/album/no-hands" rss-linkname="no hands by joey valence and brae on bandcamp" style="border: 0; width: 100%; height: 320px;" src="https://bandcamp.com/EmbeddedPlayer/album=4133920162/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://joeyvalenceandbrae.bandcamp.com/album/no-hands">NO HANDS by Joey Valence &amp; Brae</a></iframe>
+<iframe rss-image="/_assets/img/three_albums_august_2024/nohands.jpg" rss-link="https://joeyvalenceandbrae.bandcamp.com/album/no-hands" rss-linkname="no hands by joey valence and brae on bandcamp" style="border-radius:12px" src="https://open.spotify.com/embed/album/1Fjelo0jZ4i1iQZBsK0pOA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+⚠️october update!⚠️ these guys took their music off of bandcamp which is kind of a dick move!
 
 i honestly thought this was a joke album when i first heard it, but no hands is a love letter to / modern interpretation of 80s east coast hip-hop. the album both pays heartfelt homage to the original style (my favourite detail is that all of the swearing is bleeped) but also brings in distinctly modern elements where it makes sense - "where u from" includes a tv-girl style chipmunk call and response, millenial whoops sprinkled throughout, and an atmospheric dnb break at the end of bussit, to note just a few. i thought the lyric mentioning "double xp weekend" was cute
 
