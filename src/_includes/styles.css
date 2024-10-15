@@ -196,7 +196,7 @@ footer {
 
 .sidebar-contents {
   padding: 65px 15px 15px 15px;
-  border-radius: 15px;
+  /* border-radius: 15px; */
   background: var(--container);
   box-sizing: border-box;
   height: min-content;
