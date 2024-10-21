@@ -1,0 +1,132 @@
+aside#status {
+    border: 1px solid green;
+    border-radius: 9px;
+    float: right;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
+}
+
+/* gallery formatting */
+
+div#gal_flex {
+    /* who needs device width breakpoints when you have flex wrap */
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 60em; /* you can set this wider if you like, or remove it to fill the full width of a large screen. I just like to limit it. */
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #875c12;
+    width: 160px; /* on the narrowest phone screens, this should still give you two across */
+    position: relative; /* so the alt popup is anchored relative to here */
+}
+
+div.gallery:hover {
+    border: 1px solid #a61c3c;
+}
+
+div.gallery img {
+    max-width: 100%; /* fill up the div by width, as tall as it needs to be. */
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.desc:hover + div.altpopup,
+div.altpopup:hover {
+    display: block; /* show only on hover over the caption */
+} /* or on touchscreens, if you touch the caption. */
+
+div.altpopup {
+    /* this div is added by the script! Don't actually put it in your HTML file. */
+    padding: 2px;
+    position: absolute; /* anchor it to the bottom of the image+caption space */
+    bottom: 0;
+    left: 0;
+    background-color: #a61c3c;
+    color: white;
+    display: none;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+/* full screen overlay to show bigger versions on gallery pages */
+div#overlay {
+    display: none; /* hidden by default */
+    position: fixed; /* same place no matter the scroll */
+    z-index: 1; /* stay on top */
+    left: 0; /* position within the viewport */
+    top: 0;
+    width: 100%; /* size relative to the viewport */
+    height: 100%;
+    padding: 5px;
+    overflow: auto; /* scroll if needed */
+    background-color: rgb(0, 0, 0); /* for browsers who don't know opacity */
+    background-color: rgba(0, 0, 0, 0.75); /* and for those who do */
+}
+
+/* the image itself */
+img#overlay-img {
+    margin: auto;
+    max-width: 95%;
+    max-height: 90%; /* leave space for the caption below the image */
+}
+
+/* the image caption */
+div#overlay-caption {
+    margin: auto;
+    width: 80%;
+    max-width: 700px;
+    text-align: center;
+    color: #f9ebd2;
+    background-color: #000000;
+    padding: 10px 0;
+}
+
+/* the buttons */
+button.overlay-control {
+    /* all the control buttons. Should be visible against both the blanking-out overlay (default black)
+ * and the images themselves if they happen to be wide enough to get underneat the buttons */
+    color: #f2f2f2;
+    background-color: rgba(0, 0, 0, 0);
+    font-size: 40px;
+    font-weight: bold;
+    border: none;
+    text-shadow: 0 0 0 #ccc;
+}
+
+button.overlay-control:hover {
+    color: #a61c3c;
+    text-shadow: 0 0 25px #2f2;
+}
+
+button#overlay-close {
+    /* top right */
+    position: absolute;
+    top: 5px;
+    right: 35px;
+}
+
+button#overlay-prev {
+    /* left side of screen */
+    position: absolute;
+    left: 5px;
+    bottom: 50%;
+}
+
+button#overlay-next {
+    /* right side of screen */
+    position: absolute;
+    right: 15px;
+    bottom: 50%;
+}
+
+/* end */
