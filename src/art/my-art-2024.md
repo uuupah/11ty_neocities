@@ -10,6 +10,7 @@ date: 2024-07-27
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2024/tackle-bail.webp",
     "/_assets/img/my_art_2024/pair.jpg",
     "/_assets/img/my_art_2024/sollux.png",
     "/_assets/img/my_art_2024/tuck.jpg",
