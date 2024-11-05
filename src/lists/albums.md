@@ -15,12 +15,6 @@ date: 2023-11-23
     -%}
 
     {% albumtile
-        "exile - sabrepulse",
-        "https://bandcamp.com/EmbeddedPlayer/album=2135258317/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/",
-        "/_assets/img/albums/exile.jpg"
-    -%}
-
-    {% albumtile
         "delancey st. station - pinc louds",
         "https://bandcamp.com/EmbeddedPlayer/album=3174957532/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/",
         "/_assets/img/albums/delanceyststation.jpg"
