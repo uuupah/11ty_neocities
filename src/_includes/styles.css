@@ -445,3 +445,12 @@ footer {
   border: 1px solid var(--border);
   background-color: var(--border);
 }
+
+#HCB_comment_box h3,
+#HCB_comment_box #hcb_msg{
+  display: none; !important
+}
+
+#HCB_comment_box #hcb_form_content{
+  color: var(--text) !important;
+}
