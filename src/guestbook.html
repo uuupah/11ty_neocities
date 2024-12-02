@@ -3,12 +3,15 @@ layout: layout/base.njk
 title: guestbook
 ---
 
+chattable is a little bit of a fiddle, make sure you click the cog and set a
+username before posting a message!
+
 <head>
   <link rel="stylesheet" href="/_assets/css/chattable.css" />
   <script src="https://chattable.neocities.org/scripts/main.min.js"></script>
   <script>
     chattable.initialize({
-      stylesheet: "http://uuupah.neocities.org/_assets/css/chattable.css",
+      stylesheet: "/_assets/css/chattable.css",
     });
   </script>
 </head>
@@ -16,5 +19,6 @@ title: guestbook
 <iframe
   src="https://iframe.chat/embed?chat=05548541"
   id="chattable"
+  height="100%"
   frameborder="none"
 ></iframe>
