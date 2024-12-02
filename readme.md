@@ -23,6 +23,7 @@ automatically builds and deploys on a commit to main using [bcomnes' deploy-to-n
 i got started using [flamed fury's 11ty guide](https://flamedfury.com/guides/11ty-homepage-neocities/)
 
 # todo
-- [ ] convert all relevant images to blogimage shortcode
+- [ ] add k6bd to comics page
 - [ ] add new albums to music list
 - [ ] actually paginate infinite nightmare
+- [ ] work on blogposts for website and home server
