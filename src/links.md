@@ -23,7 +23,7 @@ title: links
 ### my pals' sites
 - [scylla.neocities.org/](https://scylla.neocities.org)
 - [tanami.org/](https://tanami.org/)
-- [t-amadan.carrd/](https://t-amadan.carrd.co/)
+- [tamadanick.neocities](https://tamadanick.neocities.org/)
 - [lulu.contact/](https://lulu.contact/)
 - [gusbus.space/](https://gusbus.space)
 - [jazz-dude.com/](https://jazz-dude.com/)
