@@ -22,10 +22,10 @@ osaka has two ferris wheels, one right outside the aquarium and one attached to 
 my very australian experience with matcha is that horrible greenish-brown stuff that takes an annoying amount of time to make, or aforementioned greenish-brown powder mixed with latte foam. it's fine, but has never particularly jived with me. uji is a pretty iconic tea location in japan, housing the oldest tea shop in japan (and potentially the world) and making some really good tea as a result. we went to a cute little tea cafe - tea square morihan kura cafe - and had some locally made matcha, which i was pleasantly surprised to find actually has a lot of umami flavour to it. it was an experience i haven't really got from any other kind of tea, although you dont need to travel all the way to uji to get it - i had proper matcha at a couple of other times in my trip and it seems to be a pretty universal
 
 ### 2nd street
-2nd street fills a neat gap between op shop and consignment store in japan. while they do sell some braindead designer shit, it's normally at the front while all the real goodies are at the back. i visited a couple of 2nd streets while in japan and consistently had a good time with their range and 
+2nd street fills a neat gap between op shop and consignment store in japan. while they do sell some braindead designer shit, it's normally at the front while all the real goodies are at the back. i visited a couple of 2nd streets while in japan and consistently had a good time with their range and prices, with my highlight being this awesome elephant sweater
 
 ### walden woods kyoto
-this coffee shop had a vibe that was hilariously melbourne - the whole thing was all unfinished concrete at harsh angles and a white paintjob over everything else. this is topped off with baristas that desperately wish you hadn't walked in will definitely let you know with your expressions. the effect is very complete. i bought a stupidly expensive filter coffee which was honestly pretty nice, and we sat in this art gallery style first floor room as we all sort of blinked ourselves awake
+this coffee shop had a vibe that was hilariously melbourne - the whole thing was all unfinished concrete at harsh angles and a white paintjob over everything else. this is topped off with baristas that desperately wish you hadn't walked in and will definitely let you know with your expressions. the effect is very complete. i bought a silly filter coffee which was pretty nice, and we sat in this art gallery style first floor room as we all sort of blinked ourselves awake
 
 ### nintendo store
 kyoto is home to nintendo (the whole ass company) as well as (what i believe is) their flagship nintendo store. this space is immediately overwhelming and loud, but i was super buzzed to see just how much space was dedicated to splatoon. truly, an enlightened culture. the animal crossing stuff was also really cool, and i grabbed a bunch of it for my friend back home (say a prayer for my suitcase capacity). there's a photo opportunity spot on the roof with a bunch of life sized mario blocks which is a cute touch
@@ -41,10 +41,13 @@ one of the really cool things about kyoto is that if your accomodation is near t
 ### nagoya new years
 
 ### madarao
+uh oh!! i went skiing for the first time here - i wasnt initially very interested, but hire is so cheap i thought i'd just go in for a day. i should have listened to my gut because i hit a massive bit of powder and went head over heels, dislocating my shoulder. oops! for a brief look behind the curtain, i have dutch heritage and i climb very regularly, so i am almost two metres tall, and i have pretty big arm muscles. this is all cool and good, but if you _do_ manage to pop your humerus out of its socket, your tiny japanese doctor is going to need to push his foot under your armpit in order to get enough leverage. this hurt like hell but also got me one of my favourite photos of the trip
 
-### matsumoto coffee shop
+### ⭐ sioribi 栞日 (matsumoto coffee shop)
+now _this_ is the platonic ideal of cute coffee shop. the upstairs is a bookstore for cute local publications with tons of natural light and 
 
 ### hard off
+these secondhand stores are EVERYWHERE in japan, especially further out in the country, and theyre an absolute treasure trove
 
 ### fuji
 
@@ -70,6 +73,8 @@ this had a pretty similar vibe to the nintendo store, but i was honestly a littl
 
 ### ⭐ brooklyn coffee roaster
 im writing this post from here!! its a super cute waterfront spot, their coffee tastes good, they serve cortados, they're open late and the server said they liked my outfit. a lovely experience!
+
+### ⭐ osaka mexican
 
 ### conclusion
 my main takeaway is that japan didn't feel anywhere near as foreign of a place as i expected. there's obviously loads of quirks - i'm glad to be back in a country that doesnt require the use of paper currency - but the people are nice, and the same flavours of dork exist in both australia and japan.

@@ -6,6 +6,18 @@ date: 2024-05-07
 <div class="list-formatting">
 
 {% listentry
+    "benn jordan",
+    [{
+        "title": "youtube.com/@BennJordan",
+        "link": "https://www.youtube.com/@BennJordan"
+    }],
+    null,
+    null,
+    "https://www.youtube.com/watch?v=c5ynZ3lMQJc",
+    "benn jordan is The Flashbulb, a musical artist i enjoy immensely, but his youtube channel is also a goldmine of super interesting music tidbits, as well as (unexpectedly) a really cool citizen scientist? the stuff he makes is super varied and always extremely well thought out and presented and i always watch his new videos the second they come out"
+-%}
+
+{% listentry
     "anti-chef",
     [{
         "title": "youtube.com/@antichef",
