@@ -13,7 +13,7 @@ date: 2025-01-23
     }],
     null,
     null,
-    "https://www.youtube.com/watch?v=c5ynZ3lMQJc",
+    "https://www.youtube.com/embed/c5ynZ3lMQJc",
     "benn jordan is The Flashbulb, a musical artist i enjoy immensely, but his youtube channel is also a goldmine of super interesting music tidbits, as well as (unexpectedly) a really cool citizen scientist? the stuff he makes is super varied and always extremely well thought out and presented and i always watch his new videos the second they come out"
 -%}
 
@@ -25,7 +25,7 @@ date: 2025-01-23
     }],
     null,
     null,
-    "https://www.youtube.com/watch?v=N-UWd84l8GY",
+    "https://www.youtube.com/embed/N-UWd84l8GY",
     "i don't want to diminish josh's skill in any amount by calling his youtube series an entertainment-first cooking show, but the fact of the matter is that it is extremely entertaining. his cute callback bits are somehow always funny, his positive outlook is infectious, and you feel it when he messes us just as bad as he does. i could (and do) accidentally watch fifteen episodes in a row while doing my own cooking"
 -%}
 
