@@ -3,7 +3,7 @@ title: "my art 2024"
 date: 2024-11-05
 ---
 
-[last year ==>](/art/my-art-2023)
+[<== next year](/art/my-art-2025) // [last year ==>](/art/my-art-2023)
 
 <div class="smallweb-subway-handler">
     <smallweb-subway-doodlecrew></smallweb-subway-doodlecrew>
