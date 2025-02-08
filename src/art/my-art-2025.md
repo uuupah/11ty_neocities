@@ -20,4 +20,4 @@ date: 2025-01-29
 {% endfor %}
 </div>
 
-<!-- <script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script> -->
+<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
