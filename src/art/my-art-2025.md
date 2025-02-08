@@ -5,6 +5,7 @@ date: 2025-01-29
 
 [last year ==>](/art/my-art-2024)
 
+<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
 <div class="smallweb-subway-handler">
     <smallweb-subway-doodlecrew></smallweb-subway-doodlecrew>
 </div>
@@ -20,4 +21,3 @@ date: 2025-01-29
 {% endfor %}
 </div>
 
-<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>

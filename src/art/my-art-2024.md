@@ -51,5 +51,3 @@ date: 2024-11-05
     <a href="#_{{images.length - loop.index}}" class="lightbox trans" id="img_{{images.length - loop.index}}"><img src="{{image}}"></a>
 {% endfor %}
 </div>
-
-<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
