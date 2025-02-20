@@ -1,6 +1,6 @@
 ---
-title: musings
-draft: true
+title: february 2025 musings
+date: 2025-02-20
 ---
 
 ![](/_assets/img/blog/whataweek.jpg)
@@ -23,6 +23,31 @@ at the end of january i had my last session with my psychologist - i've struggle
 
 my psych told me that while these suck, she thinks i have good coping mechanisms and a good support network and that i shouldnt be worried. she sent me with not quite a clean bill of health, but more a statement that she wasn't the person who would be able to fix my obsessive issues. i'm thinking that, well, i don't think im fixed, but a medical professional thinks my mental state isnt a big enough issue and i should be able to handle it for now
 
+then comes the events of the last month. discussing the most recent incident has been super interesting. one friend friend said that they somewhat forgive my interpersonal blunders because theyre pretty sure i am at least somewhat autistic - great, news to me! another friend said that they've identified that i tend to make social decisions based more on how i'm perceived than how it will affect other people which honestly makes me sound kind of sociopathic. jesus. 
 
+a big thing thats always worried me is being a person who was extremely shut in for the first 24 or so years of their life and forcing myself to step out of my comfort zone and meet people after uni has finished. i've made leaps and bounds in my ability to be a normal person, and i've learned to quell my anxieties by looking at the material truths of my life - my friends do go out of their ways to hang out with me, to talk to me and invite me to things. theyre clearly not just humouring me and must actually like me, and whatever weird behaviour i think i have must be either the result of anxious overthinking, or is obviously not a dealbreaker. im starting to second guess that assessment now, and am kind of wishing people told me off more (now _that_ feels autistic of me)
 
-###
+im ruminating like crazy but that shouldnt be a surprise. i'm kind of giving myself grace to be stressed for a bit because the potential ramifications of such a big friendship kerfuffle are huge. i feel like it's okay to stress about it
+
+### mysteries
+i was thinking a couple weeks ago about how crazy it must of been to look at the world even as recently as a couple hundred years ago. where do diseases come from? how did mountains and valleys form? what the hell are the bright lights in the sky? we live in a time where just about any question you could have about the world has an answer, as long as you're not looking too small or too big
+
+how much of this did they not even understand that they didn't understand? how much stuff do we not understand that we don't even understand?
+
+every now and then i'll have a bit of a moment where i find myself thinking it's almost unfair that i'll probably never know the answer to what happened before the birth of the universe as we know it, or how big the universe is, or whether it even has limits. if it has limits, what sits outside them? if it doesn't have limits, how does that even work? cosmic scale in general has also been an interesting thing to grapple with - its unlikely that i'll ever go to space, despite the speculative "non fiction" books i read as a kid, and even if i do, the insane distances between everything in the universe means that i _definitely_ won't be visiting another planet. idk, is it reasonable to be disappointed by that?
+
+### growing up
+i've complained a bunch about how i feel a little out of step with my peers, both the people in my age group and the people i tend to mix with on a daily basis. i did have a big realisation however that i am enjoying teetering on the edge of 30 for a couple of reasons:
+
+1. i'm more self confident than i've ever been. this is partly due to be successful in putting myself out there, and partly coming to terms with a lot of realities about myself an animated meat bag. talking and seeing more people has made me aware that a lot of things i was self conscious about are actually kind of normal, and ignoring a lot of social media helps with that
+
+2. i haven't given up. i strive to do try new things, to work on projects, to actively better myself. i haven't moved into the suburbs and had 2.15 children and decided that watching the big bang theory is a reasonable pasttime. this is pretty picky and kinda mean to a lot of other people in my age group, and if that life works for you then good for you! but i'm glad that i'm on a path to continue exploring and it makes me hopeful about my future
+
+3. i have a real job that earns real money. this one's pretty straightforward. the beers are on me guys
+
+4. experience is underrated. i was on a call with some friends and someone gave me a prompt for something i thought would be interesting to draw. i pulled out my ipad, did my usual process, shunted the file to my computer and did some final edits in affinity. i more or less did this on autopilot and then was kinda shocked at myself and how much i can just do unconsciously. i can conceive of new recipes and tweak existing ones when theyre not quite working or dont feel quite right. i can do (minor) electrical work, plaster and paint a room, hang new fixtures. i'm acquiring the level of familiarity with the world that made me look up to my parents and their apparent bountiful wealth of knowledge when i was a primary schooler
+
+30 is coming pretty soon. when i was 23 the concept terrified me. now that it's closer, it just feels like another arbitrary threshold
+
+### reasons to get up in the morning
+there is always a nice alt person at bunnings warehouse who will complement me on my outfit and who i can complement in turn. this is a universal constant for all bunnings warehouses in australia
