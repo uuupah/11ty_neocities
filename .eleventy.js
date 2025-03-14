@@ -11,11 +11,14 @@ const { JSDOM } = jsdom;
 
 const HOSTLOCATION = "https://uuupah.neocities.org";
 
-module.exports = function (eleventyConfig) {
+module.exports = async function (eleventyConfig) {
   // delete contents of public to ensure removed files are removed from the final build
   rimraf.windows.sync("public/");
 
   eleventyConfig.addPlugin(pluginRss);
+
+  const { IdAttributePlugin } = await import("@11ty/eleventy");
+  eleventyConfig.addPlugin(IdAttributePlugin);
 
   eleventyConfig.addPassthroughCopy("./src/_assets/css");
   eleventyConfig.addPassthroughCopy("./src/_assets/img");
@@ -86,7 +89,6 @@ module.exports = function (eleventyConfig) {
       }
 
       if (iframelink) {
-        console.log(iframelink);
         iframeString = `
       <iframe src="${iframelink}" style="width: 560px; aspect-ratio: 16/9; max-width: 100%;" seamless allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br>`;
       }
@@ -254,21 +256,6 @@ module.exports = function (eleventyConfig) {
       process.env.BUILD_DRAFTS = true;
     }
   });
-
-  // automatically ids to headers
-  const markdownIt = require("markdown-it");
-  const markdownItNamedHeadings = require("markdown-it-named-headings");
-
-  const markdownOptions = {
-    html: true,
-    breaks: true,
-    linkify: true,
-  };
-  const markdownRenderer = markdownIt(markdownOptions).use(
-    markdownItNamedHeadings,
-  );
-
-  eleventyConfig.setLibrary("md", markdownRenderer);
 
   return {
     passthroughFileCopy: true,
