@@ -13,7 +13,7 @@ this was the first of many two dollar convenience store beers grabbed at 11pm. i
 
 ### melting cafe au lait
 {% blogImage '/_assets/img/japan_drinks/meltingcafeaulait.webp', 360 %}
-i grabbed this in the middle of a random suburb in the east corner of osaka
+i grabbed this in the middle of a random suburb in the northeast corner of osaka (near the [otani cemetary](/blog/japan_nightmare_blog/#otani-cemetary))
 
 {% blogImage '/_assets/img/japan_drinks/sangariaspecialmilkshake.webp', 360 %}
 
