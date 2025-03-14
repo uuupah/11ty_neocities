@@ -58,7 +58,7 @@ sudo systemctl enable --now ssh
 
 this will start up ssh and make sure ubuntu starts it on system boot in the future
 
-<h2 id="ufw">ufw</h2>
+## ufw
 
 uncomplicated firewall ships with ubuntu, and allows us to configure a firewall in an uncomplicated manner! sweet! i'm using [this tutorial](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04)([local copy](how_to_set_up_a_firewall_with_ufw_on_ubuntu_20_04)) for ufw setup. first up, i'll introduce you to a friend that's going to be with us for the rest of this adventure:
 
