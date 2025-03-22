@@ -11,7 +11,8 @@ date: 2025-01-29
 </div>
 
 {% set images = [
-    "/_assets/img/my_art_2025/uuupah.png"
+    "/_assets/img/my_art_2025/uuupah.png",
+    "/_assets/img/my_art_2025/goat.png"
 ] %}
 
 <div class="gallery">
