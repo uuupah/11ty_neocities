@@ -46,11 +46,11 @@ there are a bunch of these all over japan, but the one in kyoto was far and away
 
 ### otani cemetary
 {% blogImage "/_assets/img/japan_places/otanicemetary.webp" %}
-one of the really cool things about kyoto is that if your accomodation is near the city center you can basically point yourself in any direction and find a lot of cool stuff. a friend and i did just that and after finding a bunch of very empty back-suburb shrines we stumbled upon what is easily the biggest cemetary that i've ever seen. this joint is massive and wraps around the mountainside on the east side of kyoto, and is super quiet to boot. it leads through to  kiyomizu-dera, a shrine that is comparatively super not quiet, so hopefully the tranquility of the cemetary will give you the mental reset you need to brave the crowds
+one of the really cool things about kyoto is that if your accomodation is near the city center you can basically point yourself in any direction and find a lot of cool stuff. a friend and i did just that and after finding a bunch of very empty back-suburb shrines, we stumbled upon what is easily the biggest cemetary that i've ever seen. this joint is massive and wraps around the mountainside on the east side of kyoto, and is super quiet to boot. it leads through to  kiyomizu-dera, a shrine that is comparatively super not quiet, so hopefully the tranquility of the cemetary will give you the mental reset you need to brave the crowds
 
 ### nagoya new years
 {% blogImage "/_assets/img/japan_places/nagoyanewyears.webp" %}
-i rung over the new year in nagoya with a visit to osu kannon (kitanosan shinpuku-ji hoshoin), a buddhist shrine in the centre of town. as a solo endeavour i think it's nice enough - i support leaning in to elements of a culture that you're just not going to be able to experience elsewhere, but it was also just for the novelty. the bulk of the experience was waiting in the cold with a buttload of people - could have been improved with some friends, and if it was an english speaking country i might have made some, but my travel buddies all fell asleep at 11.30
+i rang in the new year in nagoya with a visit to osu kannon (kitanosan shinpuku-ji hoshoin), a buddhist shrine in the centre of town. as a solo endeavour i think it's nice enough - i support leaning in to elements of a culture that you're just not going to be able to experience elsewhere, but it was also just for the novelty. the bulk of the experience was waiting in the cold with a buttload of people - could have been improved with some friends, and if it was an english speaking country i might have made some, but my travel buddies all fell asleep at 11.30
 
 ### madarao
 {% blogImage "/_assets/img/japan_places/madarao.webp" %}
@@ -78,7 +78,7 @@ this joint is so cool as someone with a passing interest in audio gear. the one 
 
 ### bolbol persian
 {% blogImage "/_assets/img/japan_places/bolbol.webp" %}
-this was an extremely nifty find near shinjuku. i found get fresh vegetables was sometimes a bit hard in japan, so we went absolutely crazy for the salads on offer. the owner had a delightful little budgie and the food was up to the standard that i've found from other persian restaurants in australia
+this was an extremely nifty find near shinjuku. i found getting fresh vegetables was sometimes a bit hard in japan, so we went absolutely crazy for the salads on offer. the owner had a delightful little budgie and the food was up to the standard that i've found from other persian restaurants in australia
 
 ### pokemon center
 {% blogImage "/_assets/img/japan_places/pokemoncentre.webp" %}
@@ -102,7 +102,7 @@ im writing this post from here!! its a super cute waterfront spot, their coffee 
 
 ### ⭐ taqueria la fonda
 {% blogImage "/_assets/img/japan_places/taqueria.webp" %}
-it feels extremely shameful to say so, but osaka mexican restaurant this was one of the most memorable eating experiences i had in japan. japanese food is done perfectly well in australia because actual japanese people will move here and just do what they were doing over there, but there aren't quite so many mexican people in australia. to be fair, these guys also weren't mexican, but they'd done their research, as well as the very japanese thing of focusing on doing only one thing and doing it well. i accidentally spent 40 bucks here, which is really saying something in a country where most meals are 15 aud at the very most
+it feels extremely shameful to say so, but this osaka mexican restaurant this was one of the most memorable eating experiences i had in japan. japanese food is done perfectly well in australia because actual japanese people will move here and just do what they were doing over there, but there aren't quite so many mexican people in australia. to be fair, these guys also weren't mexican, but they'd done their research, as well as the very japanese thing of focusing on doing only one thing and doing it well. i accidentally spent 40 bucks here, which is really saying something in a country where most meals are 15 aud at the very most
 
 ### conclusion
 my main takeaway is that japan didn't feel anywhere near as foreign of a place as i expected. there's obviously loads of quirks - i'm glad to be back in a country that doesnt require the use of paper currency - but the people are nice, and the same flavours of dork exist in both australia and japan.
