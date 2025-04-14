@@ -222,7 +222,7 @@ module.exports = async function (eleventyConfig) {
           HOSTLOCATION + iframe.getAttribute("rss-image"),
         );
         newAnchor.appendChild(rssImg);
-        newAnchor.appendChild(doc.createElement("br"));
+        // newAnchor.appendChild(doc.createElement("br"));
       }
 
       newAnchor.appendChild(
