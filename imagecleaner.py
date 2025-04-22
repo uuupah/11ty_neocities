@@ -3,7 +3,7 @@ from PIL import Image as im
 from argparse import ArgumentParser as argparser
 
 # width in pixels
-MAX_WIDTH = 360
+MAX_WIDTH = 5000
 # filetype
 OUTPUT_FILETYPE = "jpg"
 IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps",
