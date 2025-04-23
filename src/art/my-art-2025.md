@@ -11,6 +11,7 @@ date: 2025-04-22
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2025/recline.png",
     "/_assets/img/my_art_2025/arms.png",
     "/_assets/img/my_art_2025/goat.png",
     "/_assets/img/my_art_2025/uuupah.png"
@@ -22,4 +23,3 @@ date: 2025-04-22
     <a href="#_{{images.length - loop.index}}" class="lightbox trans" id="img_{{images.length - loop.index}}"><img src="{{image}}"></a>
 {% endfor %}
 </div>
-
