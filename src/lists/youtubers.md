@@ -12,6 +12,7 @@ date: 2025-04-27
       }],
       null,
       null,
+      "https://www.youtube.com/embed/hjja4KrpatQ",
       "craig's videos are so genuine and pure and sweet and he seems like such a nice guy! he seems to be a person who loves asking why, being curious and trying new stuff and i think the world could always have more of that"
   -%}
 
