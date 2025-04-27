@@ -1,9 +1,20 @@
 ---
 title: "my favourite youtubers"
-date: 2025-01-23
+date: 2025-04-27
 ---
 
 <div class="list-formatting">
+  {% listentry
+      "craig benzine",
+      [{
+          "title": "youtube.com/@wheezywaiter",
+          "link": "https://www.youtube.com/@wheezywaiter"
+      }],
+      null,
+      null,
+      "https://www.youtube.com/watch?v=hjja4KrpatQ",
+      "craig's videos are so genuine and pure and sweet and he seems like such a nice guy! he seems to be a person who loves asking why, being curious and trying new stuff and i think the world could always have more of that"
+  -%}
 
 {% listentry
     "benn jordan",
