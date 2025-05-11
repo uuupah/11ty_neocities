@@ -24,7 +24,7 @@ title: links
 - [scylla.neocities.org/](https://scylla.neocities.org)
 - [tanami.org/](https://tanami.org/)
 - [tamadanick.neocities](https://tamadanick.neocities.org/)
-- [lulu.contact/](https://lulu.contact/)
+- [lucien.contact/](https://lulu.contact/)
 - [gusbus.space/](https://gusbus.space)
 - [jazz-dude.com/](https://jazz-dude.com/)
-- [snailcomic.neocities.org/](https://snailcomic.neocities.org/)
+<!-- - [snailcomic.neocities.org/](https://snailcomic.neocities.org/) -->
