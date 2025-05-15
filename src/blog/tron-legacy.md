@@ -2,6 +2,8 @@
 title: "tron legacy"
 date: 2025-04-01
 ---
+✒️editors note: let the record note that i posted this five days before the surprise trailer drop for tron: ares. i like to think that i was the straw that broke the proverbial camel's back
+
 i first watched this film in a car trip back from a scout camp with a boy i had a crush on, so, y'know, it's gonna be somewhat difficult to separate myself from the childhood nostalgia of the movie. all this said, i put this on on a complete whim while doing some writing and was honestly kind of shocked at how much i liked it fifteen years later. i'd seen some negative reviews beforehand and had steeled myself for a crushing reminder that your childhood is fleeting and leaves a rosey lens over all of your memories, but i think there's plenty worth talking about in tron: legacy
 
 {% blogImage "/_assets/img/tron_legacy/cover.jpg" %}
