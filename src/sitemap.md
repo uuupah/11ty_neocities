@@ -5,7 +5,7 @@ title: sitemap
 <div class="pages-article">
 
 [home](/)  
-[sitemap](/sitemap/) \<-- you are here babey!!  
+[sitemap](/sitemap/) \<-- you are here!  
 [links](/links/)  
 [credits](/credits/)  
 [journal.html](/journal_html/)  

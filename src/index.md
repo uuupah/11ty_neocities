@@ -17,12 +17,12 @@ hey what's up! my name is uuupah. im a twenty-something non-binary (they/them) p
   {% for post in collections['blog'] | reverse | limit(5) %}
       - {{ post.page.date.toLocaleDateString("en-UK") }} // [{{ post.data.title }}]({{post.filePathStem}}/)
   {% endfor %}
-  \- [...and da restt ....](/blog/)
+  \- [more!](/blog/)
   #### lists of things
   {% for post in collections['lists'] | reverse | limit(5) %}
       - {{ post.page.date.toLocaleDateString("en-UK") }} // [{{ post.data.title }}]({{post.filePathStem}}/)
   {% endfor %}
-  \- [older lists](/lists/)
+  \- [older lists:](/lists/)
   #### [🤔 art inspiration list 💭](/infinite_nightmare/)
   #### [🗺️ sitemap 🌏](/sitemap/)
   #### [changelog and other little cute thoughts](/journal_html/)

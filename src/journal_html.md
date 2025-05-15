@@ -3,6 +3,9 @@ layout: layout/base.njk
 title: journal.html
 ---
 
+**2025.05.15**  
+holy fuck i havent done one of these for a while. i've been thinking of slightly changing up the site because i love how moody and cool [mental-labour.neocities.org/](https://mental-labour.neocities.org/) looks and reads, but i want to balance that with the cosy feel my page currently has. maybe i'll take notes and adjust my writing style? i think up to this point i've been trying to make it read more lighthearted but ive also maybe overcorrected lol. i'm also not entirely 110% happy with the writing ive been doing but its almost like its a skill that people go to school for
+
 **2024.08.01**  
 my housemate said i have really good taste and asked me how i find the cool things i find (verbatim) and i think im gonna cry. also upgraded the rss processing function to better convert iframes to something readable in rss. also im working on a manic autismpost about the big catch: tacklebox and also final fantasy x. the more i think about it the more i dont think i'll do a post about my big breakup but maybe just breadcrumb it out over monthly blogs as my feelings on it continue to ferment
 
