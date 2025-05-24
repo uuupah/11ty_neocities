@@ -27,4 +27,5 @@ title: links
 - [lucien.contact/](https://lulu.contact/)
 - [gusbus.space/](https://gusbus.space)
 - [jazz-dude.com/](https://jazz-dude.com/)
+- [doodledave.neocities](https://davethedoodler.neocities.org/)
 <!-- - [snailcomic.neocities.org/](https://snailcomic.neocities.org/) -->
