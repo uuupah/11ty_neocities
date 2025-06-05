@@ -5,7 +5,7 @@ date: 2025-06-05
 
 i have about ten thousand albums in my personal collection and despite my best efforts it continues to grow. this makes the massive volume of music, heavily weighted towards more ambient genres, super hard to categorise into playlists, especially because i am a chronic Album Listener. hence, in 2025 i have committed to at least beginning to take a bite out of this particular problem by grouping the albums into playlists by general style. these styles are heavily arbitrary and based on the particular energy i'm looking for when listening to a specific album. also keep in mind that i use the term "ambient" _very_ liberally, but in my defence, so does the music community. i use ambient to generally mean "low energy enough that i can listen to it while working without any change to my heartrate"
 
-i'm storing this in text format because it makes it much more resistant to particular companies perhaps going completely under because their business strategy is incompatibility with the material truths of reality (see: spotify) and also allows for me to set it up on my miriad different systems at my own pace
+i'm storing this in text format because it is more resistant to particular companies going under because their business strategy is incompatible with the material limitations of reality (see: spotify) and also allows for me to set it up on all my different programs and hardware separately
 
 current as of the fifth of june 2025. this is a work in progress! albums are likely to appear, disappear and move around
 
