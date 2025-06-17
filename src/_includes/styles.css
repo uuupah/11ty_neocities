@@ -62,16 +62,24 @@ h5 {
 /* Format links */
 a,
 a:visited,
-.smallweb-subway {
+.smallweb-subway,
+summary {
   color: var(--accent);
-  display: inline-block;
+  text-decoration: underline;
   transition: transform 0.07s ease-out;
 }
 
+a,
+a:visited{
+  display: inline-block;
+}
+
 a:hover,
-.smallweb-subway:hover {
+.smallweb-subway:hover,
+summary:hover {
   text-decoration: none;
   transform: translate(0px, -2px);
+  cursor: pointer;
 }
 
 .smallweb-subway {
