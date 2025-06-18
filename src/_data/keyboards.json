@@ -1,5 +1,10 @@
 [
   {
+    "title": "praxis",
+    "image": "/_assets/img/keyboards/praxis.jpg",
+    "description": "i got a crazy deal on this kit, somewhere in the range of a hundred australian dollars before keycaps and switches. i'm fond of injection moulded boards, especially clear ones that show all the bracing, separation lines and threaded inserts. it feels really genuine to me. what i'm more middling on is the colour - this is my first non-gimmick board that hasn't been a neutral tone, and i actually held off on making it for literally a year because i felt like it needed purple keycaps to match properly. i also feel like it clashes a little with my much more neutral desk, even with the black keycaps. overall the board feels and sounds really nice, and it's solid in a way a lot of new boards aren't. coming from my more custom alice ish layout (see the μlice) i don't really love the bottom row, which suffers from a case of wkl elitism, and i really don't love the keys on the left side as they clash with my muscle memory just about every other keyboard for any of the left side modifiers, but you can leave them out with no real downside (except creating a tiny little dust trap)"
+  },
+  {
     "title": "1x2",
     "image": "/_assets/img/keyboards/1x2.jpg",
     "description": "this keyboard is actually one of my newest, and was designed to ape on [this lego brick](https://www.bricklink.com/v2/catalog/catalogitem.page?P=3069bp80) - the dimensions are almost identical to the original brick, and also include its completely nonsensical layout. i actually made the project [available on github](https://github.com/uuupah/onebytwo_kb), not that i think many people would be too interested in making one"
