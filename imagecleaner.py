@@ -5,7 +5,7 @@ from argparse import ArgumentParser as argparser
 # width in pixels
 MAX_WIDTH = 720
 # filetype
-OUTPUT_FILETYPE = "webp"
+OUTPUT_FILETYPE = "jpg"
 IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps",
   ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif", ".webp", "avif")
 
