@@ -11,6 +11,15 @@ date: 2025-06-09
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2025/critter.png",
+    "/_assets/img/my_art_2025/kettle.png",
+    "/_assets/img/my_art_2025/map.png",
+    "/_assets/img/my_art_2025/yule.png",
+    "/_assets/img/my_art_2025/still.png",
+    "/_assets/img/my_art_2025/can.png",
+    "/_assets/img/my_art_2025/tap.png",
+    "/_assets/img/my_art_2025/bag.png",
+    "/_assets/img/my_art_2025/mabon.png",
     "/_assets/img/my_art_2025/paint.png",
     "/_assets/img/my_art_2025/recline.webp",
     "/_assets/img/my_art_2025/arms.png",
