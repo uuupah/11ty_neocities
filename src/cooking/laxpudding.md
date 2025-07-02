@@ -9,7 +9,7 @@ i got this recipe from an instagram reel - one of the good ones that actually gi
 
 {% blogImage "/_assets/img/recipes/laxpudding1.jpg" %}
 
-#### ingredients:
+### ingredients:
 - 800g waxy potatoes
 - 1 onion
 - 300ml cream
@@ -19,7 +19,7 @@ i got this recipe from an instagram reel - one of the good ones that actually gi
 - 100g butter
 - 1 bunch of fresh dill, minced
 
-#### method:
+### method:
 1. peel the potatoes and boil in salted water until fork-tender. let cool, then slice (you _should_ just air cool this, but i dunked the potatoes in cold water and they were pretty instantly cool enough to work with. i also didnt let the potatoes cook 100%, the bigger ones still had a bit of resistance right in the middle, but they get cooked again so this isn't a big deal).
 2. thinly slice the onion and cook in the butter until soft, reserving the melted butter.
 3. whisk together cream, milk, and eggs, seasoning with salt and pepper.

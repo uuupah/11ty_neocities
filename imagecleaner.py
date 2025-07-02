@@ -3,11 +3,12 @@ from PIL import Image as im
 from argparse import ArgumentParser as argparser
 
 # width in pixels
-MAX_WIDTH = 720
+MAX_WIDTH = 1080
 # filetype
 OUTPUT_FILETYPE = "jpg"
 IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps",
   ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif", ".webp", "avif")
+NO_ALPHA_FILETYPES = ("jpg", "jpeg")
 
 def main():
   if len(sys.argv) < 2:
@@ -50,7 +51,8 @@ def compress_png(filepath):
   if platform.system() == "Windows":
     subprocess.run(["./optipng.exe", "-o7", filepath])
   else:
-    print("booyah")
+    subprocess.run(["optipng", "-o7", filepath])
+    # print("booyah")
     # do linux compression
 
 def process_image(filepath):
@@ -61,10 +63,12 @@ def process_image(filepath):
       width_percent = MAX_WIDTH / float(current_image.width)
       new_height = int((float(current_image.height) * float(width_percent)))
       current_image = current_image.resize((MAX_WIDTH, new_height), im.Resampling.LANCZOS)
-    if current_image.mode in ("RGBA", "P"):
+    if current_image.mode in ("RGBA", "P") and OUTPUT_FILETYPE in NO_ALPHA_FILETYPES:
       current_image = current_image.convert("RGB")
     filename_slug = slugify(os.path.splitext(os.path.basename(filepath))[0])
     current_image.save(os.path.join(os.path.dirname(filepath), (filename_slug + "." + OUTPUT_FILETYPE)), quality=90)
+  if (OUTPUT_FILETYPE == "png"):
+    compress_png(os.path.join(os.path.dirname(filepath), (filename_slug + "." + OUTPUT_FILETYPE)))
   return
 
 def slugify(s: str) -> str:
