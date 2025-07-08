@@ -103,13 +103,13 @@ code {
   border-radius: 0.2rem;
   word-wrap: break-word;
   box-decoration-break: clone;
+  font-size: 9pt;
 }
 
 pre code {
   display: block;
   white-space: pre;
-  -webkit-overflow-scrolling: touch;
-  overflow-x: scroll;
+  overflow-x: auto;
   max-width: 100%;
   min-width: 100px;
 }
