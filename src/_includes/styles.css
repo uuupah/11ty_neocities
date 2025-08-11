@@ -364,7 +364,15 @@ footer {
   margin-bottom: 15px;
 }
 
-.two-columns * {
+.two-columns.portrait-landscape{
+  grid-template-columns: 9fr 16fr;
+}
+
+.two-columns.landscape-portrait{
+  grid-template-columns: 16fr 9fr;
+}
+
+.two-columns.square * {
   width: 100%;
   aspect-ratio: 1/1;
   object-fit: cover;

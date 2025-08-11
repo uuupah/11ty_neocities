@@ -1,3 +1,5 @@
+#! /usr/bin/python3
+
 import sys, os, re, platform, subprocess
 from PIL import Image as im
 from argparse import ArgumentParser as argparser
@@ -45,7 +47,7 @@ def verify_file_is_image(filepath):
   # in the file metadata - this just stops us from wasting time trying to
   # process markdown files or js code, but also means we're not relying on some
   # stupid fucking package solution for an extremely simple problem
-  return os.path.splitext(filepath)[1] in IMG_FM
+  return os.path.splitext(filepath)[1].lower() in IMG_FM
 
 def compress_png(filepath):
   if platform.system() == "Windows":

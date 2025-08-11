@@ -28,7 +28,7 @@ theres a distinction between a brunch place and a coffee shop and this is defini
 \- $5.60 aud  
 
 ### whisky den
-[![](/_assets/img/melbourne/whiskyden.jpg)](https://thecitylane.com/whisky-den-melbourne-cbd-2/)
+![](/_assets/img/melbourne/whiskyden.webp)
 my hospo friend gave me this recommendation, apparently because it's a bit of a hospo haunt. i had the full intention of going upstairs for some me-time but there was a space at the bar so i chatted to the waitstaff and other patrons for a bit. one was a sommelier who picked my white wine for me (thank you so much). the vibe was super cool and the crowd was fun - i did feel like i'd sort of inserted myself into a friend catch-up but the people next to me seemed very happy to talk. the waitstaff were super knowledgeable but not that conversational past things related to liquor
 
 1x nikka single malt (15 years i think)  
