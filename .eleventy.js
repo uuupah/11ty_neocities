@@ -122,7 +122,7 @@ module.exports = async function (eleventyConfig) {
 
         if (lightbox) {
           return `<a href="#img_${slug}"><img style="width: ${maxWidth}px;" src="${link}"/></a>
-        <a href="#_${slug}" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
+        <a href="#_${slug}" aria-hidden="true" class="lightbox trans" id="img_${slug}"><img src="${link}"/></a><br>`;
         } else {
           return `<img style="width: ${maxWidth}px;" src="${link}"/>`;
         }
