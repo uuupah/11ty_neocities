@@ -6,8 +6,16 @@ draft: true
 ### maker coffee
 {% blogImage "/_assets/img/melbourne2/maker.webp" %}
 
+1x small long black
+1x toasted sandwich (coffee rubbed beef, smoked anchovy mayo, fontina)
+\- $22.86 aud
+
 ### rooks return
 {% blogImage "/_assets/img/melbourne2/rooksreturn.webp" %}
+
+1x pint rookies lager ($14.35)
+1x negroni ($16.40)
+\- $30.75 aud
 
 ### rocket burgers
 <div class="two-columns">
@@ -19,6 +27,9 @@ draft: true
   </div>
 </div>
 
+1x 
+\- $12.00 aud
+
 ### mr. summit
 <div class="two-columns landscape-portrait">
   <div>
@@ -29,6 +40,10 @@ draft: true
   </div>
 </div>
 
+1x long black 
+1x almond chocolate croissant
+\- $10.50 aud
+
 ### ol mate's
 <div class="two-columns">
   <div>
@@ -38,6 +53,10 @@ draft: true
   {% blogImage "/_assets/img/melbourne2/olmates2.webp" %}
   </div>
 </div>
+
+1x long black
+1x fried chicken sandwich
+\- $10.50
 
 ### arnold's
 <div class="two-columns">
@@ -69,6 +88,8 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
 {% blogImage "/_assets/img/melbourne2/keki.webp" %}
 - saccharine music
 
+\- $23.85 aud
+
 ### the helenic museum
 <div class="two-columns">
   <div>
@@ -79,10 +100,16 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
   </div>
 </div>
 
+1x standard entry
+\- $16.00 aud
+
 ### fortune alley
 {% blogImage "/_assets/img/melbourne2/fortunealley.webp" %}
 
-### monforte viennaoiserie
+1x large plate
+\- $17.56
+
+### monforte viennoiserie
 <div class="two-columns portrait-landscape">
   <div>
   {% blogImage "/_assets/img/melbourne2/monforte1.webp" %}
@@ -92,8 +119,17 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
   </div>
 </div>
 
+1x croissant
+1x chocolate and peanut butter croissant
+1x honey soda
+\- $22.00 aud
+
 ### pauli
 {% blogImage "/_assets/img/melbourne2/pauli.webp" %}
+
+2x cups
+1x small vase
+\- $120.00 aud
 
 ### eat pierogi make love
 <div class="two-columns portrait-landscape">
