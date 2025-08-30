@@ -1,20 +1,24 @@
 ---
-title: a far more organised review of a bunch of places i went to in melbourne this week
+title: a far more organised review of a bunch of places i went to in melbourne last month
 draft: true
 ---
 
 ### maker coffee
 {% blogImage "/_assets/img/melbourne2/maker.webp" %}
 
-1x small long black
-1x toasted sandwich (coffee rubbed beef, smoked anchovy mayo, fontina)
+i started my trip to melbourne with the best coffee i would have all week! while i want to hate some of these fru-fru upmarket joints, their coffee always feels considered instead of a cafe afterthought. the toasted sandwich was also really lovely - i'm not sure the coffee rub for the beef was necessary or even that noticeable, but the smoked mayo was a delightful touch
+
+1x small long black  
+1x toasted sandwich (coffee rubbed beef, smoked anchovy mayo, fontina)  
 \- $22.86 aud
 
 ### rooks return
 {% blogImage "/_assets/img/melbourne2/rooksreturn.webp" %}
 
-1x pint rookies lager ($14.35)
-1x negroni ($16.40)
+i poked my head in here at a friend's recommendation. wednesday night is when the house jazz band play (the rookies)! i didnt know anyone and was honestly too wiped to get into socialisation so i just camped behind the bar and doodled the crowd. the house lager was delicous and the overall vibe of the location was great, although the night definitely attracts more randos, many of whom were explaining the fundamental of jazz to each other lol. the staff were awesome and watching them chat with the regulars was homely, and the music was top notch
+
+1x pint rookies lager ($14.35)  
+1x negroni ($16.40)  
 \- $30.75 aud
 
 ### rocket burgers
@@ -27,7 +31,9 @@ draft: true
   </div>
 </div>
 
-1x 
+i got this on the way home - the spot is right out the front of flinders st station. it was potentially the most default burger i've ever eaten, but i was kind of drunk at this point so it was exactly what i needed
+
+1x rocket classic  
 \- $12.00 aud
 
 ### mr. summit
@@ -40,8 +46,10 @@ draft: true
   </div>
 </div>
 
-1x long black 
-1x almond chocolate croissant
+i was drawn into this place by its cool branding, and while it wasnt the best joint i visited in melbourne it was still very sweet. the coffee i got was perfectly fine but the almont chocolate croissant was a perfect breakfast
+
+1x long black  
+1x almond chocolate croissant  
 \- $10.50 aud
 
 ### ol mate's
@@ -54,8 +62,10 @@ draft: true
   </div>
 </div>
 
-1x long black
-1x fried chicken sandwich
+
+
+1x long black  
+1x fried chicken sandwich  
 \- $10.50
 
 ### arnold's
@@ -67,6 +77,8 @@ draft: true
   {% blogImage "/_assets/img/melbourne2/arnolds2.webp" %}
   </div>
 </div>
+
+i went here to catch up with a friend and we got totally carried away and got t
 
 ### the premises
 <div class="two-columns landscape-portrait">
@@ -80,14 +92,16 @@ draft: true
 
 this place has an extremely strong "suburban cafe vibe" - the fitout was clearly fairly new and hypnotically caucasian. not my style in general but not offensive. i did love the deep forest green highlights on everything and it is on busy intersection so it did at least feel really lively. the food unfortunately was _just fine_; the rhubarb danish was clearly yesterday's batch and had an overwhelming nutellex flavour, and the coffee was uncomfortably bitter - a far cry from yesterday's offerings
 
-1x small long black
-1x rhubarb danish
+1x small long black  
+1x rhubarb danish  
 \- $12.00 aud
 
 ### keki milk bar
 {% blogImage "/_assets/img/melbourne2/keki.webp" %}
 - saccharine music
 
+1x matcha souffle pancake  
+1x strawberry matcha latte  
 \- $23.85 aud
 
 ### the helenic museum
