@@ -1,6 +1,6 @@
 ---
 title: "my art 2025"
-date: 2025-07-23
+date: 2025-09-01
 ---
 
 [last year ==>](/art/my-art-2024)
