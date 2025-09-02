@@ -62,11 +62,11 @@ i was drawn into this place by its cool branding, and while it wasnt the best jo
   </div>
 </div>
 
+the staff here were very cool, and the fitout had those melbournean green tiles that i love so much. the fried chicken sandwich was perfectly cooked and spiced, and the apple in the coleslaw was absolutely next level. the coffee i bought wasn't too fruity or interesting but i was surprised at how pleasant its bitterness was. i normally prefer acidic coffees because the harshness of something really bitter isn't my style, but this managed to walk the line without tipping over the edge
 
-
-1x long black  
-1x fried chicken sandwich  
-\- $10.50
+1x long black    
+1x fried chicken sandwich    
+\- $10.50 aud
 
 ### arnold's
 <div class="two-columns">
@@ -78,7 +78,11 @@ i was drawn into this place by its cool branding, and while it wasnt the best jo
   </div>
 </div>
 
-i went here to catch up with a friend and we got totally carried away and got t
+i went here to catch up with a friend and we got totally carried away! we got the "a little bit of everything" menu, which had a selection of really lovely south american fusion food, including this extremely poorly photographed trout. we got a sparkling wine to open and a chilled red, both of which were excellent. the experience here was lovely as long as you're willing to spend a little moolah, but i would recommend skipping the meal and just picking the items you want - our napkin maths said we might have actually had a worse deal than if we'd bought the items individually
+
+2x wines  
+1x a little bit of everything menu  
+\- ~$120.00 aud
 
 ### the premises
 <div class="two-columns landscape-portrait">
@@ -97,11 +101,11 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
 \- $12.00 aud
 
 ### keki milk bar
-{% blogImage "/_assets/img/melbourne2/keki.webp" %}
-- saccharine music
+{% blogImage "/_assets/img/melbourne2/keki.webp" %}  
+this north cbd location was sunk below the ground floor, which was a surprisingly cosy spot, and had a twee, if a little well loved, fitout. the music was unbearably saccharine and involved a lot of covers of love songs. my souffle pancake was impressively fluffy - i bought one back in osaka and this was definitely lighter and fluffier. the matcha latte was also very nice but disagreed with my stomach for some reason
 
 1x matcha souffle pancake  
-1x strawberry matcha latte  
+1x strawberry matcha latte    
 \- $23.85 aud
 
 ### the helenic museum
@@ -114,13 +118,17 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
   </div>
 </div>
 
-1x standard entry
+this location is surprisingly easy to miss - it's in the old treasury building but it's off the street, and also in the northeast of the cbd. it was an absolute gem though! the ground floor had an exhibition about tributes people would give to the gods of ancient greece, and the upstairs had some military garb, traditional greek costume and jewelry, as well as a bunch of marble statues and a featurette on an ancient greek inspired videogame made in melbourne! i told loads of local melbourneans about this spot and none of them had actually heard of it which i found funny, but i thought it was 110% worth checking out!
+
+1x standard entry  
 \- $16.00 aud
 
 ### fortune alley
 {% blogImage "/_assets/img/melbourne2/fortunealley.webp" %}
 
-1x large plate
+i unfortunately don't have a great photo of this place, but i went here with a friend after eating very little all day and absolutely stacked a plate with noodles and stir fry. if you need an insertion of protein and calories at a (proportionally) low price and high speed, this joint is a good place to go. it was also delicious!
+
+1x large plate  
 \- $17.56
 
 ### monforte viennoiserie
@@ -133,16 +141,20 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
   </div>
 </div>
 
-1x croissant
-1x chocolate and peanut butter croissant
-1x honey soda
+i made a fuss of lune on my last trip, and i got this recommended as a local competitor. where lune was a tourist trap concrete bound well oiled machine with seven staff working nonstop for an entire day, monforte viennoiserie is a hole in the wall in the suburb of carlton run by a single person. i kind of wanted to try out their coffee but i didn't want to hold up the people behind me - luckily the weird little honey soda i bought was really refreshing and a great counterpart to my croissants. as for the croissants - the chocolate and peanut butter was a bit gimmicky and not an everyday classic, but still incredible. the peanut butter filling was salty to contrast the dark chocolate topping. on the other hand, the plain croissant was lovely and fresh and flakey - not as tooth rattlingly crisp as a lune equivalent, but that's more a matter of taste as far as i'm concerned. if i lived in carlton i would be visiting this place very regularly
+
+1x croissant  
+1x chocolate and peanut butter croissant  
+1x honey soda  
 \- $22.00 aud
 
 ### pauli
 {% blogImage "/_assets/img/melbourne2/pauli.webp" %}
 
-2x cups
-1x small vase
+i spent about an hour in goodbyes before this - nothing notable happened and i didn't buy any clothing, but i noticed this ceramic store and couldn't stop myself. they'd just had a bit exhibition with somewhere in the range of fifteen artists, so the varietywas out of this world. each piece was pretty expensive, but they were all handmade by a local artisan and each had a bit of a story, which is exactly what i go for
+
+2x cups  
+1x small vase  
 \- $120.00 aud
 
 ### eat pierogi make love
@@ -182,7 +194,7 @@ this place has an extremely strong "suburban cafe vibe" - the fitout was clearly
   {% blogImage "/_assets/img/melbourne2/ngv1.webp" %}
   </div>
   <div>
-  {% blogImage "/_assets/img/melbourne2/ngv2.webp" %}
+  {% blogImage "/_assets/img/melbourne2/ngv3.webp" %}
   </div>
 </div>
 
