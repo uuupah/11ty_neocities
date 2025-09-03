@@ -151,7 +151,7 @@ i made a fuss of lune on my last trip, and i got this recommended as a local com
 ### pauli
 {% blogImage "/_assets/img/melbourne2/pauli.webp" %}
 
-i spent about an hour in goodbyes before this - nothing notable happened and i didn't buy any clothing, but i noticed this ceramic store and couldn't stop myself. they'd just had a bit exhibition with somewhere in the range of fifteen artists, so the varietywas out of this world. each piece was pretty expensive, but they were all handmade by a local artisan and each had a bit of a story, which is exactly what i go for
+i spent about an hour in goodbyes before this - nothing notable happened and i didn't buy any clothing, but i noticed this ceramic store on the way back and couldn't stop myself. they'd just had a bit exhibition with somewhere in the range of fifteen artists, so the varietywas out of this world. each piece was pretty expensive, but they were all handmade by a local artisan and each had a bit of a story, which is exactly what i go for
 
 2x cups  
 1x small vase  
@@ -215,3 +215,11 @@ i spent about an hour in goodbyes before this - nothing notable happened and i d
 </div>
 
 ### nimbo
+<div class="two-columns">
+  <div>
+  {% blogImage "/_assets/img/melbourne2/nimbo1.webp" %}
+  </div>
+  <div>
+  {% blogImage "/_assets/img/melbourne2/nimbo2.webp" %}
+  </div>
+</div>
