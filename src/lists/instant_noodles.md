@@ -1,7 +1,13 @@
 ---
-date: 2025-07-07
+date: 2025-09-07
 title: instant noodles
 ---
+
+### ichiban delicious tonkotsu ramen with real pok
+{% blogImage '/_assets/img/noodles/ichibantonkotsu.webp', 500, true %}
+
+these noodles are absolutely whacky. i bought them in paper bowls (accidentally) but that does mean the portions are pretty good. they come with an oil, a dry flavour powder and a sauce, which contains real fucking pieces of real pork that came from a real pig that once walked this earth. i assume the manner they used to preserve it at room tempterature works because i did not get sick. while i am very pro-pieces of actual meat in my noodles, there was something a little uncanny about this pork, as well as a slightly strange flavour; not unpleasant, just strange. this, combined with the really thing flat noodles that i don't desperately care for, means that i dont super recommend these, but they might be up your alley
+🌕🌕🌑🌑🌑
 
 ### neoguri seafood & mild
 {% blogImage '/_assets/img/noodles/neoguriseafoodandmild.webp', 360, true %}
