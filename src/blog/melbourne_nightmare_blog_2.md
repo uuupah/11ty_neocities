@@ -167,6 +167,13 @@ i spent about an hour in goodbyes before this - nothing notable happened and i d
   </div>
 </div>
 
+i poked my head in here out of pure curiosity, instantly clocked that it was a bit of a wanky pricey place but decided to treat myself. the pierogi was delicious and the salad refreshing, but the price tag was pretty eye watering. a nice date spot perhaps, but not one for regular lunching
+
+1x kielbasa pierogi  
+1x sauerkraut salad  
+1x glass of sparkling wine (i forget which sorry)  
+\- $42.10 aud
+
 <!-- ### brotherhood of st laurence  -->
 
 <!-- ### jude -->
@@ -174,19 +181,39 @@ i spent about an hour in goodbyes before this - nothing notable happened and i d
 ### capitano
 {% blogImage "/_assets/img/melbourne2/capitano.webp" %}
 
+this pizza place looked extremely cosy but was also completly full up, so we got takeaway and ate it in a park. im of the opinion that theres a sort of quality plateau to neapolitan style pizza where past a point it's all "good" - debating the smaller differences is largely unproductive. and this pizza was good! aforementioned fence-sitting aside, one of the pizzas was a beef tongue option that was actually fucking delicious and just a bit of an interesting option that you don't see to often. they also didnt skimp on the sausage for the pepperoni pizza, which is always appreciated
+
+(my friends bought the pizzas so i have no idea what they cost)
+
 <!-- there were some more bars in amongst here - gertrude, evelyn, pendant public bar, green man's arms,  -->
 
 ### readings
 {% blogImage "/_assets/img/melbourne2/readings.webp" %}
 
+after drinking a bunch of silly beers and eating a bunch of silly pizza we head into this book shop in order to immediately and terrifyingly realise just how drunk we were. the range at this spot was really nice, lots of nifty art books and intriguing non-fictions. i wish i'd been here sober
+
 ### jungle juice bar
 {% blogImage "/_assets/img/melbourne2/junglejuice.webp" %}
+
+the naming of this spot is absolutely insane - i'm not sure that they even sold juice. their crockery was really lovely and colourful and their menus were in old hardback childrens books, which i found extremely cute. they had a load of different bagels on offer (i stuck to the classic salmon, cream cheese and capers) and they had a collection of interesting dring choices - my cafe cubano was a lovely pick me up, and a nice treat to try for the first time
+
+1x salmon bagel  
+1x cafe cubano  
+\- $18.50 aud  
 
 ### agathe patisserie petite 
 {% blogImage "/_assets/img/melbourne2/agathepatisserie.webp" %}
 
+this spot is squeezed into a side room in a (shopping) arcade, and i think is just a resale location for a larger bakery. there definitely wasn't space for a whole bakery back there. the flan patissier scratched a bit of a portugese tart itch, while the croissant was just _okay_. not bad for the price and the location though!
+
+1x flan pâtissier  
+1x croissant  
+\- $10.16 aud  
+
 ### wunderkammer
 {% blogImage "/_assets/img/melbourne2/wunderkammer.webp" %}
+
+
 
 ### ngv
 <div class="two-columns">
@@ -204,6 +231,9 @@ i spent about an hour in goodbyes before this - nothing notable happened and i d
 ### code black
 {% blogImage "/_assets/img/melbourne2/codeblack.webp" %}
 
+1x small long black  
+\- $6.15 aud
+
 ### mr ramen san
 <div class="two-columns landscape-portrait">
   <div>
@@ -214,6 +244,10 @@ i spent about an hour in goodbyes before this - nothing notable happened and i d
   </div>
 </div>
 
+2x charsu ramen  
+2x orion cocktail beer  
+\- $74.10 aud
+
 ### nimbo
 <div class="two-columns">
   <div>
@@ -223,3 +257,6 @@ i spent about an hour in goodbyes before this - nothing notable happened and i d
   {% blogImage "/_assets/img/melbourne2/nimbo2.webp" %}
   </div>
 </div>
+
+1x ube mochi toast  
+\- $22.50
