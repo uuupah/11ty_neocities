@@ -1,6 +1,6 @@
 ---
 title: strawberry ricotta cake 
-date: 2025-09-015
+date: 2025-09-15
 ---
 
 [original source](https://www.instagram.com/p/DKpYhO6pmAO/)
