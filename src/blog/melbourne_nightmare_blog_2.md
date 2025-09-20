@@ -1,6 +1,6 @@
 ---
 title: a far more organised review of a bunch of places i went to in melbourne last month
-draft: true
+date: 2025-09-20
 ---
 
 ### maker coffee
@@ -213,7 +213,7 @@ this spot is squeezed into a side room in a (shopping) arcade, and i think is ju
 ### wunderkammer
 {% blogImage "/_assets/img/melbourne2/wunderkammer.webp" %}
 
-
+a little curiosities store in the northwest of the cbd, i give this one a decent chance of containing real human remains. i didn't buy anything, but it was an interesting spot to look at for half an hour or so
 
 ### ngv
 <div class="two-columns">
@@ -225,11 +225,17 @@ this spot is squeezed into a side room in a (shopping) arcade, and i think is ju
   </div>
 </div>
 
+my hometown's gallery pales in comparison to this the national gallery of victoria. we were there for three or so hours and only saw half of it. and i saw a rothko!
+
 ### acmi
 {% blogImage "/_assets/img/melbourne2/acmi.webp" %}
 
+i was fair less time-limited when i came here so i kinda got my money's worth out of the experience (the whole thing is free btw). the first third or so of the museum is all early film history, which is interesting but, the main attraction is all the little behind the scenes items they have, followed by the more recent and abstract artworks. they had a bunch of sets from memoir of a snail and a lot of writing about considerations, concepting and design work for various australian (and international) films, as well as a bunch of lovely slow short films. one of my favourites followed an impossible victorian trainline that jumped between different places in the state
+
 ### code black
 {% blogImage "/_assets/img/melbourne2/codeblack.webp" %}
+
+i grabbed a little long black here and sat out the front to write this blog in an hour of downtime i had. the coffee was really nice (i've had code black shipped to me before and their beans are extremely good) but the interior was playing thumping house music? a really bizarre choice. i far prefer a weird bench on the street anyway
 
 1x small long black  
 \- $6.15 aud
@@ -244,6 +250,8 @@ this spot is squeezed into a side room in a (shopping) arcade, and i think is ju
   </div>
 </div>
 
+this is maybe one of the most authentic feeling ramen places i've been to in australia. lovely timber panelling, weird posters on the walls, everything a little rough around the edges. the food was delicious, if a touch expensive and a touch small, but you take what you can get. i'm definitely going to be back here next time
+
 2x charsu ramen  
 2x orion cocktail beer  
 \- $74.10 aud
@@ -257,6 +265,8 @@ this spot is squeezed into a side room in a (shopping) arcade, and i think is ju
   {% blogImage "/_assets/img/melbourne2/nimbo2.webp" %}
   </div>
 </div>
+
+as a last little hurrah for my trip, we poked our heads into this dessert place. their main selling point is bingsu, a dish i don't really care for, but they also sold a variety of french toast stuffed with a chewy mochi paste on the inside. i've had a bunch of mochi-adjacent dishes before but nothing quite like this - the ube added a fun tang and the corn flakes amped up the crunch on an otherwise pretty soft dish
 
 1x ube mochi toast  
 \- $22.50
