@@ -6,15 +6,15 @@
     "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
-  --bg: #6a826a;
-  --container: #fffbef;
-  --accent-bg: #6a826a;
-  --text: #6a826a;
-  --header-text: #6a826a;
-  --border: #6a826a;
-  --accent: #aa5757;
+  --bg: #FACCB2;
+  --container: #FADEC8;
+  --accent-bg: #FACCB2;
+  --text: #542531;
+  --header-text: #542531;
+  --border: #FACCB2;
+  --accent: #E16668;
   /* this is actually bg laid over container at 12.5% transparency */
-  --code-bg: #ececde;
+  --code-bg: #FADEC8;
 
   --content-column-width: 750px;
   /* this width was 200 but i stretched it out to fit the gif */
