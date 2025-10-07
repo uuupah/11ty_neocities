@@ -12,23 +12,23 @@ also i don't actually have one of my own photos of this because i forgot to get 
 {% blogImage "/_assets/img/recipes/chickenkarahi.jpg" %}
 
 ### ingredients
-5 tomatoes
-3 bay leaves
-1-2 cinnamon sticks
-1tsp whole black peppercorns
-800g-1kg chicken thigh, chopped into 1 inch pieces
-8-9 cloves of garlic
-2x thumb sized piece of garlic, chopped / grated
-1 tsp coriander powder
-1 tsp cumin powder
-1/2 tsp kashmiri chilli powder
-1 tsp black pepper powder
-1 tsp chilli flakes
-1 tsp tumeric
-4 bullet chillis (optional)
-head of fresh coriander
-1/2 cup of yoghurt
-1 tsp garam masala
+- 5 tomatoes
+- 3 bay leaves
+- 1-2 cinnamon sticks
+- 1tsp whole black peppercorns
+- 800g-1kg chicken thigh, chopped into 1 inch pieces
+- 8-9 cloves of garlic
+- 2x thumb sized piece of garlic, chopped / grated
+- 1 tsp coriander powder
+- 1 tsp cumin powder
+- 1/2 tsp kashmiri chilli powder
+- 1 tsp black pepper powder
+- 1 tsp chilli flakes
+- 1 tsp tumeric
+- 4 bullet chillis (optional)
+- head of fresh coriander
+- 1/2 cup of yoghurt
+- 1 tsp garam masala
 
 ### method
 1. halve and remove stems from tomatoes. 
