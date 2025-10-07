@@ -26,6 +26,6 @@ title: links
 - [tamadanick.neocities](https://tamadanick.neocities.org/)
 - [lucien.contact/](https://lulu.contact/)
 - [gusbus.space/](https://gusbus.space)
-- [jazz-dude.com/](https://jazz-dude.com/)
+- [feuer-in-soho.art/](https://feuer-in-soho.art/)
 - [doodledave.neocities](https://davethedoodler.neocities.org/)
 <!-- - [snailcomic.neocities.org/](https://snailcomic.neocities.org/) -->
