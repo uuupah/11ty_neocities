@@ -1,9 +1,9 @@
 /* Global variables. */
 :root {
   /* Set sans-serif & mono fonts */
-  --sans-font: -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir,
-    "Nimbus Sans L", Roboto, Noto, "Segoe UI", Arial, Helvetica,
-    "Helvetica Neue", sans-serif;
+  --sans-font:
+    -apple-system, BlinkMacSystemFont, "Avenir Next", Avenir, "Nimbus Sans L",
+    Roboto, Noto, "Segoe UI", Arial, Helvetica, "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
 
   --bg: #6a826a;
@@ -70,7 +70,7 @@ summary {
 }
 
 a,
-a:visited{
+a:visited {
   display: inline-block;
 }
 
@@ -364,11 +364,11 @@ footer {
   margin-bottom: 15px;
 }
 
-.two-columns.portrait-landscape{
+.two-columns.portrait-landscape {
   grid-template-columns: 9fr 16fr;
 }
 
-.two-columns.landscape-portrait{
+.two-columns.landscape-portrait {
   grid-template-columns: 16fr 9fr;
 }
 
@@ -467,10 +467,10 @@ footer {
 }
 
 #HCB_comment_box h3,
-#HCB_comment_box #hcb_msg{
-  display: none; !important
+#HCB_comment_box #hcb_msg {
+  display: none;
 }
 
-#HCB_comment_box #hcb_form_content{
+#HCB_comment_box #hcb_form_content {
   color: var(--text) !important;
 }
