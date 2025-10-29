@@ -29,12 +29,14 @@ on top of this, the colours tend to be all over the place. when i was first intr
 (i should also say, i'm not the kind of person to change my theme regularly, but i would like the option - weighing up the value of a different theme is much more difficult when you need to knuckle down for half an hour or so to apply it to your software. the value of having clean, automated control of all this stuff is simply that i wont need to do much fiddling once it's done! theoretically anyway)
 
 ### my solution to my problem with the solutions to the problem
-that's right, i just built a massive stupid fucking script to do all this for me 🚧
+that's right, i just built a massive stupid fucking script to do all this for me. this is not that far removed from the normal pywal behaviour, where you would run a script afterwards to fill in all the apps that are less automatic, but it gives me a touch more freedom
 
 ### colour
 honestly, scripting wasnt even really the hard part. the hard part was getting my head around the colours i wanted to use. i started with [everforest](https://everforest.vercel.app/), a color scheme that i actually like quite a lot, and had previously themed my system with. everforest comes with a couple of really handy features, notably five stages of background brightness, three greys, an orange, and a set of "background colours". the former are excellent for interfaces - "background dim" is used all over the place for tab trays in things like firefox and zed to show. greys are great for "unselected" colours in file pickers, as well as for comments. oranges are excellent for catching the user's attention - i've seen multiple tools use them for TODOs. and the background colours might be my most favourite, because they're perfectly suited for high importance notifications in dunst. they are different enough to catch the attention, but still look good under the standard foreground colour.
 
-hell, even the concepts of foreground and background colours, quite standard features of alacritty themes but not actually technically part of the standard 16 colour set, might be their own problem. this is because, even though i don't necessarily want to use it all the time, having pywal as an option for generating colour schemes would still be cool, but 🚧
+hell, even the concepts of foreground and background colours, quite standard features of alacritty themes but not actually technically part of the standard 16 colour set, might be their own problem. this is because, even though i don't necessarily want to use it all the time, having pywal as an option for generating colour schemes would still be cool, but it _only_ provides the 16 colours.
+
+### descent into madness
 
 - pre-existing colourschemes are handy because people have done the hard work for you
   - this is doubly true for theming less config-friendly apps like firefox
