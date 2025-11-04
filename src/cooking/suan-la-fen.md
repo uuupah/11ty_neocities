@@ -14,7 +14,7 @@ also, i gave the peanuts a bit of a flash in the pan and they picked up a bunch 
 ### ingredients:
 #### meat topping 
 - 2 teaspoons peanut oil
-- 250 g ground pork
+- 250g ground pork
 - 4 teaspoons shaoxing wine
 - 2 teaspoon dark (sweet) soy sauce (use 4 teaspoons if not using sui mi ya cai)
 - 4 teaspoons sui mi ya cai (optional)
