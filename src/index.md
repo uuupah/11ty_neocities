@@ -5,7 +5,7 @@ title: my heart's not .init()
 
 ![](/_assets/img/index.gif)
 
-hey what's up! my name is uuupah. im a twenty-something non-binary (they/them) person from australia plagued by a metaphysical urge to record my thoughts and feelings in meandering prose. i'm into exploring less mainstream music genres, character design and figure drawing, puzzle and movement videogames, old anime and rock climbing.
+my name is uuupah. im a twenty-something non-binary (they/them) holy being composed of concentrated, weapons grade fomo. i'm into exploring music, character design and figure drawing, puzzle and movement videogames, cooking, animation and rock climbing.
 
 ## pages
 

@@ -41,6 +41,8 @@ hell, even the concepts of foreground and background colours, quite standard fea
 - pre-existing colourschemes are handy because people have done the hard work for you
   - this is doubly true for theming less config-friendly apps like firefox
     - god firefox, what a pain in the ass
+      - never mind, firefox is actually extremely easy
+      - codium isn't though
   - while we're on it, let's complain about micro
   
 - to use 16 colours or not to use 16 colours
@@ -52,8 +54,10 @@ hell, even the concepts of foreground and background colours, quite standard fea
 - adjusting colors in bash
   - hsl
   - oh christ i might have to actually learn colour theory
+    - scratch that, just use mix and brighten / darken
   
 - pywal's usefulness
   - scripting that other people have already done
 
-- i should make a post about why i find the modern
+- tinted
+- matugen

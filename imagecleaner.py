@@ -9,9 +9,9 @@ from PIL import Image as im
 from argparse import ArgumentParser as argparser
 
 # width in pixels
-MAX_WIDTH = 1080
+MAX_WIDTH = 1920
 # filetype
-OUTPUT_FILETYPE = "webp"
+OUTPUT_FILETYPE = "jpeg"
 IMG_FM = (".tif", ".tiff", ".jpg", ".jpeg", ".gif", ".png", ".eps",
           ".raw", ".cr2", ".nef", ".orf", ".sr2", ".bmp", ".ppm", ".heif", ".webp", "avif")
 NO_ALPHA_FILETYPES = ("jpg", "jpeg")
