@@ -3,6 +3,29 @@ title: 'embarassing linux thoughts'
 date: 2025-10-08
 ---
 
+<!--### my setup (2025-12-10)
+fedora sway
+  why fedora
+  fedora vs arch
+  why this spin
+niri wm
+  history with hyprland
+theming
+  colour
+waybar (via systemd)
+  why not a shell
+wpaperd
+sddm
+  why not something else
+tofi (and its tweaks)
+alacritty
+  starship
+dunst
+  bemoji
+librewolf
+zed
+micro-->
+
 ### cobalt-web (2025-10-08)
 this sort of deserves to be in its own self-hosted section, but i want to get it out now instead of waiting for that to happen. cobalt is a very slick website that packages up a bunch of media download tools into a simple search-like interface. it's very convenient, and while they say they don't save any of your searches (and they probably don't) you can be certain of the fact by just self-hosting the thing. unfortunately, about a year ago (~ september 2024) they took the web-element of the self-hosted program offline, saying that you can just link your own api to their website, or self-host the website yourself with a reverse proxy. i've read through the discussion and i _sort of_ get it, but i also don't know why they would say "there is a problem with the way the website is served via docker, but instead of fixing it, or highlighting that it's an issue, we're just going to undermine the point of self-hosting and remove the functionality altogether". bizarre. anyway, here's my current cobalt docker-compose. it uses cobalt 7, which still provides a webapp. i'm going to do some more digging and see if i can use the most recent version of the api with the old web container, but i haven't got that quite work yet. i also probably don't need to have watchtower on it anymore since i'm suppressing updateds, but i want to keep it there for when i get the aforementioned api working. also also, i'm shifting the port of the api because portainer uses 9000 by default. i should probably just get rid of portainer though. make sure to update the urls with your server's local ip!
 
