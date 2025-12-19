@@ -20,3 +20,6 @@ awesome big chunky noodles, 2 minute cook in boiling water. the neoguri naruto a
 
 standard thinner noodles in a square brick. a really distinct smokey essence which was interesting, but nothing else that really stands out flavour-wise. the noodles cook in 1.5 minutes in the microwave. toppings are some distinctly sand spring onions and distinctly less sad little meat bits. the spice level teeters on my limit for comfort but is still totally fine  
 🌕🌕🌕🌑🌑
+
+<!-- ### nissin black garlic oil tonkotsu flavour
+holy shiiiiit. these are so fucking good. the noodles are fried a little more than normal and really hold some resistance even when you boil the shit out of them in the microwave. the flavour sachet turns into a legitimately tasty soup with some unexpected texture, and while the garlic oil is a bit lacking volume-wise, the flavour very much comes through. these are also really cheap, the same price as the neoguri seafood ones i had a couple of months back! -->
