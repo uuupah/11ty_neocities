@@ -11,6 +11,7 @@ date: 2025-10-13
 </div>
 
 {% set images = [
+    "/_assets/img/my_art_2025/rikeandfig.png",
     "/_assets/img/my_art_2025/ammiss3.png",
     "/_assets/img/my_art_2025/mikumikubomb.png",
     "/_assets/img/my_art_2025/ammiss2.png",
