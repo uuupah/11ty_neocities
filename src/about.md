@@ -3,4 +3,4 @@ title: about
 layout: layout/base.njk
 ---
 
-heya 👋 this is my homepage.
+my name is uuupah! i live in australia and i'm non-binary.
