@@ -22,6 +22,7 @@ title: links
 
 ### my pals' sites
 - [scylla.neocities.org/](https://scylla.neocities.org)
+- [garthrey.neocities.org/](https://garthrey.neocities.org)
 - [tanami.org/](https://tanami.org/)
 - [tamadanick.neocities](https://tamadanick.neocities.org/)
 - [lucien.contact/](https://lulu.contact/)
