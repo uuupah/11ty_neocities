@@ -4,7 +4,7 @@ date: 2026-01-11
 ---
 {% blogImage "/_assets/img/uninstall_spotify/me.webp", 360, false %}
 
-getting off of spotify is finally trendy. there a couple of ways you can go about it - swap to tidal, swap to apple music, swap to the youtube premium account that you're forced to pay for to use youtube, buy a bunch of cds, dig up your ipod from high school (or god forbid, primary school (or god forbid, your parents hand-me-down)). these solutions are all fine, but what if you could spend a bunch of extra money and add loads more complexity to the process?
+getting off of spotify is finally trendy. there a couple of ways you can go about it - swap to tidal, swap to apple music, swap to the youtube premium account that you're forced to pay for to use youtube, buy a bunch of cds, dig up your ipod from high school (or god forbid, primary school (or god forbid, your parents' hand-me-downs)). these solutions are all fine, but what if you could spend a bunch of extra money and add loads more complexity to the process?
 
 this is how i got off of streaming services, but not necessarily how _you_ should get off of streaming services. my approach was fueled by:
 1. understanding linux pretty well
@@ -16,7 +16,7 @@ i'm going to avoid giving you a big meandering tale, but i want to give a little
 
 ## the not so good
 ### streaming
-i tried both apple music and tidal back in 2023 and didnt love them. apple music is potentially really good if you have an iphone, but it was laggy and buggy on android and also didnt have an incredible range. tidal also didnt super impress me, but my partner uses it now and seems to like it. if spotify got one thing right, it's dumping their money into ux designers to make an app that is really useable and integrates well with everything else. when i was checking out the alternatives, they didnt feel anywhere close.
+i tried both apple music and tidal back in 2023 and didnt love them. apple music is potentially really good if you have an iphone, but it was laggy and buggy on android and also didnt have an incredible range. tidal also didnt super impress me, but my partner uses it now and seems to like it. if spotify got one thing right, it was dumping their money into ux designers to make an app that is really useable with great integration. when i was checking out the alternatives, they didnt feel anywhere close.
 
 i already had a bunch of music on bandcamp, but i wanted all of my music to be in one place, and jumping to bandcamp exclusively would give me a fairly limited library. also not an amazing solution
 
@@ -24,7 +24,7 @@ i already had a bunch of music on bandcamp, but i wanted all of my music to be i
 i've talked about [my ipod classic gen 6](/blog/2024-05-30#ipod) and [walkman nw-a105](/blog/2025-04-11#walkman) plenty before. neither were particularly great options. the walkman is a great idea but a terrible battery hog, and the ipod is fun to use but wasnt very responsive and is equipped with a less than optimal headphone jack. i might have had a better experience if i'd got the gen 7 ipod classic, but this was already such an incredibly expensive experience that i have no interest
 
 ### software
-i've tried every gui linux music player under the sun and ive been consistent shocked at how crap most of them are. i know these are open source and made by the community, but so is musicbee and that program is great. i actually still haven't tried out mpd despite it being considered the endgame solution by most linux people but im sure its swell
+i've tried every gui linux music player under the sun and ive been consistently shocked at how crap most of them are. i know these are open source and made by the community, but so is musicbee and that program is great. i actually still haven't tried out mpd despite it being considered the endgame solution by most linux people but im sure its swell
 
 ## the good (which is to say, my current solution)
 ### a small computer that sits in the corner of my kitchen next to the router and runs 24/7
