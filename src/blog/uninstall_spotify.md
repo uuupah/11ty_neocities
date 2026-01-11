@@ -1,6 +1,6 @@
 ---
 title: "how i dropped spotify (but not necessarily how _you_ should drop spotify)"
-date: 2026-01-11
+date: 2026-01-10
 ---
 {% blogImage "/_assets/img/uninstall_spotify/me.webp", 360, false %}
 
