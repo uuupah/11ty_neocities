@@ -3,12 +3,7 @@ title: "my art 2025"
 date: 2025-10-13
 ---
 
-[last year ==>](/art/my-art-2024)
-
-<script src="https://gusbus.space/smallweb-subway.js/doodlecrew.js"></script>
-<div class="smallweb-subway-handler">
-    <smallweb-subway-doodlecrew></smallweb-subway-doodlecrew>
-</div>
+[<== next year](/art/my-art-2026) // [last year ==>](/art/my-art-2024)
 
 {% set images = [
     "/_assets/img/my_art_2025/rikeandfig.png",
