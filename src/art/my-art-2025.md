@@ -6,6 +6,7 @@ date: 2025-10-13
 [<== next year](/art/my-art-2026) // [last year ==>](/art/my-art-2024)
 
 {% set images = [
+    "/_assets/img/my_art_2025/litha.webp",
     "/_assets/img/my_art_2025/rikeandfig.png",
     "/_assets/img/my_art_2025/ammiss3.png",
     "/_assets/img/my_art_2025/mikumikubomb.png",
