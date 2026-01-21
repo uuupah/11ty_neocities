@@ -11,7 +11,7 @@ my name is uuupah. im a twenty-something non-binary (they/them) holy being compo
 
 <div class="paragraph-deparagrapher">
 
-  #### [🖌️ my art 🖼️](/art/my-art-2025/)
+  #### [🖌️ my art 🖼️](/art/my-art-2026/)
   #### [⚠️ newest post! ⚠️]({{collections.post[collections.post.length - 1].filePathStem}})
   #### thoughts and feelings
   {% for post in collections['blog'] | reverse | limit(5) %}

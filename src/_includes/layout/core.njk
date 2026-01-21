@@ -41,10 +41,40 @@
       </div>
       <footer>
         <hr/>
-        {% include 'partials/footer.njk' %}
+        🦶 hosted on <a href="https://neocities.org/">neocities</a> (<a href="https://neocities.org/site/uuupah">me</a>) (<a href="https://github.com/uuupah/11ty_neocities">source</a>) // credits: <a href="https://twitter.com/Neverlessart">profile pic</a> // <a href="https://mini-moss.tumblr.com/post/713998331023654912/mini-moss-respite-twitter-instagram-print">banner image</a> // <a href="https://www.deviantart.com/dav-19/art/Pixel-Yui-326815301">sidebar image<a/> 🦶
       </footer>
     </main>
-    <aside>{% include 'partials/sidebar.njk' %}</aside>
+    <aside>
+      <a href="/" class="profile-img-link">
+          <img class="profile-img" src="/_assets/img/dp/0.jpg" alt=""/>
+      </a>
+      <div class="sidebar-contents">
+          <nav>
+            <a href="/">/</a>
+            <a href="/sitemap/">/sitemap</a>
+            <a href="/links/">/links</a>
+            <a href="/journal_html/">/journal</a>
+            <a href="/feed.xml">/rss</a>
+            <a href="https://uuupah.atabook.org">/guestbook</a>
+            <a href="/credits">/credits</a>
+            {# <span>
+              <button class="smallweb-subway" onclick="goToPrev()">&lt;==</button>
+              smallweb subway
+              <button class="smallweb-subway" onclick="goToNext()">==&gt;</button>
+            </span> #}
+            <span>
+              <a href="https://hotlinewebring.club/uuupah/previous">&lt;==</a>
+              <a href="https://hotlinewebring.club/">hotline webring</a>
+              <a href="https://hotlinewebring.club/uuupah/next">==&gt;</a>
+            </span>
+          </nav>
+          <img src="/_assets/img/143.gif" alt=""/>
+      </div>
+
+      {# <script>
+          document.getElementById("profile-image").src="/_assets/img/dp/" + Math.floor(Math.random()*3) + ".jpg";
+      </script> #}
+    </aside>
   </div>
 </div>
 </body>
