@@ -29,4 +29,3 @@ title: links
 - [gusbus.space/](https://gusbus.space)
 - [feuer-in-soho.art/](https://feuer-in-soho.art/)
 - [doodledave.neocities](https://davethedoodler.neocities.org/)
-<!-- - [snailcomic.neocities.org/](https://snailcomic.neocities.org/) -->

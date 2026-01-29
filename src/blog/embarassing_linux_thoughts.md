@@ -1,6 +1,6 @@
 ---
 title: 'embarassing linux thoughts'
-date: 2025-10-08
+date: 2026-01-29
 ---
 
 <!--### my setup (2025-12-10)
@@ -26,10 +26,23 @@ librewolf
 zed
 micro
 
-PROTON_LOGS=1 %command% is super fucking useful for figuring out proton bugs
-
-wine does not like ntfs - probably just suck it up and set your secondary drives to exf
 -->
+
+### steam on fedora (2026-01-29)
+steam continues to be a bit inconsistent and sometimes fails to start on my fedora wayland install, but so far the best results have come from updating the steam desktop file (which you can find with the command `locate steam.desktop`), changing the exec line to:
+
+`Exec=/usr/bin/steam --disable-gpu --disable-gpu-compositing --disable-gpu-sandbox --in-process-gpu %U`
+
+this stops hardware acceleration from kicking in, which can sometimes cause issues with amd drivers. hilariously, i'm yet to have any gpu issues with a game itself, just the program that runs the games
+
+### drive format and proton quirks (2026-01-29)
+i've set up quite a few multi-drive linux devices with home servers / backup servers, but i've found file permissions really annoying. your server is a media device and you just have a second drive to hold music and videos and the like, formatting it in ntfs is a great way to leapfrog the problem. it's less secure, but there isnt any code running on the drive, and if someone gets at your movies then who really cares
+
+i learned pretty quickly that this line of thinking doesnt work for my home pc because my other drives are meant to be used for storing steam games, but wine looks at its config files (stored with the game) and confirms that theyre not owned by root before starting. ntfs just shows every file as owned by root but with 777 permissions, so wine (and therefore proton) will complain, just silently, with no error message 
+
+i figured this out using `PROTON_LOGS=1 %command%` in the launch options for the specific game, which is actually extremely useful for figuring out other bugs and led me to this precise error
+
+the upshot is to just suck it up and learn how to deal with ext4 and file permissions on your secondary drives, unless you need to share that drive with a windows install
 
 ### cobalt-web (2025-10-08)
 this sort of deserves to be in its own self-hosted section, but i want to get it out now instead of waiting for that to happen. cobalt is a very slick website that packages up a bunch of media download tools into a simple search-like interface. it's very convenient, and while they say they don't save any of your searches (and they probably don't) you can be certain of the fact by just self-hosting the thing. unfortunately, about a year ago (~ september 2024) they took the web-element of the self-hosted program offline, saying that you can just link your own api to their website, or self-host the website yourself with a reverse proxy. i've read through the discussion and i _sort of_ get it, but i also don't know why they would say "there is a problem with the way the website is served via docker, but instead of fixing it, or highlighting that it's an issue, we're just going to undermine the point of self-hosting and remove the functionality altogether". bizarre. anyway, here's my current cobalt docker-compose. it uses cobalt 7, which still provides a webapp. i'm going to do some more digging and see if i can use the most recent version of the api with the old web container, but i haven't got that quite work yet. i also probably don't need to have watchtower on it anymore since i'm suppressing updateds, but i want to keep it there for when i get the aforementioned api working. also also, i'm shifting the port of the api because portainer uses 9000 by default. i should probably just get rid of portainer though. make sure to update the urls with your server's local ip!
