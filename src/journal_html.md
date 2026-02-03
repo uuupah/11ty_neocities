@@ -2,6 +2,14 @@
 layout: layout/base.njk
 title: journal.html
 ---
+**2026.02.03**
+in progress!!  
+\- eleventy shortcode to stop youtube embeds from preloading which also behaveswith my rss preprocess  
+\- linux colour scripting blogpost  
+\- docker blogpost  
+\- final fantasy x blogpost  
+\- thoughts on protesting and also growing up  
+\- more structured cooking thoughts
 
 **2025.05.15**  
 holy fuck i havent done one of these for a while. i've been thinking of slightly changing up the site because i love how moody and cool [mental-labour.neocities.org/](https://mental-labour.neocities.org/) looks and reads, but i want to balance that with the cosy feel my page currently has. maybe i'll take notes and adjust my writing style? i think up to this point i've been trying to make it read more lighthearted but ive also maybe overcorrected lol. i'm also not entirely 110% happy with the writing ive been doing but its almost like its a skill that people go to school for

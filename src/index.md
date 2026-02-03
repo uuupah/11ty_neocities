@@ -27,5 +27,5 @@ my name is uuupah. im a twenty-something non-binary (they/them) holy being compo
   #### [🗺️ sitemap 🌏](/sitemap/)
   #### [changelog and other little cute thoughts](/journal_html/)
   #### [miscellania](/misc/)
-
+  
 </div>
