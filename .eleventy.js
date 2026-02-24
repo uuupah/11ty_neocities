@@ -201,6 +201,13 @@ module.exports = async function (eleventyConfig) {
     },
   );
 
+  eleventyConfig.on("eleventy.before", ({ runMode }) => {
+    // Set the environment variable
+    if (runMode === "serve" || runMode === "watch") {
+      process.env.BUILD_DRAFTS = true;
+    }
+  });
+
   eleventyConfig.addFilter("rssCleanup", function (content) {
     const dom = new JSDOM(content);
     const doc = dom.window.document;
@@ -236,13 +243,6 @@ module.exports = async function (eleventyConfig) {
 
     // Serialize and return the modified HTML
     return dom.serialize();
-  });
-
-  eleventyConfig.on("eleventy.before", ({ runMode }) => {
-    // Set the environment variable
-    if (runMode === "serve" || runMode === "watch") {
-      process.env.BUILD_DRAFTS = true;
-    }
   });
 
   return {
