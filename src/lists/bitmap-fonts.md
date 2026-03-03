@@ -9,6 +9,7 @@ https://github.com/bluescan/proggyfonts
 https://www.dcmembers.com/jibsen/download/61/  
 https://github.com/romeovs/creep?tab=readme-ov-file  
 https://www.lexaloffle.com/bbs/?tid=3760  
+https://somepx.itch.io/ somepx pixel fonts
 
 <style>
   @font-face {
