@@ -1,6 +1,6 @@
 ---
 title: 'embarassing linux thoughts'
-date: 2026-01-29
+date: 2026-03-06
 ---
 
 <!--### my setup (2025-12-10)
@@ -34,6 +34,10 @@ steam continues to be a bit inconsistent and sometimes fails to start on my fedo
 `Exec=/usr/bin/steam --disable-gpu --disable-gpu-compositing --disable-gpu-sandbox --in-process-gpu %U`
 
 this stops hardware acceleration from kicking in, which can sometimes cause issues with amd drivers. hilariously, i'm yet to have any gpu issues with a game itself, just the program that runs the games
+
+**update!**
+
+i've also found that some xwayland weirdness from niri can also cause it to not start. try running `wl-copy --clear` if steam isn't starting. yep, it's that stupid
 
 ---
 

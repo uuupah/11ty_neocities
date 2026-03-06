@@ -3,6 +3,8 @@ title: "bitmap fonts"
 draft: true
 ---
 
+i looooove bitmap / aliased fonts so much. it's definitely cosplaying a little bit but i use them wherever possible in my software configurations
+
 https://github.com/the-moonwitch/Cozette  
 https://www.unifoundry.com/unifont/index.html  
 https://github.com/bluescan/proggyfonts  
