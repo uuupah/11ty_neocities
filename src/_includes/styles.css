@@ -448,7 +448,8 @@ footer {
 .youtube-embed-cover-image {
   border: 0;
   max-width: 560px;
-  height: 360px;
+  min-width: 315px;
+  height: 315px;
 }
 
 .youtube-embed-iframe {

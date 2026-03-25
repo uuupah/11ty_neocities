@@ -53,8 +53,9 @@ module.exports = async function (eleventyConfig) {
       );
 
       if (!id) {
+        // wtf this shit isnt picking up "playlist"
         id = link.match(
-          /.*(?:youtu.be\/|v\/|u\/\w\/|playlist\?list=)([^#\&\?]*).*/,
+          /.*(?:youtu.be\/|v\/|u\/\w\/|playlist\/|watch\?list=)([^#\&\?]*).*/,
         );
         if (id) {
           isList = true;
