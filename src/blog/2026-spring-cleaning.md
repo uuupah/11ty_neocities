@@ -16,13 +16,13 @@ woah! there are three good albums in my mobile browser tabs. how convenient!
 i feel like this kind of took the internet by storm and im not really pushing the limits of cool underground and unexpected albums, but if you havent heard this set then you really should. this band is seriously groovy and i'm really looking forward to their full release on bandcamp 
 
 ### la lom - la lom
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=OLAK5uy_mube3-MbzORzL1EtOLkyWCH6TaHaEdWVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtubetile "https://www.youtube.com/watch?v=OLAK5uy_mube3-MbzORzL1EtOLkyWCH6TaHaEdWVk", "la lom by la lom", "https://i.ytimg.com/vi_webp/_aXxqdO3XfQ/maxresdefault.webp" -%}
 
 honestly, as i sit here writing and in a not amazing mood, this album feels a little bit too saccharine for me. i think i jumped on it because cafe tropical, the final track in the ep, reminds me a bit of [chicha libre's album](/blog/2025/#chicha-libre-sonido-amazonica) from last year which is extremely dear to me
 
 ### art of noise - the seduction of claude debussy
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Plv_w98ymwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtubetile "https://www.youtube.com/watch?v=Plv_w98ymwk", "the seduction of claude debussy by art of noise" -%}
 
 this one's a bit better. i caught one of these tracks at a venue and checked out the absolute breakneck experience of an album. it feels like it's courting the atmospheric dnb genre, but is really just an experiment from a bunch of really talented artists. also, the starts, stops, swings, thrumming tones, harps and keys remind me a bit of the final fantasy xiii soundtrack. shameful
 
@@ -45,7 +45,7 @@ this manga has honestly been the only thing keeping me sane recently. i've found
 
 ## games
 ### orbitals
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/bvMDXtgz1bo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtubetile "https://www.youtube.com/watch?v=bvMDXtgz1bo", "orbitals announcement trailer" -%}
 
 i uh, don't have switch 2. and i wont be buying one any time soon. but i am absolutely enamored with the aesthetics of this game. it's probably one of the first times ive seen the 3d to 2d effect look quite this convincing, and i'll bet sitting on a couch you really wouldnt be able to tell
 
@@ -86,6 +86,6 @@ i normally don't fuck around with my knives too much - i'm of the opinion that b
 
 ### extra
 ## chop suey by torwai
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ru4aqzjvplw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtubetile "https://www.youtube.com/watch?v=Ru4aqzjvplw", "system of a down - chop suey [cover by torwai]" -%}
 
 look, we've already gone over the limit of how many youtube embeds you can reasonably put on a single page. it's fucked. your load time is toast. this video is good though

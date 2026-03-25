@@ -461,8 +461,12 @@ footer {
 .youtube-embed-message {
   position: absolute;
   color: white;
-  bottom: 10px;
-  right: 7px;
+  bottom: 4px;
+  right: 0px;
+  padding: 5px;
+  box-sizing: border-box;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-top-left-radius: 4px;
 }
 
 .play-triangle {
