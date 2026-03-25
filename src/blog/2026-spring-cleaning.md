@@ -11,7 +11,7 @@ if you didnt read my last blogpost, dont! it's depressing! and if you did, i sti
 woah! there are three good albums in my mobile browser tabs. how convenient!
 
 ### angine de poitrine
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0Ssi-9wS1so" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{% youtubetile "https://www.youtube.com/watch?v=0Ssi-9wS1so", "angine de poitrine" -%}
 
 i feel like this kind of took the internet by storm and im not really pushing the limits of cool underground and unexpected albums, but if you havent heard this set then you really should. this band is seriously groovy and i'm really looking forward to their full release on bandcamp 
 
@@ -30,7 +30,7 @@ this one's a bit better. i caught one of these tracks at a venue and checked out
 ### my lesbian experience with loneliness
 {% blogImage "/_assets/img/blog_2026/mylesbianexperience.webp", 321, false %}  
 
-i first read this at a comic meetup with some of my friends. its unbelievably raw and a big soul crushing but also super genuine as a result. someone describing their fears and difficult experiences is an almost voyeuristic experience that i felt a bit guilty about, but theres simultaneously a sense of camaraderie with kabi and how she participates in our world. this series has 7 (!) issues, although the friend that shared it with me said that it just gets worse and worse for her 
+i first read this at a comic meetup with some of my friends. its unbelievably raw and a bit soul crushing but also super genuine as a result. someone describing their fears and difficult experiences is an almost voyeuristic experience that i felt a bit guilty about, but theres simultaneously a sense of camaraderie with kabi and how she participates in our world. this series has 7 (!) issues, although the friend that shared it with me said that it just gets worse and worse for her 
 
 ### sever and pierce
 {% blogImage "/_assets/img/blog_2026/severandpierce.webp", 360 %}

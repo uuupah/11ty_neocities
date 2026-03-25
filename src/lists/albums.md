@@ -138,12 +138,3 @@ date: 2023-11-23
 <hr>
 
 🚧👷‍♂️ this page is still in construction! watch this space! 👷‍♀️🚧
-
-<script>
-    document.querySelectorAll('.hide').forEach(item => {
-      item.addEventListener('click', element => {
-        element.currentTarget.style.display = "none";
-        element.currentTarget.nextElementSibling.style.display = "block";
-      })
-    })
-</script>

@@ -71,9 +71,14 @@
           <img src="/_assets/img/143.gif" alt=""/>
       </div>
 
-      {# <script>
-          document.getElementById("profile-image").src="/_assets/img/dp/" + Math.floor(Math.random()*3) + ".jpg";
-      </script> #}
+      <script>
+        document.querySelectorAll('.hide').forEach(item => {
+          item.addEventListener('click', element => {
+            element.currentTarget.style.display = "none";
+            element.currentTarget.nextElementSibling.style.display = "block";
+          })
+        })
+      </script>
     </aside>
   </div>
 </div>

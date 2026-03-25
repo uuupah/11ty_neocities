@@ -67,6 +67,7 @@ summary {
   color: var(--accent);
   text-decoration: underline;
   transition: transform 0.07s ease-out;
+  transform: translate(0, 0); /* overlays don't work properly without this */
 }
 
 a,
@@ -442,6 +443,42 @@ footer {
   width: 100%;
   aspect-ratio: 1;
   display: none;
+}
+
+.youtube-embed-cover-image {
+  border: 0;
+  width: 560px;
+  aspect-ratio: 1.777777; /* 16 / 9 */
+}
+
+.youtube-embed-iframe {
+  border: 0;
+  width: 560px;
+  aspect-ratio: 1.777777;
+  display: none;
+}
+
+.youtube-embed-message {
+  position: absolute;
+  color: white;
+  bottom: 10px;
+  right: 7px;
+}
+
+.play-triangle {
+  width: 50px;
+  height: 50px;
+  background-color: white; /* Adjust color as needed */
+  clip-path: polygon(0% 0%, 0% 100%, 100% 50%);
+  cursor: pointer;
+}
+
+.play-triangle-shadow-wrapper {
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.5));
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 
 .list-formatting p {

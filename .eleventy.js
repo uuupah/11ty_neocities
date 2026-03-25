@@ -41,6 +41,26 @@ module.exports = async function (eleventyConfig) {
     },
   );
 
+  // <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Plv_w98ymwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  // <iframe class="album-tile-iframe" name="${slugify(id)}" src="about:blank" seamless></iframe>
+
+  eleventyConfig.addShortcode("youtubetile", function (link, title) {
+    const pattern =
+      /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/;
+    id = link.match(pattern)[1];
+
+    return `<div>
+  <a class="hide youtube-embed-thumbnail" href="https://www.youtube-nocookie.com/embed/${id}" target="${slugify(link)}">
+    <div class="play-triangle-shadow-wrapper">
+      <div class="play-triangle"></div>
+    </div>
+    <span class="youtube-embed-message">[click here to load the youtube video]</span>
+    <img class="youtube-embed-cover-image" src="https://i.ytimg.com/vi/${id}/maxresdefault.jpg">
+  </a>
+  <iframe rss-link="https://www.youtube-nocookie.com/embed/${id}" rss-image="https://i.ytimg.com/vi/${id}/maxresdefault.jpg" rss-linkname="title" class="youtube-embed-iframe" name="${slugify(link)}" src="about:blank" seamless></iframe>
+  </div>`;
+  });
+
   eleventyConfig.addShortcode(
     "listentry",
     function (title, link, image, video, iframelink, description) {
