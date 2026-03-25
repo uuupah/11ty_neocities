@@ -16,7 +16,7 @@ woah! there are three good albums in my mobile browser tabs. how convenient!
 i feel like this kind of took the internet by storm and im not really pushing the limits of cool underground and unexpected albums, but if you havent heard this set then you really should. this band is seriously groovy and i'm really looking forward to their full release on bandcamp 
 
 ### la lom - la lom
-{% youtubetile "https://www.youtube.com/watch?v=OLAK5uy_mube3-MbzORzL1EtOLkyWCH6TaHaEdWVk", "la lom by la lom", "https://i.ytimg.com/vi_webp/_aXxqdO3XfQ/maxresdefault.webp" -%}
+{% youtubetile "https://www.youtube.com/playlist?list=OLAK5uy_mube3-MbzORzL1EtOLkyWCH6TaHaEdWVk", "la lom by la lom", "https://i.ytimg.com/vi_webp/_aXxqdO3XfQ/maxresdefault.webp" -%}
 
 honestly, as i sit here writing and in a not amazing mood, this album feels a little bit too saccharine for me. i think i jumped on it because cafe tropical, the final track in the ep, reminds me a bit of [chicha libre's album](/blog/2025/#chicha-libre-sonido-amazonica) from last year which is extremely dear to me
 
@@ -82,7 +82,7 @@ i really really enjoy this pet nat. i dont know if that says something about me,
 
 ### allday goods knives 
 {% blogImage "/_assets/img/blog_2026/allday.webp", 360 %}
-i normally don't fuck around with my knives too much - i'm of the opinion that buying a good knife and sharpening block is almost always the biggest improvement you can have to your kitchen experience (as long as you have the requiste basics of pots and pans and potato peelers and the like) and i dont always trust knives that are a bit too "fun", nor knives that are forgetd in the japanese style with english where the maker's mark should be. but i'm willing to make an exception because these ones look so damn cool. the blade is made in germany which is a good start, and hopefully one day i'll snag one and be able to comment on its actualy quality
+i normally don't fuck around with my knives too much - i'm of the opinion that buying a good knife and sharpening block is almost always the biggest improvement you can have to your kitchen experience (as long as you have the requiste basics of pots and pans and potato peelers and the like) and i dont always trust knives that are a bit too "fun", nor knives that are forged in the japanese style with english text where the maker's mark should be. but i'm willing to make an exception because these ones look so damn cool. the blade is made in germany which is a good start, and hopefully one day i'll snag one and be able to comment on its actualy quality
 
 ### extra
 ## chop suey by torwai

@@ -47,26 +47,30 @@ module.exports = async function (eleventyConfig) {
       var isList = false;
 
       // hs 2026-03-25 this is uber ugly but allows for lists to be brought in - clean this up later
-      if (
-        (id = link.match(
-          /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?[v]=)([^#\&\?]*).*/,
-        )[1])
-      ) {
+
+      id = link.match(
+        /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?v=)([^#\&\?]*).*/,
+      );
+
+      if (!id) {
         id = link.match(
-          /.*(?:youtu.be\/|v\/|u\/\w\/|embed\/|watch\?[^list$]=)([^#\&\?]*).*/,
-        )[1];
+          /.*(?:youtu.be\/|v\/|u\/\w\/|playlist\?list=)([^#\&\?]*).*/,
+        );
         if (id) {
           isList = true;
-        } else
-          return `<iframe src="https://www.youtube-nocookie.com/embed/${id}"></iframe>`;
+        } else return `<iframe></iframe>`;
       }
 
       thumbnailurl =
-        thumbnailurl || `https://i.ytimg.com/vi/${id}/maxresdefault.jpg`;
+        thumbnailurl || `https://i.ytimg.com/vi/${id[1]}/maxresdefault.jpg`;
 
       srcurl = isList
-        ? `https://www.youtube-nocookie.com/embed/videoseries?list=${id}`
-        : `https://www.youtube-nocookie.com/embed/${id}`;
+        ? `https://www.youtube-nocookie.com/embed/videoseries?list=${id[1]}`
+        : `https://www.youtube-nocookie.com/embed/${id[1]}`;
+
+      rssurl = isList
+        ? `https://www.youtube.com/playlist?list=${id[1]}`
+        : `https://www.youtube.com/watch?v=${id[1]}`;
 
       return `<div>
   <a class="hide youtube-embed-thumbnail" href="${srcurl}" target="${slugify(link)}">
@@ -76,7 +80,7 @@ module.exports = async function (eleventyConfig) {
     <span class="youtube-embed-message">[click here to load the youtube video]</span>
     <img class="youtube-embed-cover-image" src="${thumbnailurl}">
   </a>
-  <iframe rss-link="${srcurl}" rss-image="${thumbnailurl}" rss-linkname="${title}" class="youtube-embed-iframe" name="${slugify(link)}" src="about:blank" seamless></iframe>
+  <iframe rss-link="${rssurl}" rss-image="${thumbnailurl}" rss-linkname="${title}" class="youtube-embed-iframe" name="${slugify(link)}" src="about:blank" seamless></iframe>
   </div>`;
     },
   );
@@ -221,6 +225,10 @@ module.exports = async function (eleventyConfig) {
   eleventyConfig.addFilter("rssCleanup", function (content) {
     const dom = new JSDOM(content);
     const doc = dom.window.document;
+
+    doc
+      .querySelectorAll(".youtube-embed-thumbnail")
+      .forEach((el) => el.remove());
 
     // Process and replace all <iframe> elements
     const iframes = Array.from(doc.querySelectorAll("iframe"));
