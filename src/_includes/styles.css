@@ -447,8 +447,8 @@ footer {
 
 .youtube-embed-cover-image {
   border: 0;
-  width: 560px;
-  aspect-ratio: 1.777777; /* 16 / 9 */
+  max-width: 560px;
+  height: 360px;
 }
 
 .youtube-embed-iframe {
