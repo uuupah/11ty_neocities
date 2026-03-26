@@ -76,9 +76,9 @@ module.exports = async function (eleventyConfig) {
       return `<div>
   <a class="hide youtube-embed-thumbnail" href="${srcurl}" target="${slugify(link)}">
     <div class="play-triangle-shadow-wrapper">
-      <div class="play-triangle"></div>
+      <div class="play-triangle hide-in-preload"></div>
     </div>
-    <span class="youtube-embed-message">[click here to load the youtube video]</span>
+    <span class="youtube-embed-message hide-in-preload">[click here to load the youtube video]</span>
     <img class="youtube-embed-cover-image" src="${thumbnailurl}">
   </a>
   <iframe rss-link="${rssurl}" rss-image="${thumbnailurl}" rss-linkname="${title}" class="youtube-embed-iframe" name="${slugify(link)}" src="about:blank" seamless></iframe>

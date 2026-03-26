@@ -486,6 +486,10 @@ footer {
   transform: translate(-50%, -50%);
 }
 
+.hide-in-preload {
+  visibility: hidden;
+}
+
 .list-formatting p {
   margin-top: 0;
   margin-bottom: 4px;

@@ -72,6 +72,10 @@
       </div>
 
       <script>
+        document.querySelectorAll('.hide-in-preload').forEach(element => {
+          element.classList.toggle('hide-in-preload');
+        })
+
         document.querySelectorAll('.hide').forEach(item => {
           item.addEventListener('click', element => {
             element.currentTarget.style.display = "none";
