@@ -447,14 +447,15 @@ footer {
 
 .youtube-embed-cover-image {
   border: 0;
-  max-width: 560px !important;
+  width: 560px;
   height: auto;
 }
 
 .youtube-embed-iframe {
   border: 0;
+  max-width: 100%;
   width: 560px;
-  /*aspect-ratio: 1.777777;*/
+  aspect-ratio: 1.777777;
   display: none;
 }
 
