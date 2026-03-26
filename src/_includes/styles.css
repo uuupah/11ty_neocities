@@ -276,7 +276,7 @@ footer {
   .sidebar-contents {
     border-radius: 0;
     width: 100%;
-    z-index: 0;
+    z-index: -1;
   }
 
   .sidebar-contents > img {
@@ -447,15 +447,14 @@ footer {
 
 .youtube-embed-cover-image {
   border: 0;
-  max-width: 560px;
-  min-width: 315px;
-  height: 315px;
+  max-width: 560px !important;
+  height: auto;
 }
 
 .youtube-embed-iframe {
   border: 0;
   width: 560px;
-  aspect-ratio: 1.777777;
+  /*aspect-ratio: 1.777777;*/
   display: none;
 }
 
