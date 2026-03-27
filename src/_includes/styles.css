@@ -276,7 +276,7 @@ footer {
   .sidebar-contents {
     border-radius: 0;
     width: 100%;
-    z-index: -1;
+    z-index: 0;
   }
 
   .sidebar-contents > img {
@@ -296,6 +296,7 @@ footer {
     /* width: min-content; */
   }
 
+  aside > a,
   aside > a:hover {
     transform: none;
   }
