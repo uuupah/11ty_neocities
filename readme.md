@@ -1,4 +1,4 @@
-# i've moved this to codeberg! i will soon be doing the same with all of my repositories
+# i've moved this to codeberg - https://codeberg.org/uuupah/11ty_blog! i will soon be doing the same with all of my repositories
 
 a personal neocities page using 11ty as a static site generator. deploys to https://uuupah.neocities.org.
 
